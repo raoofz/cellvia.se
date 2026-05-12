@@ -5,6 +5,6 @@
   "type": "commonjs",
   "scripts": {
     "lint": "node tools/check-site.js",
-    "build": "node tools/check-site.js"
+    "build": "node tools/check-site.js && node tools/build-static.js"
   }
 }

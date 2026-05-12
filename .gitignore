@@ -6,6 +6,7 @@ Thumbs.db
 dist/
 build/
 coverage/
+public/
 .env
 .env.*
 !.env.example

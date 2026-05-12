@@ -17,7 +17,8 @@ const banned = [
 function walk(dir) {
   return fs.readdirSync(dir, { withFileTypes: true }).flatMap((entry) => {
     const full = path.join(dir, entry.name);
-    if (entry.isDirectory() && entry.name !== ".git" && entry.name !== "PortableGit") return walk(full);
+    const ignoredDirs = new Set([".git", "PortableGit", "node_modules", "public"]);
+    if (entry.isDirectory() && !ignoredDirs.has(entry.name)) return walk(full);
     if (entry.isFile()) return [full];
     return [];
   });
