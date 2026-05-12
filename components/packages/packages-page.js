@@ -22,10 +22,11 @@
       const purpose = purposeSelect?.value || "";
       const filtered = repo().packages.all().filter((pack) => {
         const text = [pack.name, pack.description, pack.purpose, pack.suitableFor, pack.compatibilityLevel].join(" ").toLowerCase();
+        const level = pack.compatibilityLevel || "";
         const purposeMatch = !purpose
-          || purpose === "popular" && pack.popular
-          || purpose === "first" && pack.firstDelivery
-          || purpose === "extra" && (pack.compatibilityLevel || "").includes("kontroll") || purpose === "extra" && (pack.compatibilityLevel || "").includes("Begränsad");
+          || (purpose === "popular" && pack.popular)
+          || (purpose === "first" && pack.firstDelivery)
+          || (purpose === "extra" && (level.includes("kontroll") || level.includes("Begränsad")));
         return (!query || text.includes(query)) && (!status || pack.compatibilityLevel === status) && purposeMatch;
       });
       setHtml("#packages-grid", filtered.map((pack) => window.CellViaPackageCard.packageCard(pack, repo(), pricing)).join("") + `

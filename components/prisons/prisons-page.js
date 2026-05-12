@@ -20,6 +20,16 @@
     if (regionSelect) regionSelect.innerHTML = `<option value="">Alla regioner</option>${regions.map((region) => `<option>${escapeHtml(region)}</option>`).join("")}`;
     if (categorySelect) categorySelect.innerHTML = `<option value="">Alla produktkategorier</option>${window.CellViaSeed.categories.map((category) => `<option>${escapeHtml(category)}</option>`).join("")}`;
     if (electronicsSelect) electronicsSelect.innerHTML = `<option value="">Elektronik: alla</option><option value="restricted">Kräver kontroll</option>`;
+    if (qs("#prison-rule-foundation")) {
+      setHtml("#prison-rule-foundation", window.CellViaSeed.complianceSources.slice(0, 4).map((source) => `
+        <article>
+          <span class="badge">${escapeHtml(source.type)}</span>
+          <h3>${escapeHtml(source.title)}</h3>
+          <p>${escapeHtml(source.summary)}</p>
+          <a class="text-link" href="${escapeHtml(source.url)}" target="_blank" rel="noreferrer">Visa källa</a>
+        </article>
+      `).join(""));
+    }
 
     function render() {
       const filtered = window.CellViaFilters.filterPrisons(prisons, {
@@ -54,6 +64,7 @@
           <p>${escapeHtml(prison.generalNotes)}</p>
           <p class="legal-note inline">${escapeHtml(window.CellViaSeed.legalNotice)}</p>
           <div class="institutional-note"><strong>Regler kan ändras.</strong><p>${escapeHtml(prison.compatibilityGuidance || window.CellViaSeed.complianceNotice)}</p></div>
+          <div class="institutional-note"><strong>Central regelgrund</strong><p>${escapeHtml(prison.centralRuleSummary || window.CellViaSeed.officialRuleSummary)}</p><p>${escapeHtml(prison.joGuidance || window.CellViaSeed.joPackageSummary)}</p></div>
           <div class="rule-grid">
             <article><h3>Leverans</h3><p>${escapeHtml(prison.deliveryNotes || prison.packagingNotes)}</p></article>
             <article><h3>Packning</h3><p>${escapeHtml(prison.packagingNotes)}</p></article>
@@ -74,6 +85,9 @@
           <div class="mini-grid">${products.map((result) => window.CellViaProductCard.productCard(result, { showActions: false, compact: true })).join("") || "<p>Inga produkter är kopplade ännu.</p>"}</div>
           <h2>Officiell referens</h2>
           <p><a class="text-link" href="${escapeHtml(prison.officialSource)}" target="_blank" rel="noreferrer">${escapeHtml(prison.sourceLabel || "Kriminalvården")}</a></p>
+          <div class="source-list">
+            ${window.CellViaSeed.complianceSources.map((source) => `<a href="${escapeHtml(source.url)}" target="_blank" rel="noreferrer">${escapeHtml(source.type)} · ${escapeHtml(source.title)}</a>`).join("")}
+          </div>
           <p class="small-muted">Senast kontrollerad: ${escapeHtml(prison.lastUpdated)}</p>
           <a class="button primary" href="skapa-paket.html?prison=${prison.id}">Skapa paket för denna anstalt</a>
         </div>

@@ -20,6 +20,16 @@
         </article>
       `).join(""));
     }
+    if (qs("#compliance-rules")) {
+      setHtml("#compliance-rules", window.CellViaSeed.generalRules.map((rule) => `
+        <article>
+          <span class="badge ${window.CellViaFormat.slugify(rule.status)}">${escapeHtml(rule.status)}</span>
+          <h3>${escapeHtml(rule.title)}</h3>
+          <ul>${rule.items.map((item) => `<li>${escapeHtml(item)}</li>`).join("")}</ul>
+          <p>${escapeHtml(rule.note)}</p>
+        </article>
+      `).join(""));
+    }
     if (categorySelect) categorySelect.innerHTML = `<option value="">Alla kategorier</option>${categories.map((category) => `<option>${escapeHtml(category.name || category)}</option>`).join("")}`;
     if (prisonSelect) prisonSelect.innerHTML = `<option value="">Alla anstalter</option>${repo().prisons.all().map((prison) => `<option value="${prison.id}">${escapeHtml(prison.name)}</option>`).join("")}`;
     const packageTags = [...new Set(repo().products.all().flatMap((product) => product.packageTags || []))];

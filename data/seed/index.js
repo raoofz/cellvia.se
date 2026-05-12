@@ -3,6 +3,82 @@ const legalNotice = "Slutlig kontroll och beslut görs alltid av anstalten.";
 const complianceNotice = "Regler kan skilja sig mellan anstalter. Kompatibilitet visas som vägledning, inte som löfte.";
 const packageTrustMessage = "Alla paket packas, kontrolleras och dokumenteras av CellVia innan leverans. Detta minskar risken för fel, förenklar mottagningens kontroll och skapar en tryggare process för både familjen och anstalten.";
 const limitedPublicInfo = "Offentlig information är begränsad. CellVia rekommenderar kontroll direkt med anstalten före leverans.";
+const officialRuleSummary = "Kriminalvården anger att post mellan avsändare och intagen kan granskas. Tidningar och böcker är oftast tillåtna, men fängelset bör kontaktas i förväg. Mat, godis, pengar samt föremål som bedöms äventyra säkerheten eller inte kan kontrolleras eller visiteras ska inte skickas.";
+const joPackageSummary = "JO har 2026 konstaterat att regleringen och den praktiska hanteringen av paket till intagna är otydlig i flera avseenden. CellVia ska därför behandla paketflödet som ett verifieringsflöde, inte som ett löfte om godkännande.";
+
+const complianceSources = [
+  {
+    id: "kv-brev-paket-intagen",
+    type: "Officiell Kriminalvården",
+    title: "Brev och paket till intagen",
+    url: "https://www.kriminalvarden.se/hakte-fangelse-och-frivard/fangelse/kontakta-och-besok-intagen/brev-och-paket-till-intagen/",
+    checkedAt: "2026-05-12",
+    summary: officialRuleSummary
+  },
+  {
+    id: "kv-kontakta-intagen",
+    type: "Officiell Kriminalvården",
+    title: "Kontakta häktad eller intagen",
+    url: "https://www.kriminalvarden.se/kontakt/kontakta-haktad-eller-intagen/",
+    checkedAt: "2026-05-12",
+    summary: "Kriminalvården anger att häkte eller fängelse bestämmer vilka kontakter en häktad eller intagen får ha och att brev och paket kan vara ett sätt att hålla kontakt."
+  },
+  {
+    id: "jo-1899-2025",
+    type: "JO-beslut",
+    title: "Om Kriminalvårdens hantering av paket till intagna",
+    url: "https://www.jo.se/besluten/om-kriminalvardens-hantering-av-paket-till-intagna/",
+    checkedAt: "2026-05-12",
+    summary: joPackageSummary
+  },
+  {
+    id: "jo-7464-2019",
+    type: "JO-praxis",
+    title: "Paket vid utlämningsställe och krav på kännedom om innehåll",
+    url: "https://www.jo.se/app/uploads/resolve_pdfs/2052726_1899-2025.pdf",
+    checkedAt: "2026-05-12",
+    summary: "JO hänvisar i 2026 års beslut till dnr 7464-2019 och uttalar att det inte kan krävas att intagna alltid på förhand vet vad ett paket innehåller för att få ta emot det."
+  },
+  {
+    id: "kvfs-2011-1",
+    type: "Föreskrift",
+    title: "KVFS 2011:1 / FARK Fängelse",
+    url: "https://lagen.nu/kvfs/2011:1",
+    checkedAt: "2026-05-12",
+    summary: "Föreskrifter och allmänna råd för fängelse reglerar bl.a. personliga tillhörigheter, försändelser och kontrollåtgärder. Föreskrifter är bindande, allmänna råd vägleder tillämpningen."
+  }
+];
+
+const generalRules = [
+  {
+    id: "usually-allowed",
+    title: "Ofta möjliga efter kontroll",
+    status: "Kan vara tillåten",
+    items: ["Tidningar", "Böcker", "Brev", "Teckningar", "Enkla dokument"],
+    note: "Kriminalvården anger att tidningar och böcker oftast är tillåtna, men rekommenderar kontakt med fängelset i förväg."
+  },
+  {
+    id: "not-send",
+    title: "Ska inte skickas",
+    status: "Inte tillåten",
+    items: ["Mat", "Godis", "Pengar"],
+    note: "Kriminalvården anger uttryckligen att mat, godis och pengar inte får skickas till intagna i fängelse."
+  },
+  {
+    id: "security-review",
+    title: "Avvisas vid säkerhetsrisk",
+    status: "Kräver kontroll",
+    items: ["Föremål som inte kan kontrolleras", "Föremål som inte kan visiteras", "Föremål som bedöms äventyra säkerheten"],
+    note: "Det är fängelset eller häktet som gör den slutliga bedömningen."
+  },
+  {
+    id: "jo-process",
+    title: "Paketflödet är praktiskt känsligt",
+    status: "Behöver verifieras",
+    items: ["Förhandshemställan kan förekomma", "Utlämningsställe kan skapa praktiska problem", "Innehåll kan kvarhållas eller omhändertas enligt förutsättningar"],
+    note: "JO har pekat på otydlig reglering och praktiska problem. CellVia bör därför dokumentera, kontrollera och kommunicera försiktigt."
+  }
+];
 
 const categories = [
   "Färdiga paket",
@@ -124,6 +200,9 @@ function prisonRecord([id, name, city, region]) {
     riskyProducts: ["trådlösa hörlurar", "lösa batterier", "glasförpackning", "elektronik", "stark parfym"],
     officialSource: source(id),
     sourceLabel: "Kriminalvården - hitta och kontakta anstalt",
+    centralRuleSummary: officialRuleSummary,
+    joGuidance: joPackageSummary,
+    ruleBasis: ["kv-brev-paket-intagen", "jo-1899-2025", "kvfs-2011-1"],
     ruleUpdates: [
       { date: "2026-05-12", title: "Offentlig information kontrollerad", body: limitedPublicInfo }
     ],
@@ -405,6 +484,42 @@ const products = [
     checkedByCellVia: false
   },
   {
+    id: "mat-godis",
+    name: "Mat och godis",
+    category: "Produkter som kräver extra kontroll",
+    packageTags: ["Ej för CellVia-paket"],
+    price: 0,
+    image: "assets/images/process-products.jpg",
+    description: "Mat och godis ska inte skickas till intagna enligt Kriminalvårdens allmänna information.",
+    usefulFor: "Visas endast som tydlig varning så att familjer undviker fel innehåll.",
+    compatibilityStatus: "Inte tillåten",
+    compatibilityNote: "Kriminalvården anger uttryckligen att mat och godis inte får skickas.",
+    compatiblePrisons: [],
+    warningNotes: ["Ska inte ingå i CellVia-paket."],
+    saferAlternative: "Välj brev, bok eller enkel hygienprodukt som kan kontrolleras.",
+    requiresManualReview: true,
+    stockStatus: "Ej för leverans",
+    checkedByCellVia: false
+  },
+  {
+    id: "pengar-kontanter",
+    name: "Pengar och kontanter",
+    category: "Produkter som kräver extra kontroll",
+    packageTags: ["Ej för CellVia-paket"],
+    price: 0,
+    image: "assets/images/documented-packing.jpg",
+    description: "Pengar ska inte skickas eller lämnas till intagna genom paket.",
+    usefulFor: "Visas som stoppregel i produktvägledningen.",
+    compatibilityStatus: "Inte tillåten",
+    compatibilityNote: "Kriminalvården anger att den som sitter i fängelse inte får ta emot pengar.",
+    compatiblePrisons: [],
+    warningNotes: ["Ska inte skickas i paket eller brev."],
+    saferAlternative: "Kontakta Kriminalvården för aktuell information om tillåtna kontaktvägar.",
+    requiresManualReview: true,
+    stockStatus: "Ej för leverans",
+    checkedByCellVia: false
+  },
+  {
     id: "forvaringspase",
     name: "Enkel förvaringspåse",
     category: "Tillbehör",
@@ -582,6 +697,10 @@ window.CellViaSeed = {
   complianceNotice,
   packageTrustMessage,
   limitedPublicInfo,
+  officialRuleSummary,
+  joPackageSummary,
+  complianceSources,
+  generalRules,
   categories,
   productCategories,
   prisons,
