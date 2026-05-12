@@ -4,14 +4,15 @@
 
   function prisonCard(prison) {
     return `
-      <article class="data-card">
+      <article class="data-card prison-index-card">
         <div class="data-card-body">
-          ${badge(`${prison.securityLevel} säkerhet`)}
+          <div class="card-topline">${badge(`${prison.securityLevel} säkerhet`)}<span class="trust-indicator">${escapeHtml(prison.region || "Region")}</span></div>
           <h3>${escapeHtml(prison.name)}</h3>
           <p>${escapeHtml(prison.city)} · ${escapeHtml(prison.type)}</p>
           <p>${escapeHtml(prison.generalNotes)}</p>
           <dl class="meta-list">
             <div><dt>Kategorier</dt><dd>${escapeHtml(prison.allowedCategories.join(", "))}</dd></div>
+            <div><dt>Elektronik</dt><dd>${prison.electronicsPolicy === "restricted" ? "Kräver kontroll" : "Verifieras"}</dd></div>
             <div><dt>Uppdaterad</dt><dd>${escapeHtml(prison.lastUpdated)}</dd></div>
           </dl>
           <div class="card-actions">

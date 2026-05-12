@@ -44,14 +44,18 @@
     <main>
       <section class="page-hero">
         <h1>Produkter som kan kontrolleras och förberedas</h1>
-        <p>Välj produkter med tydlig information, rimlig förpackning och lägre risk för oklarheter. <span data-legal-notice></span></p>
+        <p>Välj produkter med tydlig information, rimlig förpackning och lägre risk för oklarheter. CellVia visar kompatibilitet som vägledning, aldrig som slutligt besked. <span data-legal-notice></span></p>
       </section>
       <section>
+        <div id="product-categories" class="category-system"></div>
         <div class="filters">
           <input id="product-search" data-product-filter placeholder="Sök produkt eller beskrivning" aria-label="Sök produkt" />
           <select id="product-category" data-product-filter aria-label="Filtrera kategori"></select>
           <select id="product-prison" data-product-filter aria-label="Filtrera anstalt"></select>
+          <select id="product-package" data-product-filter aria-label="Filtrera paket"></select>
+          <select id="product-status" data-product-filter aria-label="Filtrera kompatibilitet"></select>
         </div>
+        <div class="institutional-note"><strong>CellVia ersätter inte Kriminalvårdens kontroll.</strong><p>Plattformen hjälper familjer att välja produkter med tydligare struktur, dokumenterad packning och bättre förberedelse inför anstaltens granskning.</p></div>
         <div id="page-status"></div>
         <div id="products-grid" class="data-grid"></div>
       </section>

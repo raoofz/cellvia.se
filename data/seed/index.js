@@ -1,241 +1,549 @@
 (() => {
 const legalNotice = "Slutlig kontroll och beslut görs alltid av anstalten.";
+const complianceNotice = "Regler kan skilja sig mellan anstalter. Kompatibilitet visas som vägledning, inte som löfte.";
+const packageTrustMessage = "Alla paket packas, kontrolleras och dokumenteras av CellVia innan leverans. Detta minskar risken för fel, förenklar mottagningens kontroll och skapar en tryggare process för både familjen och anstalten.";
+const limitedPublicInfo = "Offentlig information är begränsad. CellVia rekommenderar kontroll direkt med anstalten före leverans.";
 
 const categories = [
-  "Hygien",
-  "Kläder & textil",
-  "Skriv & papper",
-  "Böcker",
-  "Elektronik",
+  "Färdiga paket",
+  "Hygien & personlig vård",
+  "Kläder & basplagg",
+  "Böcker & skrivmaterial",
+  "Musik & ljud",
+  "CD-spelare & enklare elektronik",
   "Hörlurar",
-  "CD-spelare",
   "Batterier",
-  "Mat & dryck",
-  "Övrigt"
+  "Tillbehör",
+  "Brev & dokument",
+  "Tillåtna vardagsprodukter",
+  "Produkter som kräver extra kontroll"
 ];
 
-const prisons = [
-  {
-    id: "saltvik",
-    name: "Anstalten Saltvik",
-    city: "Härnösand",
-    type: "Anstalt",
-    securityLevel: "Hög",
-    generalNotes: "Kontrollera alltid aktuell information innan paketet skickas. Produkter med elektronik eller försegling kräver extra försiktighet.",
-    packagingNotes: "Tydlig märkning, obruten originalförpackning där det är möjligt och inga lösa batterier.",
-    allowedCategories: ["Hygien", "Kläder & textil", "Skriv & papper", "Böcker"],
-    restrictedCategories: ["Elektronik", "Hörlurar", "CD-spelare", "Batterier", "Mat & dryck"],
-    recommendedProducts: ["mild-tvål", "brev-kit", "bomullsstrumpor", "pocketbok"],
-    riskyProducts: ["trådlösa hörlurar", "lösa batterier", "glasförpackning"],
-    ruleUpdates: [
-      { date: "2026-04-18", title: "Extra kontroll av elektronik", body: "Elektronik bör granskas manuellt före beställning." }
-    ],
-    lastUpdated: "2026-04-18"
-  },
-  {
-    id: "kumla",
-    name: "Anstalten Kumla",
-    city: "Kumla",
-    type: "Anstalt",
-    securityLevel: "Hög",
-    generalNotes: "Välj enkla produkter med tydlig innehållsförteckning. Undvik produkter med metall, vätskor i stora volymer eller oklar förpackning.",
-    packagingNotes: "Packa kompakt, separera produktgrupper och dokumentera innehållet internt.",
-    allowedCategories: ["Hygien", "Skriv & papper", "Böcker"],
-    restrictedCategories: ["Elektronik", "Hörlurar", "CD-spelare", "Batterier", "Mat & dryck", "Kläder & textil"],
-    recommendedProducts: ["tandkräm", "brev-kit", "pocketbok"],
-    riskyProducts: ["schampo stor flaska", "kläder med dragkedja", "elektronik"],
-    ruleUpdates: [
-      { date: "2026-03-28", title: "Textil behöver extra kontroll", body: "Kläder och textil hanteras med försiktighet och bör kontrolleras före köp." }
-    ],
-    lastUpdated: "2026-03-28"
-  },
-  {
-    id: "hall",
-    name: "Anstalten Hall",
-    city: "Södertälje",
-    type: "Anstalt",
-    securityLevel: "Hög",
-    generalNotes: "Prioritera basprodukter och tydlig dokumentation. Produkter som kan misstolkas bör bytas mot enklare alternativ.",
-    packagingNotes: "Undvik blandade smådelar i samma påse. Märk paketet tydligt i orderunderlaget.",
-    allowedCategories: ["Hygien", "Skriv & papper", "Böcker", "Kläder & textil"],
-    restrictedCategories: ["Elektronik", "Hörlurar", "CD-spelare", "Batterier", "Mat & dryck"],
-    recommendedProducts: ["bomullsstrumpor", "brev-kit", "mild-tvål"],
-    riskyProducts: ["hörlurar", "batterier", "parfymerade produkter"],
-    ruleUpdates: [
-      { date: "2026-02-14", title: "Doftstarka produkter", body: "Välj milda produkter framför starkt parfymerade alternativ." }
-    ],
-    lastUpdated: "2026-02-14"
-  },
-  {
-    id: "hinseberg",
-    name: "Anstalten Hinseberg",
-    city: "Frövi",
-    type: "Anstalt",
-    securityLevel: "Medel",
-    generalNotes: "Basprodukter fungerar oftast bäst. Kontrollera storlek, material och förpackning innan beställning.",
-    packagingNotes: "Packa varje produktgrupp tydligt och undvik extra ytteremballage.",
-    allowedCategories: ["Hygien", "Kläder & textil", "Skriv & papper", "Böcker"],
-    restrictedCategories: ["Elektronik", "Batterier", "Mat & dryck"],
-    recommendedProducts: ["hygien-bas", "komfort-kit", "pocketbok"],
-    riskyProducts: ["lösa batterier", "okända kosttillskott", "glas"],
-    ruleUpdates: [
-      { date: "2026-01-20", title: "Förpackning", body: "Produkter bör vara lätta att kontrollera utan onödig ytterförpackning." }
-    ],
-    lastUpdated: "2026-01-20"
-  }
+const productCategories = [
+  { id: "fardiga-paket", name: "Färdiga paket", icon: "▦", description: "Samlade paketförslag för familjer som vill börja med ett enkelt och tydligt val.", note: "Paket behöver alltid verifieras mot vald anstalt." },
+  { id: "hygien", name: "Hygien & personlig vård", icon: "✓", description: "Milda basprodukter med tydlig innehållsförteckning och enkel förpackning.", note: "Doft, volym och förpackning kan påverka bedömningen." },
+  { id: "klader", name: "Kläder & basplagg", icon: "□", description: "Enkla textilier utan metall, snören eller lösa detaljer.", note: "Textil kontrolleras ofta mer noggrant och kan variera lokalt." },
+  { id: "bocker", name: "Böcker & skrivmaterial", icon: "▤", description: "Pocketböcker, papper och enkla skrivprodukter för kontakt och vardag.", note: "Titel, innehåll och tillbehör kan behöva kontrolleras." },
+  { id: "musik", name: "Musik & ljud", icon: "♪", description: "Ljudrelaterade produkter visas med extra försiktighet och tydliga varningar.", note: "Elektronik och lagringsmedia kräver vanligtvis extra kontroll." },
+  { id: "elektronik", name: "CD-spelare & enklare elektronik", icon: "◌", description: "Enbart produkter som kan hanteras genom manuell kontroll och dokumentation.", note: "Elektronik ska inte väljas utan verifiering före leverans." },
+  { id: "horlurar", name: "Hörlurar", icon: "⌁", description: "Enkla modeller prioriteras framför trådlösa eller batteridrivna alternativ.", note: "Trådlös funktion och batterier ökar risken för avslag." },
+  { id: "batterier", name: "Batterier", icon: "−", description: "Batterier visas främst som riskkategori för att undvika felval.", note: "Lösa batterier bör inte skickas utan uttrycklig kontroll." },
+  { id: "tillbehor", name: "Tillbehör", icon: "+", description: "Små vardagstillbehör med enkel funktion och tydlig användning.", note: "Smådelar och metall behöver särskild försiktighet." },
+  { id: "brev", name: "Brev & dokument", icon: "✉", description: "Papper, kuvert och dokumentrelaterade produkter för kontakt.", note: "Frimärken och extra tillbehör kan hanteras olika." },
+  { id: "vardag", name: "Tillåtna vardagsprodukter", icon: "•", description: "Lugna basprodukter som ofta är enklare att kontrollera.", note: "Alla val ska ändå kontrolleras mot aktuell anstalt." },
+  { id: "extra-kontroll", name: "Produkter som kräver extra kontroll", icon: "!", description: "Produkter som kan vara användbara men där regler ofta varierar.", note: "CellVia markerar dessa tydligt innan paketet skickas vidare." }
 ];
+
+const sourceBase = "https://www.kriminalvarden.se/kontakt/hitta-och-kontakta/verksamhet/anstalt/";
+function source(slug) {
+  return `${sourceBase}${slug}/`;
+}
+
+const highSecurity = new Set(["hall", "kumla", "hallby", "norrtalje", "salberga", "saltvik", "tidaholm"]);
+const mediumKnown = new Set(["hinseberg", "ystad", "osteraker", "skanninge", "viskan", "mariefred", "vastervik-norra", "boras"]);
+
+const prisonNames = [
+  ["asptuna", "Anstalten Asptuna", "Botkyrka", "Stockholm"],
+  ["beateberg", "Anstalten Beateberg", "Trångsund", "Stockholm"],
+  ["boras", "Anstalten Borås", "Borås", "Väst"],
+  ["brinkeberg", "Anstalten Brinkeberg", "Vänersborg", "Väst"],
+  ["faringso", "Anstalten Färingsö", "Färingsö", "Stockholm"],
+  ["fosie", "Anstalten Fosie", "Malmö", "Syd"],
+  ["gruvberget", "Anstalten Gruvberget", "Bollnäs", "Mitt"],
+  ["gavle", "Anstalten Gävle", "Gävle", "Mitt"],
+  ["hall", "Anstalten Hall", "Södertälje", "Stockholm"],
+  ["halmstad", "Anstalten Halmstad", "Halmstad", "Väst"],
+  ["helsingborg", "Anstalten Helsingborg", "Helsingborg", "Syd"],
+  ["hinseberg", "Anstalten Hinseberg", "Frövi", "Mitt"],
+  ["hallby", "Anstalten Hällby", "Eskilstuna", "Mitt"],
+  ["hogsbo", "Anstalten Högsbo", "Göteborg", "Väst"],
+  ["johannesberg", "Anstalten Johannesberg", "Mariestad", "Väst"],
+  ["kalmar", "Anstalten Kalmar", "Kalmar", "Öst"],
+  ["karlskoga", "Anstalten Karlskoga", "Karlskoga", "Mitt"],
+  ["kristianstad", "Anstalten Kristianstad", "Kristianstad", "Syd"],
+  ["kumla", "Anstalten Kumla", "Kumla", "Mitt"],
+  ["ljustadalen", "Anstalten Ljustadalen", "Sundsvall", "Nord"],
+  ["lulea", "Anstalten Luleå", "Luleå", "Nord"],
+  ["mariefred", "Anstalten Mariefred", "Mariefred", "Mitt"],
+  ["norrtalje", "Anstalten Norrtälje", "Norrtälje", "Stockholm"],
+  ["nykoping", "Anstalten Nyköping", "Nyköping", "Öst"],
+  ["ringsjon", "Anstalten Ringsjön", "Höör", "Syd"],
+  ["rodjan", "Anstalten Rödjan", "Mariestad", "Väst"],
+  ["salberga", "Anstalten Salberga", "Sala", "Mitt"],
+  ["sagsjon", "Anstalten Sagsjön", "Lindome", "Väst"],
+  ["saltvik", "Anstalten Saltvik", "Härnösand", "Nord"],
+  ["skenas", "Anstalten Skenäs", "Vikbolandet", "Öst"],
+  ["skanninge", "Anstalten Skänninge", "Skänninge", "Öst"],
+  ["storboda", "Anstalten Storboda", "Rosersberg", "Stockholm"],
+  ["svartsjo", "Anstalten Svartsjö", "Svartsjö", "Stockholm"],
+  ["sorbyn", "Anstalten Sörbyn", "Umeå", "Nord"],
+  ["tidaholm", "Anstalten Tidaholm", "Tidaholm", "Väst"],
+  ["tillberga", "Anstalten Tillberga", "Västerås", "Mitt"],
+  ["tygelsjo", "Anstalten Tygelsjö", "Tygelsjö", "Syd"],
+  ["vastervik-norra", "Anstalten Västervik Norra", "Västervik", "Öst"],
+  ["viskan", "Anstalten Viskan", "Ånge", "Nord"],
+  ["ystad", "Anstalten Ystad", "Ystad", "Syd"],
+  ["osteraker", "Anstalten Österåker", "Åkersberga", "Stockholm"]
+];
+
+function securityLevel(id) {
+  if (highSecurity.has(id)) return "Klass 1";
+  if (mediumKnown.has(id)) return "Klass 2";
+  return "Behöver verifieras";
+}
+
+function prisonRecord([id, name, city, region]) {
+  const high = highSecurity.has(id);
+  const allowed = high
+    ? ["Hygien & personlig vård", "Böcker & skrivmaterial", "Brev & dokument"]
+    : ["Hygien & personlig vård", "Kläder & basplagg", "Böcker & skrivmaterial", "Brev & dokument", "Tillåtna vardagsprodukter"];
+  const restricted = high
+    ? ["Kläder & basplagg", "Musik & ljud", "CD-spelare & enklare elektronik", "Hörlurar", "Batterier", "Produkter som kräver extra kontroll"]
+    : ["Musik & ljud", "CD-spelare & enklare elektronik", "Hörlurar", "Batterier", "Produkter som kräver extra kontroll"];
+  return {
+    id,
+    name,
+    city,
+    region,
+    type: "Anstalt",
+    securityLevel: securityLevel(id),
+    acceptsPackages: "requires-verification",
+    electronicsPolicy: "restricted",
+    generalNotes: `${limitedPublicInfo} Regler kan variera beroende på avdelning, säkerhetsbedömning och mottagningens aktuella rutiner.`,
+    packagingNotes: "CellVia bör packa kompakt, separera produktgrupper, dokumentera innehållet internt och undvika otydliga eller öppnade förpackningar.",
+    deliveryNotes: "Kontrollera aktuell mottagningsadress och instruktioner via Kriminalvården innan leverans.",
+    mailNotes: "Brev och dokument bör hållas enkla. Extra bilagor, frimärken och tillbehör kan behöva kontrolleras.",
+    electronicsNotes: "Elektronik, hörlurar, lagringsmedia och batterier kräver särskild verifiering före köp eller leverans.",
+    clothingNotes: "Kläder bör vara enkla basplagg utan metall, snören, hårda detaljer eller otydlig märkning.",
+    hygieneNotes: "Välj milda produkter, små eller rimliga volymer och tydlig innehållsförteckning.",
+    packageNotes: packageTrustMessage,
+    compatibilityGuidance: "Börja med anstalt, välj därefter produkter med låg risk och låt CellVia kontrollera innehållet före leverans.",
+    allowedCategories: allowed,
+    restrictedCategories: restricted,
+    recommendedProducts: ["mild-tval", "tandkram", "brev-kit", "pocketbok", "skrivblock"],
+    riskyProducts: ["trådlösa hörlurar", "lösa batterier", "glasförpackning", "elektronik", "stark parfym"],
+    officialSource: source(id),
+    sourceLabel: "Kriminalvården - hitta och kontakta anstalt",
+    ruleUpdates: [
+      { date: "2026-05-12", title: "Offentlig information kontrollerad", body: limitedPublicInfo }
+    ],
+    lastUpdated: "2026-05-12"
+  };
+}
+
+const prisons = prisonNames.map(prisonRecord);
 
 const products = [
   {
     id: "mild-tval",
     name: "Mild tvål",
-    category: "Hygien",
+    category: "Hygien & personlig vård",
+    packageTags: ["Hygienpaket", "Startpaket"],
     price: 39,
     image: "assets/images/process-products.jpg",
-    description: "En enkel mild tvål med tydlig innehållsförteckning.",
+    description: "En mild basprodukt med tydlig innehållsförteckning och enkel användning.",
+    usefulFor: "Kan vara praktisk vid både kortare och längre vistelser när hygienprodukter behöver vara lätta att kontrollera.",
     compatibilityStatus: "Vanligt lämplig",
-    compatiblePrisons: ["saltvik", "kumla", "hall", "hinseberg"],
-    warningNotes: ["Undvik stark parfym."],
-    saferAlternative: "Oparfymerad hygienprodukt",
+    compatibilityNote: "Kan vara tillåten när innehåll, doft och förpackning är tydliga. Regler kan variera.",
+    compatiblePrisons: prisons.map((prison) => prison.id),
+    warningNotes: ["Undvik stark parfym och otydlig innehållsförteckning."],
+    saferAlternative: "Oparfymerad hygienprodukt med enkel förpackning",
     requiresManualReview: false,
-    stockStatus: "I lager"
+    stockStatus: "I lager",
+    checkedByCellVia: true
   },
   {
     id: "tandkram",
-    name: "Tandkräm",
-    category: "Hygien",
+    name: "Tandkräm liten tub",
+    category: "Hygien & personlig vård",
+    packageTags: ["Hygienpaket", "Startpaket"],
     price: 34,
     image: "assets/images/process-products.jpg",
     description: "Standardtandkräm i mindre tub med tydlig märkning.",
+    usefulFor: "Ett enkelt vardagsval som ofta är lättare att dokumentera än större specialprodukter.",
     compatibilityStatus: "Vanligt lämplig",
-    compatiblePrisons: ["saltvik", "kumla", "hall", "hinseberg"],
-    warningNotes: ["Välj mindre förpackning."],
-    saferAlternative: "Mindre tub utan specialfunktioner",
+    compatibilityNote: "Behöver kontrolleras mot aktuell anstalts regler före leverans.",
+    compatiblePrisons: prisons.map((prison) => prison.id),
+    warningNotes: ["Välj mindre tub utan specialfunktioner."],
+    saferAlternative: "Mindre tub utan extra tillbehör",
     requiresManualReview: false,
-    stockStatus: "I lager"
+    stockStatus: "I lager",
+    checkedByCellVia: true
+  },
+  {
+    id: "schampo-milt",
+    name: "Milt schampo",
+    category: "Hygien & personlig vård",
+    packageTags: ["Hygienpaket", "Långvistelsepaket"],
+    price: 59,
+    image: "assets/images/process-products.jpg",
+    description: "Ett enkelt schampo i kontrollerbar förpackning.",
+    usefulFor: "Kan vara användbart vid längre vistelser när produkten är tydligt märkt.",
+    compatibilityStatus: "Kräver kontroll",
+    compatibilityNote: "Volym, doft och förpackning behöver verifieras.",
+    compatiblePrisons: prisons.filter((prison) => !highSecurity.has(prison.id)).map((prison) => prison.id),
+    warningNotes: ["Större flaskor och stark doft kan skapa oklarheter."],
+    saferAlternative: "Mindre oparfymerad hygienprodukt",
+    requiresManualReview: true,
+    stockStatus: "I lager",
+    checkedByCellVia: true
   },
   {
     id: "brev-kit",
     name: "Brev & kontakt-kit",
-    category: "Skriv & papper",
+    category: "Brev & dokument",
+    packageTags: ["Skrivpaket", "Startpaket"],
     price: 89,
     image: "assets/images/documented-packing.jpg",
     description: "Papper och kuvert för vardagskontakt.",
+    usefulFor: "Gör det enklare att hålla kontakt utan tekniska produkter.",
     compatibilityStatus: "Vanligt lämplig",
-    compatiblePrisons: ["saltvik", "kumla", "hall", "hinseberg"],
-    warningNotes: ["Frimärken kan hanteras olika."],
+    compatibilityNote: "Kan vara tillåten men frimärken och extra tillbehör kan hanteras olika.",
+    compatiblePrisons: prisons.map((prison) => prison.id),
+    warningNotes: ["Frimärken och extra bilagor kan kräva kontroll."],
     saferAlternative: "Papper och kuvert utan extra tillbehör",
     requiresManualReview: false,
-    stockStatus: "I lager"
+    stockStatus: "I lager",
+    checkedByCellVia: true
   },
   {
-    id: "bomullsstrumpor",
-    name: "Bomullsstrumpor",
-    category: "Kläder & textil",
-    price: 79,
-    image: "assets/images/cellvia-worker.jpg",
-    description: "Enkla strumpor utan dragkedja, metall eller lösa detaljer.",
+    id: "skrivblock",
+    name: "Skrivblock enkelt",
+    category: "Böcker & skrivmaterial",
+    packageTags: ["Skrivpaket"],
+    price: 45,
+    image: "assets/images/documented-packing.jpg",
+    description: "Ett enkelt skrivblock utan spiral eller hårda detaljer.",
+    usefulFor: "Passar för brev, studier och anteckningar när materialet är enkelt att kontrollera.",
+    compatibilityStatus: "Vanligt lämplig",
+    compatibilityNote: "Kan vara lämpligt när blocket saknar metallspiral och extra fickor.",
+    compatiblePrisons: prisons.map((prison) => prison.id),
+    warningNotes: ["Undvik metallspiral och lösa plastfickor."],
+    saferAlternative: "Limblock utan metall",
+    requiresManualReview: false,
+    stockStatus: "I lager",
+    checkedByCellVia: true
+  },
+  {
+    id: "kulspetspenna",
+    name: "Enkel kulspetspenna",
+    category: "Böcker & skrivmaterial",
+    packageTags: ["Skrivpaket"],
+    price: 19,
+    image: "assets/images/documented-packing.jpg",
+    description: "En enkel penna utan extra funktioner.",
+    usefulFor: "Kan vara praktisk tillsammans med brev- och dokumentmaterial.",
     compatibilityStatus: "Kräver kontroll",
-    compatiblePrisons: ["saltvik", "hall", "hinseberg"],
-    warningNotes: ["Textil kan behöva extra kontroll på vissa anstalter."],
-    saferAlternative: "Enkla vita bomullsstrumpor",
+    compatibilityNote: "Pennor kan hanteras olika och bör verifieras före leverans.",
+    compatiblePrisons: prisons.filter((prison) => !highSecurity.has(prison.id)).map((prison) => prison.id),
+    warningNotes: ["Välj enkel modell utan metall eller dolda delar."],
+    saferAlternative: "Skrivblock och kuvert utan penna",
     requiresManualReview: true,
-    stockStatus: "I lager"
+    stockStatus: "I lager",
+    checkedByCellVia: true
   },
   {
     id: "pocketbok",
     name: "Pocketbok",
-    category: "Böcker",
+    category: "Böcker & skrivmaterial",
+    packageTags: ["Skrivpaket", "Långvistelsepaket"],
     price: 119,
     image: "assets/images/process-sealed-package.jpg",
     description: "En pocketbok med enkelt format.",
+    usefulFor: "Kan ge struktur och sysselsättning vid längre vistelser.",
     compatibilityStatus: "Kräver kontroll",
-    compatiblePrisons: ["saltvik", "kumla", "hall", "hinseberg"],
+    compatibilityNote: "Titel, innehåll och skick behöver kontrolleras mot aktuell anstalts rutiner.",
+    compatiblePrisons: prisons.map((prison) => prison.id),
     warningNotes: ["Titel och innehåll kan behöva bedömas."],
     saferAlternative: "Neutral fackbok eller roman i pocketformat",
     requiresManualReview: true,
-    stockStatus: "Begränsat lager"
+    stockStatus: "Begränsat lager",
+    checkedByCellVia: true
+  },
+  {
+    id: "bomullsstrumpor",
+    name: "Bomullsstrumpor",
+    category: "Kläder & basplagg",
+    packageTags: ["Klädpaket", "Basvardagspaket"],
+    price: 79,
+    image: "assets/images/cellvia-worker.jpg",
+    description: "Enkla strumpor utan dragkedja, metall eller lösa detaljer.",
+    usefulFor: "Ett basplagg som kan vara relevant vid längre vistelser.",
+    compatibilityStatus: "Kräver kontroll",
+    compatibilityNote: "Textil behöver ofta kontrolleras extra, särskilt vid högre säkerhetsnivå.",
+    compatiblePrisons: prisons.filter((prison) => !highSecurity.has(prison.id)).map((prison) => prison.id),
+    warningNotes: ["Textil kan behöva extra kontroll på vissa anstalter."],
+    saferAlternative: "Enkla vita bomullsstrumpor utan detaljer",
+    requiresManualReview: true,
+    stockStatus: "I lager",
+    checkedByCellVia: true
+  },
+  {
+    id: "tshirt-bas",
+    name: "Bas T-shirt",
+    category: "Kläder & basplagg",
+    packageTags: ["Klädpaket"],
+    price: 129,
+    image: "assets/images/cellvia-worker.jpg",
+    description: "Enkel enfärgad T-shirt utan tryck, metall eller extra detaljer.",
+    usefulFor: "Kan passa som basplagg om anstalten tillåter textil i paketflödet.",
+    compatibilityStatus: "Kräver kontroll",
+    compatibilityNote: "Storlek, färg, material och anstaltens lokala rutin behöver verifieras.",
+    compatiblePrisons: prisons.filter((prison) => !highSecurity.has(prison.id)).map((prison) => prison.id),
+    warningNotes: ["Kläder kan vara begränsade och behöver kontrolleras före köp."],
+    saferAlternative: "Hygien- eller brevprodukt med lägre risk",
+    requiresManualReview: true,
+    stockStatus: "I lager",
+    checkedByCellVia: true
+  },
+  {
+    id: "underklader-bas",
+    name: "Basunderkläder",
+    category: "Kläder & basplagg",
+    packageTags: ["Klädpaket", "Långvistelsepaket"],
+    price: 99,
+    image: "assets/images/cellvia-worker.jpg",
+    description: "Enkla basunderkläder utan hårda detaljer.",
+    usefulFor: "Kan vara relevant vid längre vistelser när textil är möjlig.",
+    compatibilityStatus: "Kräver kontroll",
+    compatibilityNote: "Behöver kontrolleras mot mottagningens aktuella textilrutiner.",
+    compatiblePrisons: prisons.filter((prison) => !highSecurity.has(prison.id)).map((prison) => prison.id),
+    warningNotes: ["Textilregler kan variera mellan anstalter."],
+    saferAlternative: "Bomullsstrumpor eller hygienprodukt",
+    requiresManualReview: true,
+    stockStatus: "I lager",
+    checkedByCellVia: true
+  },
+  {
+    id: "familjefoto-kuvert",
+    name: "Dokumentkuvert",
+    category: "Brev & dokument",
+    packageTags: ["Skrivpaket", "Startpaket"],
+    price: 29,
+    image: "assets/images/documented-packing.jpg",
+    description: "Enkla kuvert för dokument och brev.",
+    usefulFor: "Hjälper familjen att hålla kommunikationen tydlig och ordnad.",
+    compatibilityStatus: "Vanligt lämplig",
+    compatibilityNote: "Kan vara tillåtet när innehåll och antal är tydligt.",
+    compatiblePrisons: prisons.map((prison) => prison.id),
+    warningNotes: ["Innehåll i dokument ska vara enkelt att kontrollera."],
+    saferAlternative: "Standardkuvert utan extra material",
+    requiresManualReview: false,
+    stockStatus: "I lager",
+    checkedByCellVia: true
+  },
+  {
+    id: "horlurar-kabel",
+    name: "Hörlurar med kabel",
+    category: "Hörlurar",
+    packageTags: ["Musikpaket"],
+    price: 149,
+    image: "assets/images/process-sealed-package.jpg",
+    description: "En enkel kabelmodell utan trådlös funktion.",
+    usefulFor: "Kan vara relevant där ljudprodukter uttryckligen kan hanteras efter kontroll.",
+    compatibilityStatus: "Begränsad",
+    compatibilityNote: "Behöver verifieras före köp. Slutligt beslut tas av anstalten.",
+    compatiblePrisons: [],
+    warningNotes: ["Hörlurar är känsliga och regler kan variera kraftigt."],
+    saferAlternative: "Bok, skrivblock eller brev-kit",
+    requiresManualReview: true,
+    stockStatus: "Begränsat lager",
+    checkedByCellVia: true
   },
   {
     id: "cd-spelare-enkel",
     name: "Enkel CD-spelare",
-    category: "CD-spelare",
+    category: "CD-spelare & enklare elektronik",
+    packageTags: ["Musikpaket"],
     price: 349,
     image: "assets/images/process-sealed-package.jpg",
-    description: "Elektronisk produkt som alltid bör kontrolleras manuellt före köp.",
+    description: "Elektronisk produkt som alltid behöver manuell kontroll före köp.",
+    usefulFor: "Endast aktuell om anstalten uttryckligen kan hantera produkten.",
     compatibilityStatus: "Begränsad",
+    compatibilityNote: "Elektronik kräver verifiering, dokumentation och anstaltens slutliga bedömning.",
     compatiblePrisons: [],
     warningNotes: ["Elektronik är känsligt och varierar kraftigt mellan anstalter."],
     saferAlternative: "Bok eller skrivmaterial",
     requiresManualReview: true,
-    stockStatus: "Begränsat lager"
+    stockStatus: "Begränsat lager",
+    checkedByCellVia: true
   },
   {
     id: "tradlosa-horlurar",
     name: "Trådlösa hörlurar",
     category: "Hörlurar",
+    packageTags: ["Produkter som kräver extra kontroll"],
     price: 299,
     image: "assets/images/process-products.jpg",
-    description: "Trådlösa produkter är ofta riskabla i anstaltsmiljö.",
+    description: "Trådlös elektronik och batterier är ofta riskabla i anstaltsmiljö.",
+    usefulFor: "Visas främst för att förklara risk och föreslå säkrare alternativ.",
     compatibilityStatus: "Ej rekommenderad",
+    compatibilityNote: "Bör normalt undvikas utan direkt verifiering med anstalten.",
     compatiblePrisons: [],
     warningNotes: ["Trådlös elektronik och batterier kan leda till avslag."],
     saferAlternative: "Välj icke-elektroniska produkter.",
     requiresManualReview: true,
-    stockStatus: "Tillfälligt slut"
+    stockStatus: "Tillfälligt slut",
+    checkedByCellVia: false
   },
   {
     id: "batterier-aa",
     name: "AA-batterier",
     category: "Batterier",
+    packageTags: ["Produkter som kräver extra kontroll"],
     price: 49,
     image: "assets/images/documented-packing.jpg",
     description: "Lösa batterier bör undvikas om inte anstalten uttryckligen tillåter dem.",
+    usefulFor: "Visas som riskkategori så familjer inte väljer batterier av misstag.",
     compatibilityStatus: "Ej rekommenderad",
+    compatibilityNote: "Lösa batterier kräver direkt kontroll och bör inte ingå i standardpaket.",
     compatiblePrisons: [],
-    warningNotes: ["Lösa batterier är markerade som riskprodukt i flera testposter."],
+    warningNotes: ["Lösa batterier är markerade som riskprodukt."],
     saferAlternative: "Produkt utan batteribehov",
     requiresManualReview: true,
-    stockStatus: "I lager"
+    stockStatus: "I lager",
+    checkedByCellVia: false
+  },
+  {
+    id: "forvaringspase",
+    name: "Enkel förvaringspåse",
+    category: "Tillbehör",
+    packageTags: ["Basvardagspaket"],
+    price: 39,
+    image: "assets/images/process-products.jpg",
+    description: "Mjuk enkel påse utan hårda detaljer.",
+    usefulFor: "Kan hjälpa till att hålla mindre basprodukter ordnade.",
+    compatibilityStatus: "Kräver kontroll",
+    compatibilityNote: "Material, storlek och användning behöver kontrolleras.",
+    compatiblePrisons: prisons.filter((prison) => !highSecurity.has(prison.id)).map((prison) => prison.id),
+    warningNotes: ["Tillbehör med smådelar eller hårda detaljer ska undvikas."],
+    saferAlternative: "CellVia dokumenterad packning utan extra påse",
+    requiresManualReview: true,
+    stockStatus: "I lager",
+    checkedByCellVia: true
   }
 ];
 
 const packages = [
   {
-    id: "bas-hygien",
-    name: "Bas Hygien",
-    description: "Ett lugnt baspaket med hygienprodukter som ofta är enklare att kontrollera.",
-    productIds: ["mild-tval", "tandkram"],
-    compatiblePrisons: ["saltvik", "kumla", "hall", "hinseberg"],
-    notes: ["Välj milda produkter och mindre förpackningar."],
-    serviceFee: 79
+    id: "startpaket",
+    name: "Startpaket",
+    image: "assets/images/process-sealed-package.jpg",
+    description: "Ett enkelt första paket med låg komplexitet och tydlig dokumentation.",
+    purpose: "För familjer som vill börja försiktigt med basprodukter.",
+    suitableFor: "Första leveransen eller när reglerna känns otydliga.",
+    compatibilityLevel: "Vanligt lämplig",
+    productIds: ["mild-tval", "tandkram", "brev-kit"],
+    compatiblePrisons: prisons.map((prison) => prison.id),
+    notes: ["Välj detta när du vill minimera komplexitet."],
+    serviceFee: 79,
+    popular: true,
+    firstDelivery: true
   },
   {
-    id: "brev-kontakt",
-    name: "Brev & Kontakt",
-    description: "För brev, studier och vardagskontakt.",
-    productIds: ["brev-kit", "pocketbok"],
-    compatiblePrisons: ["saltvik", "kumla", "hall", "hinseberg"],
-    notes: ["Böcker kan behöva manuell kontroll."],
-    serviceFee: 89
+    id: "hygienpaket",
+    name: "Hygienpaket",
+    image: "assets/images/process-products.jpg",
+    description: "Milda hygienprodukter med tydlig märkning och kontrollerbar förpackning.",
+    purpose: "För vardaglig personlig vård.",
+    suitableFor: "Kortare och längre vistelser när hygienprodukter behöver förberedas tydligt.",
+    compatibilityLevel: "Vanligt lämplig",
+    productIds: ["mild-tval", "tandkram", "schampo-milt"],
+    compatiblePrisons: prisons.filter((prison) => !highSecurity.has(prison.id)).map((prison) => prison.id),
+    notes: ["Schampo kräver extra kontroll av volym och doft."],
+    serviceFee: 89,
+    popular: true,
+    firstDelivery: true
   },
   {
-    id: "komfort",
-    name: "Komfort",
-    description: "Varsamt utvalda basprodukter med fokus på enkel kontroll.",
-    productIds: ["mild-tval", "bomullsstrumpor", "brev-kit"],
-    compatiblePrisons: ["saltvik", "hall", "hinseberg"],
-    notes: ["Textil kontrolleras extra innan ordern skickas vidare."],
-    serviceFee: 99
+    id: "basvardagspaket",
+    name: "Basvardagspaket",
+    image: "assets/images/documented-packing.jpg",
+    description: "Ett vardagligt paket med hygien, brev och enkla basprodukter.",
+    purpose: "För en lugn kombination av praktiska produkter.",
+    suitableFor: "Familjer som vill välja lite mer än ett startpaket utan att skapa onödig risk.",
+    compatibilityLevel: "Kräver kontroll",
+    productIds: ["mild-tval", "brev-kit", "skrivblock", "forvaringspase"],
+    compatiblePrisons: prisons.filter((prison) => !highSecurity.has(prison.id)).map((prison) => prison.id),
+    notes: ["Tillbehör kontrolleras separat."],
+    serviceFee: 99,
+    popular: true,
+    firstDelivery: false
   },
   {
-    id: "elektronik-kontroll",
-    name: "Elektronik Kontroll",
-    description: "Enbart för förfrågan och manuell bedömning. Rekommenderas inte utan tydlig kontroll.",
-    productIds: ["cd-spelare-enkel"],
+    id: "musikpaket",
+    name: "Musikpaket",
+    image: "assets/images/process-sealed-package.jpg",
+    description: "Ett paket för förfrågan där ljudprodukter alltid verifieras före köp.",
+    purpose: "För familjer som vill undersöka om ljudprodukt kan vara möjlig.",
+    suitableFor: "Endast efter tydlig kontroll av vald anstalt.",
+    compatibilityLevel: "Begränsad",
+    productIds: ["horlurar-kabel", "cd-spelare-enkel"],
     compatiblePrisons: [],
-    notes: ["Elektronik kräver alltid manuell kontroll och kan nekas av anstalten."],
-    serviceFee: 129
+    notes: ["Elektronik och hörlurar kräver alltid extra verifiering."],
+    serviceFee: 129,
+    popular: false,
+    firstDelivery: false
+  },
+  {
+    id: "kladpaket",
+    name: "Klädpaket",
+    image: "assets/images/cellvia-worker.jpg",
+    description: "Enkla basplagg som kontrolleras mot vald anstalts textilrutiner.",
+    purpose: "För komplettering av basplagg där textil kan hanteras.",
+    suitableFor: "Längre vistelser och anstalter där textil kan verifieras.",
+    compatibilityLevel: "Kräver kontroll",
+    productIds: ["bomullsstrumpor", "tshirt-bas", "underklader-bas"],
+    compatiblePrisons: prisons.filter((prison) => !highSecurity.has(prison.id)).map((prison) => prison.id),
+    notes: ["Textil ska verifieras före köp."],
+    serviceFee: 119,
+    popular: false,
+    firstDelivery: false
+  },
+  {
+    id: "skrivpaket",
+    name: "Skrivpaket",
+    image: "assets/images/documented-packing.jpg",
+    description: "Papper, kuvert och skrivmaterial för tydlig vardagskontakt.",
+    purpose: "För brev, studier och ordnad kommunikation.",
+    suitableFor: "Familjer som vill skicka icke-tekniska produkter.",
+    compatibilityLevel: "Vanligt lämplig",
+    productIds: ["brev-kit", "skrivblock", "kulspetspenna", "pocketbok"],
+    compatiblePrisons: prisons.filter((prison) => !highSecurity.has(prison.id)).map((prison) => prison.id),
+    notes: ["Penna och bok kontrolleras extra."],
+    serviceFee: 89,
+    popular: true,
+    firstDelivery: true
+  },
+  {
+    id: "langvistelsepaket",
+    name: "Långvistelsepaket",
+    image: "assets/images/process-sealed-package.jpg",
+    description: "Ett mer omfattande paket där flera kategorier verifieras stegvis.",
+    purpose: "För längre vistelser där familjen vill skapa struktur över tid.",
+    suitableFor: "När anstalt och produktkategorier redan har kontrollerats.",
+    compatibilityLevel: "Kräver kontroll",
+    productIds: ["mild-tval", "tandkram", "pocketbok", "bomullsstrumpor", "underklader-bas"],
+    compatiblePrisons: prisons.filter((prison) => !highSecurity.has(prison.id)).map((prison) => prison.id),
+    notes: ["Flera kategorier innebär fler kontrollpunkter."],
+    serviceFee: 139,
+    popular: false,
+    firstDelivery: false
+  },
+  {
+    id: "anpassat-paket",
+    name: "Anpassat paket",
+    image: "assets/images/cellvia-worker.jpg",
+    description: "Bygg ett eget paket utifrån vald anstalt och CellVias kompatibilitetsvägledning.",
+    purpose: "För familjer som behöver särskild anpassning.",
+    suitableFor: "När standardpaketen inte räcker eller när reglerna kräver försiktigare val.",
+    compatibilityLevel: "Kräver kontroll",
+    productIds: [],
+    compatiblePrisons: [],
+    notes: ["Anpassade paket granskas alltid före nästa steg."],
+    serviceFee: 99,
+    popular: false,
+    firstDelivery: false
   }
 ];
 
@@ -243,9 +551,8 @@ const trackingStatuses = [
   "Beställning mottagen",
   "Produkter kontrolleras",
   "Paket förbereds",
-  "Paket skickat",
-  "Levererat till anstalt",
-  "Väntar på anstaltens interna kontroll"
+  "Skickat till anstalt",
+  "Väntar på intern kontroll"
 ];
 
 const faq = [
@@ -272,7 +579,11 @@ const sampleOrders = [
 
 window.CellViaSeed = {
   legalNotice,
+  complianceNotice,
+  packageTrustMessage,
+  limitedPublicInfo,
   categories,
+  productCategories,
   prisons,
   products,
   packages,
