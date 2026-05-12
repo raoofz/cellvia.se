@@ -488,6 +488,26 @@ img { display: block; width: 100%; max-width: 100%; }
   color: var(--muted);
   line-height: 1.62;
 }
+.catalog-overview {
+  margin: 18px 0;
+}
+.catalog-summary {
+  padding: 22px;
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  background: white;
+  box-shadow: var(--shadow);
+}
+.catalog-summary h2 {
+  margin: 12px 0 8px;
+  font-size: clamp(24px, 3vw, 34px);
+  line-height: 1.12;
+}
+.catalog-summary p {
+  max-width: 900px;
+  color: var(--muted);
+  line-height: 1.62;
+}
 .rule-overview {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -547,6 +567,28 @@ img { display: block; width: 100%; max-width: 100%; }
 .data-card-body { padding: 22px; }
 .data-card h3 { margin: 10px 0; font-size: 22px; line-height: 1.2; }
 .data-card p { color: var(--muted); line-height: 1.58; }
+.source-line {
+  margin: -2px 0 10px !important;
+  color: #596257 !important;
+  font-size: 13px;
+  font-weight: 760;
+}
+.results-count, .load-more {
+  grid-column: 1 / -1;
+}
+.results-count {
+  padding: 12px 14px;
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  background: white;
+  color: var(--muted);
+  font-size: 14px;
+  font-weight: 760;
+}
+.load-more {
+  justify-self: center;
+  margin-top: 6px;
+}
 .card-topline {
   display: flex;
   align-items: center;

@@ -10,12 +10,14 @@
     const compact = options.compact ? " compact-card" : "";
     const tags = product.packageTags || [];
     const trust = product.checkedByCellVia ? "Checked by CellVia" : "Kräver extra verifiering";
+    const sourceLabel = product.source ? `${product.source} · ${product.sourceCategory || "Katalog"}` : "";
     return `
       <article class="data-card product-card${compact}">
         <img src="${escapeHtml(product.image)}" alt="${escapeHtml(product.name)}" loading="lazy" decoding="async" />
         <div class="data-card-body">
           <div class="card-topline">${badge(status)}<span class="trust-indicator">${escapeHtml(trust)}</span></div>
           <h3>${escapeHtml(product.name)}</h3>
+          ${sourceLabel ? `<p class="source-line">${escapeHtml(sourceLabel)}</p>` : ""}
           <p>${escapeHtml(product.description)}</p>
           ${product.usefulFor ? `<p class="small-muted">${escapeHtml(product.usefulFor)}</p>` : ""}
           <dl class="meta-list">
