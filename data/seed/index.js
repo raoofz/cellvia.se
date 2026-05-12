@@ -674,7 +674,12 @@ const faq = [
   { question: "Kan CellVia garantera att ett paket godkänns?", answer: "Nej. Slutlig kontroll och beslut görs alltid av anstalten." },
   { question: "Köper CellVia produkterna?", answer: "Ja, i normalflödet köper CellVia in produkterna, kontrollerar dem, packar dem och skickar paketet vidare." },
   { question: "Varför visas vissa produkter som riskabla?", answer: "Vissa kategorier kan vara känsliga, till exempel elektronik, batterier eller produkter med oklar förpackning." },
-  { question: "Kan jag skapa ett eget paket?", answer: "Ja. Välj anstalt först, fyll i uppgifter och lägg till produkter som passar bättre för vald anstalt." }
+  { question: "Kan jag skapa ett eget paket?", answer: "Ja. Välj anstalt först, fyll i uppgifter och lägg till produkter som passar bättre för vald anstalt." },
+  { question: "Vad händer om en produkt verkar olämplig?", answer: "CellVia markerar produkten, föreslår ett säkrare alternativ eller pausar flödet för manuell kontroll innan leverans." },
+  { question: "Hur hanteras kvitto och faktura?", answer: "Kvitto eller fakturaunderlag sparas internt i orderflödet för spårbarhet, kontroll och eventuell uppföljning." },
+  { question: "Vad betyder kompatibilitet?", answer: "Kompatibilitet är vägledning baserad på kategori, anstaltens kända rutiner och risknivå. Det är inte ett godkännande." },
+  { question: "Vad gör CellVia om anstalten avvisar innehåll?", answer: "CellVia dokumenterar avvikelsen, kontaktar kunden när uppföljning krävs och försöker föreslå ett tydligare alternativ." },
+  { question: "Är CellVia en del av Kriminalvården?", answer: "Nej. CellVia är en fristående tjänst som hjälper familjer att arbeta mer strukturerat inför anstaltens kontroll." }
 ];
 
 const sampleOrders = [

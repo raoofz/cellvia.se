@@ -869,19 +869,25 @@ img { display: block; width: 100%; max-width: 100%; }
   gap: 16px;
   margin-top: 22px;
 }
-.operational-grid article {
+.support-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin-top: 22px;
+}
+.operational-grid article, .support-grid article {
   padding: 22px;
   border: 1px solid var(--line);
   border-radius: 18px;
   background: white;
   box-shadow: var(--shadow);
 }
-.operational-grid h2 {
+.operational-grid h2, .support-grid h2 {
   margin: 14px 0 8px;
   font-size: 22px;
   line-height: 1.2;
 }
-.operational-grid p {
+.operational-grid p, .support-grid p {
   color: var(--muted);
   line-height: 1.58;
 }
@@ -1103,7 +1109,7 @@ details p { margin: 0; padding: 0 20px 18px; }
   .page-hero { padding-top: 34px; }
   .page-hero h1, .detail-layout h1 { font-size: clamp(32px, 10vw, 42px); }
   .page-hero p, .lead { font-size: 16px; line-height: 1.62; }
-  .filters, .data-grid, .mini-grid, .split-grid, .category-system, .rule-grid, .rule-overview, .process-steps, .tracking-stages, .operational-grid { grid-template-columns: 1fr; }
+  .filters, .data-grid, .mini-grid, .split-grid, .category-system, .rule-grid, .rule-overview, .process-steps, .tracking-stages, .operational-grid, .support-grid { grid-template-columns: 1fr; }
   .filters, .detail-layout, .form-grid, .summary-panel, .admin-panel, .legal-content { padding: 18px; border-radius: 16px; }
   .category-system article { min-height: 0; padding: 16px; }
   .institutional-note { padding: 16px; border-radius: 0 14px 14px 0; }
