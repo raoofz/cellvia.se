@@ -17,6 +17,22 @@
     };
   }
 
+  function renderSteps(state) {
+    const steps = [
+      { label: "Mottagare", done: Boolean(state.inmateName && state.inmateNumber) },
+      { label: "Anstalt", done: Boolean(state.prisonId) },
+      { label: "Produkter", done: state.productIds.length > 0 },
+      { label: "Kontroll", done: Boolean(state.prisonId && state.productIds.length > 0) },
+      { label: "Bekräftelse", done: false }
+    ];
+    setHtml("#create-steps", steps.map((step, index) => `
+      <article class="${step.done ? "done" : ""}">
+        <span>${index + 1}</span>
+        <strong>${escapeHtml(step.label)}</strong>
+      </article>
+    `).join(""));
+  }
+
   function renderSummary(state) {
     const selected = state.productIds.map((id) => repo().products.find(id)).filter(Boolean);
     const warnings = compatibility().packageWarnings(state.prisonId, state.productIds);
@@ -25,6 +41,12 @@
       <h3>Sammanfattning</h3>
       ${selected.length ? `<ul>${selected.map((product) => `<li>${escapeHtml(product.name)} <button type="button" class="remove-link" data-remove-product="${product.id}">Ta bort</button></li>`).join("")}</ul>` : `<p>Inga produkter valda ännu.</p>`}
       ${warnings.length ? `<div class="calm-alert"><strong>Att kontrollera innan nästa steg</strong>${warnings.map((item) => `<p>${escapeHtml(item.product.name)}: ${escapeHtml(item.warnings[0] || item.saferAlternative)}</p>`).join("")}</div>` : ""}
+      <div class="verification-list summary-verification">
+        <span>Produktvillkor kontrolleras</span>
+        <span>Förpackning dokumenteras</span>
+        <span>Kvitto/faktura sparas internt</span>
+        <span>Avvikelse hanteras före leverans</span>
+      </div>
       <dl class="cost-list">
         <div><dt>Produkter</dt><dd>${formatCurrency(price.productTotal)}</dd></div>
         <div><dt>Service</dt><dd>${formatCurrency(price.service)}</dd></div>
@@ -42,6 +64,7 @@
       <div class="status-message info">
         <p><strong>${escapeHtml(prison.name)}</strong></p>
         <p>${escapeHtml(prison.packagingNotes)}</p>
+        <p>${escapeHtml(prison.deliveryNotes || "Kontrollera mottagningens aktuella leveransrutin före nästa steg.")}</p>
         <p>${escapeHtml(window.CellViaSeed.legalNotice)}</p>
       </div>
     ` : `<div class="status-message info"><p>Välj anstalt först. Då visas produkter och varningar utifrån vald anstalt.</p></div>`);
@@ -60,9 +83,13 @@
             <strong>${escapeHtml(product.name)}</strong>
             <span class="badge ${window.CellViaFormat.slugify(result.status)}">${escapeHtml(result.status)}</span>
             <p>${escapeHtml(product.description)}</p>
+            <p class="small-muted">${escapeHtml(product.packagingNote || product.compatibilityNote || "Förpackning och innehåll kontrolleras före leverans.")}</p>
             ${result.warnings.length ? `<p class="quiet-warning">${escapeHtml(result.warnings[0])} Säkrare alternativ: ${escapeHtml(result.saferAlternative)}</p>` : ""}
           </div>
-          <button type="button" class="button small" data-create-add="${product.id}">Lägg till</button>
+          <div class="choice-actions">
+            <button type="button" class="button small" data-create-check="${product.id}">Kontrollera</button>
+            <button type="button" class="button small" data-create-add="${product.id}">Lägg till</button>
+          </div>
         </article>
       `;
     }).join(""));
@@ -90,6 +117,7 @@
       renderGuidance(current);
       renderChoices(current);
       renderSummary(current);
+      renderSteps(current);
     });
 
     prisonSelect?.addEventListener("change", () => {
@@ -108,6 +136,18 @@
     });
 
     window.CellViaDom.on(document, "click", "[data-create-add]", (_, button) => state.addProduct(button.dataset.createAdd));
+    window.CellViaDom.on(document, "click", "[data-create-check]", (_, button) => {
+      const current = state.get();
+      const product = repo().products.find(button.dataset.createCheck);
+      const prison = current.prisonId ? repo().prisons.find(current.prisonId) : null;
+      const result = product ? compatibility().evaluateProductForPrison(product, prison) : null;
+      if (!result) return;
+      setStatus("#create-status", [
+        `${product.name}: ${result.status}`,
+        result.warnings[0] || product.compatibilityNote || "Produkten behöver kontrolleras mot vald anstalt.",
+        window.CellViaSeed.legalNotice
+      ], result.isRisky ? "error" : "info");
+    });
     window.CellViaDom.on(document, "click", "[data-remove-product]", (_, button) => state.removeProduct(button.dataset.removeProduct));
 
     qs("#create-order-form")?.addEventListener("submit", (event) => {

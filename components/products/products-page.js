@@ -9,6 +9,7 @@
     const prisonSelect = qs("#product-prison");
     const packageSelect = qs("#product-package");
     const statusSelect = qs("#product-status");
+    const sortSelect = qs("#product-sort");
     const categories = window.CellViaSeed.productCategories || window.CellViaSeed.categories.map((name) => ({ name, icon: "•", description: "", note: "" }));
     if (qs("#product-categories")) {
       setHtml("#product-categories", categories.map((category) => `
@@ -36,6 +37,19 @@
     if (packageSelect) packageSelect.innerHTML = `<option value="">Alla paketkopplingar</option>${packageTags.map((tag) => `<option>${escapeHtml(tag)}</option>`).join("")}`;
     const statuses = [...new Set(repo().products.all().map((product) => product.compatibilityStatus))];
     if (statusSelect) statusSelect.innerHTML = `<option value="">Alla kompatibiliteter</option>${statuses.map((status) => `<option>${escapeHtml(status)}</option>`).join("")}`;
+    if (sortSelect) sortSelect.innerHTML = `<option value="recommended">Rekommenderad ordning</option><option value="price-asc">Pris: lägst först</option><option value="price-desc">Pris: högst först</option><option value="name">Namn A-Ö</option><option value="status">Kompatibilitet</option>`;
+
+    function sortResults(results) {
+      const mode = sortSelect?.value || "recommended";
+      const statusScore = { "Vanligt lämplig": 1, "Kräver kontroll": 2, "Begränsad": 3, "Ej rekommenderad": 4, "Inte tillåten": 5 };
+      return [...results].sort((a, b) => {
+        if (mode === "price-asc") return a.product.price - b.product.price;
+        if (mode === "price-desc") return b.product.price - a.product.price;
+        if (mode === "name") return a.product.name.localeCompare(b.product.name, "sv");
+        if (mode === "status") return (statusScore[a.status] || 9) - (statusScore[b.status] || 9);
+        return b.score - a.score || a.product.name.localeCompare(b.product.name, "sv");
+      });
+    }
 
     function render() {
       const prisonId = prisonSelect?.value || "";
@@ -48,7 +62,7 @@
       };
       const base = repo().products.all();
       const filtered = window.CellViaFilters.filterProducts(base, filters, window.CellViaCompatibility);
-      const results = filtered.map((product) => window.CellViaCompatibility.evaluateProductForPrison(product, repo().prisons.find(prisonId)));
+      const results = sortResults(filtered.map((product) => window.CellViaCompatibility.evaluateProductForPrison(product, repo().prisons.find(prisonId))));
       setHtml("#products-grid", results.length
         ? results.map((result) => window.CellViaProductCard.productCard(result, { showPrisonNote: Boolean(prisonId) })).join("")
         : `<div class="empty-state">Inga produkter matchar filtret. Prova en bredare sökning eller börja med en annan anstalt.</div>`);

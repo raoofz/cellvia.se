@@ -686,7 +686,7 @@ const sampleOrders = [
     notes: "Testorder för spårningsvyn.",
     productIds: ["mild-tval", "brev-kit"],
     status: "Paket förbereds",
-    cellviaNotes: "Produkterna är kontrollerade och paketet förbereds.",
+    cellviaNotes: "Produkterna är kontrollerade mot vald anstalt, kvitto/faktura sparas internt och paketet förbereds för dokumenterad packning.",
     createdAt: "2026-05-12T10:00:00.000Z",
     updatedAt: "2026-05-12T12:30:00.000Z"
   }
