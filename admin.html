@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="sv">
+  <head><meta charset="UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0" /><title>Admin Dashboard | CellVia</title><meta name="description" content="Intern adminpanel för order, produkter, anstalter, regeluppdateringar och kontaktmeddelanden." /><link rel="stylesheet" href="styles/site.css" />
+    <script src="data/seed/index.js" defer></script>
+    <script src="lib/utils/format.js" defer></script>
+    <script src="lib/utils/dom.js" defer></script>
+    <script src="lib/validators/index.js" defer></script>
+    <script src="lib/store/local-storage.js" defer></script>
+    <script src="lib/db/schema.js" defer></script>
+    <script src="lib/db/repositories.js" defer></script>
+    <script src="lib/search/text-search.js" defer></script>
+    <script src="lib/filtering/compatibility-engine.js" defer></script>
+    <script src="lib/filtering/filters.js" defer></script>
+    <script src="lib/render/status.js" defer></script>
+    <script src="components/ui/badges.js" defer></script>
+    <script src="components/cards/product-card.js" defer></script>
+    <script src="components/cards/prison-card.js" defer></script>
+    <script src="components/cards/package-card.js" defer></script>
+    <script src="lib/state/package-state.js" defer></script>
+    <script src="components/forms/package-workflow.js" defer></script>
+    <script src="components/products/products-page.js" defer></script>
+    <script src="components/prisons/prisons-page.js" defer></script>
+    <script src="components/packages/packages-page.js" defer></script>
+    <script src="components/tracking/tracking-page.js" defer></script>
+    <script src="components/forms/contact-form.js" defer></script>
+    <script src="components/layout/faq-page.js" defer></script>
+    <script src="components/admin/admin-page.js" defer></script>
+    <script src="components/layout/site-layout.js" defer></script>
+    <script src="scripts/app.js" defer></script></head>
+  <body data-page="admin">
+    <header class="site-header"><nav class="nav"><a class="brand" href="index.html" aria-label="CellVia hem"><svg class="leaf-logo" viewBox="0 0 32 32" aria-hidden="true"><path d="M5 6c9 1 15 7 16 16C12 21 6 15 5 6Z"></path><path d="M27 5c-8 .5-13 5-14 13 8-1 13-5 14-13Z"></path></svg><span>CellVia</span></a><div class="nav-links" aria-label="Huvudnavigation"><a data-nav="home" href="index.html">Hem</a><a data-nav="products" href="produkter.html">Produkter</a><a data-nav="packages" href="paket.html">Paket</a><a data-nav="create" href="skapa-paket.html">Skapa paket</a><a data-nav="prisons" href="anstalter.html">Anstalter</a><a data-nav="track" href="spara.html">Spåra</a><a data-nav="help" href="hjalp.html">Hjälp</a></div><a class="nav-cta" href="index.html">Till webbplats</a></nav></header>
+    <main>
+      <section class="page-hero"><h1>Admin Dashboard</h1><p>En enkel intern vy för order, status, produkter som behöver granskning, regeluppdateringar och kontaktmeddelanden.</p></section>
+      <section class="admin-layout">
+        <div class="admin-panel"><h2>Order</h2><div id="admin-orders"></div></div>
+        <div class="admin-panel"><h2>Produkter som behöver granskning</h2><ul id="admin-products"></ul></div>
+        <div class="admin-panel"><h2>Produktöversikt</h2><div id="admin-product-management"></div></div>
+        <div class="admin-panel"><h2>Anstaltsöversikt</h2><div id="admin-prison-management"></div></div>
+        <div class="admin-panel"><h2>Varningar och risker</h2><div id="admin-warnings"></div></div>
+        <div class="admin-panel"><h2>Interna noteringar</h2><form id="admin-note-form" class="form-grid"><label>Rubrik <input id="admin-note-title" /></label><label>Notering <textarea id="admin-note-body"></textarea></label><button class="button primary" type="submit">Spara notering</button></form><div id="admin-notes"></div></div>
+        <div class="admin-panel"><h2>Lägg till regeluppdatering</h2><form id="rule-form" class="form-grid"><label>Anstalt <select id="admin-prisons"></select></label><label>Titel <input id="rule-title" /></label><label>Notering <textarea id="rule-body"></textarea></label><button class="button primary" type="submit">Spara uppdatering</button></form><div id="admin-status"></div></div>
+        <div class="admin-panel"><h2>Kontaktmeddelanden</h2><div id="admin-messages"></div></div>
+      </section>
+    </main>
+    <footer class="footer"><div><a class="brand footer-brand" href="index.html"><svg class="leaf-logo" viewBox="0 0 32 32" aria-hidden="true"><path d="M5 6c9 1 15 7 16 16C12 21 6 15 5 6Z"></path><path d="M27 5c-8 .5-13 5-14 13 8-1 13-5 14-13Z"></path></svg><span>CellVia</span></a><p>En svensk plattform för tryggare och tydligare paketförberedelse.</p></div><div><h3>Tjänster</h3><a href="anstalter.html">Anstalter</a><a href="paket.html">Paket</a><a href="produkter.html">Produkter</a></div><div><h3>Hjälp</h3><a href="hjalp.html">Vanliga frågor</a><a href="kontakt.html">Kontakt</a><a href="villkor.html">Villkor</a><a href="integritet.html">Integritetspolicy</a></div></footer>
+  </body>
+</html>

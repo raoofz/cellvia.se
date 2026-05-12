@@ -4,12 +4,39 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>CellVia.se</title>
-    <link rel="stylesheet" href="styles.css" />
+    <meta name="description" content="CellVia hjälper familjer att välja, kontrollera och förbereda produkter för svenska anstalter på ett tydligt och ansvarsfullt sätt." />
+    <link rel="stylesheet" href="styles/site.css" />
+    <script src="data/seed/index.js" defer></script>
+    <script src="lib/utils/format.js" defer></script>
+    <script src="lib/utils/dom.js" defer></script>
+    <script src="lib/validators/index.js" defer></script>
+    <script src="lib/store/local-storage.js" defer></script>
+    <script src="lib/db/schema.js" defer></script>
+    <script src="lib/db/repositories.js" defer></script>
+    <script src="lib/search/text-search.js" defer></script>
+    <script src="lib/filtering/compatibility-engine.js" defer></script>
+    <script src="lib/filtering/filters.js" defer></script>
+    <script src="lib/render/status.js" defer></script>
+    <script src="components/ui/badges.js" defer></script>
+    <script src="components/cards/product-card.js" defer></script>
+    <script src="components/cards/prison-card.js" defer></script>
+    <script src="components/cards/package-card.js" defer></script>
+    <script src="lib/state/package-state.js" defer></script>
+    <script src="components/forms/package-workflow.js" defer></script>
+    <script src="components/products/products-page.js" defer></script>
+    <script src="components/prisons/prisons-page.js" defer></script>
+    <script src="components/packages/packages-page.js" defer></script>
+    <script src="components/tracking/tracking-page.js" defer></script>
+    <script src="components/forms/contact-form.js" defer></script>
+    <script src="components/layout/faq-page.js" defer></script>
+    <script src="components/admin/admin-page.js" defer></script>
+    <script src="components/layout/site-layout.js" defer></script>
+    <script src="scripts/app.js" defer></script>
   </head>
-  <body>
+  <body data-page="home">
     <header class="site-header">
       <nav class="nav">
-        <a class="brand" href="#hem" aria-label="CellVia hem">
+        <a class="brand" href="index.html" aria-label="CellVia hem">
           <svg class="leaf-logo" viewBox="0 0 32 32" aria-hidden="true">
             <path d="M5 6c9 1 15 7 16 16C12 21 6 15 5 6Z"></path>
             <path d="M27 5c-8 .5-13 5-14 13 8-1 13-5 14-13Z"></path>
@@ -17,14 +44,15 @@
           <span>CellVia</span>
         </a>
         <div class="nav-links" aria-label="Huvudnavigation">
-          <a class="active" href="#hem">Hem</a>
-          <a href="#ansvar">Vår process</a>
-          <a href="#anstalter">Anstalter</a>
-          <a href="#produkter">Produkter</a>
-          <a href="#paket">Paket</a>
-          <a href="#hjälp">Hjälp</a>
+          <a data-nav="home" class="active" href="index.html">Hem</a>
+          <a data-nav="products" href="produkter.html">Produkter</a>
+          <a data-nav="packages" href="paket.html">Paket</a>
+          <a data-nav="create" href="skapa-paket.html">Skapa paket</a>
+          <a data-nav="prisons" href="anstalter.html">Anstalter</a>
+          <a data-nav="track" href="spara.html">Spåra</a>
+          <a data-nav="help" href="hjalp.html">Hjälp</a>
         </div>
-        <a class="nav-cta" href="#anstalter">Kontrollera anstalt</a>
+        <a class="nav-cta" href="anstalter.html">Kontrollera anstalt</a>
       </nav>
     </header>
 
@@ -36,15 +64,16 @@
             En svensk plattform som hjälper familjer att förbereda paket på ett tydligare, lugnare och mer respektfullt sätt.
           </p>
           <div class="hero-actions">
-            <a class="button primary" href="#anstalter">Kontrollera anstalt</a>
-            <a class="button secondary" href="#ansvar">Så hjälper vi</a>
+            <a class="button primary" href="anstalter.html">Kontrollera anstalt</a>
+            <a class="button secondary" href="produkter.html">Se produkter</a>
+            <a class="button tertiary" href="skapa-paket.html">Skapa paket</a>
           </div>
           <div class="legal-note">
-            <p>Slutligt godkännande görs alltid av Kriminalvården. CellVia försöker arbeta i linje med anstalternas rutiner för att minska fel, oklarheter och onödiga returer. Genom tydligare förberedelse, varsam packning och respekt för mottagningens arbete vill vi göra processen enklare för familjer, mindre belastande för personalen och tryggare för den som väntar på paketet.</p>
+            <p>Slutlig kontroll och beslut görs alltid av anstalten. CellVia försöker arbeta i linje med anstalternas rutiner för att minska fel, oklarheter och onödiga returer.</p>
           </div>
         </div>
         <figure class="hero-image">
-          <img src="assets/hero-handover.jpg" alt="En svensk anstaltsmedarbetare tar emot ett CellVia-paket på ett lugnt och respektfullt sätt" />
+          <img src="assets/images/hero-handover.jpg" alt="En svensk anstaltsmedarbetare tar emot ett CellVia-paket på ett lugnt och respektfullt sätt" />
         </figure>
       </section>
 
@@ -65,22 +94,22 @@
 
       <section class="responsibility" id="ansvar">
         <div class="responsibility-media">
-          <img src="assets/cellvia-worker.jpg" alt="CellVia-medarbetare förbereder ett paket med omsorg" />
+          <img src="assets/images/cellvia-worker.jpg" alt="CellVia-medarbetare förbereder ett paket med omsorg" loading="lazy" decoding="async" />
         </div>
         <div class="responsibility-copy">
           <span>Vi tar ansvar för hela processen</span>
           <h2>Vi köper, kontrollerar och förbereder varje paket innan leverans</h2>
-          <p>CellVia hjälper familjer att skicka produkter på ett tryggare och tydligare sätt.</p>
-          <p>Vi kontrollerar innehållet, anpassar förpackningen och följer anstaltens riktlinjer innan paketet skickas vidare.</p>
-          <p>Målet är att minska fel, oklarheter och onödiga returer.</p>
+          <p>CellVia köper in produkterna, kontrollerar dem, packar dem omsorgsfullt och skickar paketet vidare till anstalten.</p>
+          <p>Målet är att göra processen enklare för familjer och minska risken för fel, oklarheter och onödiga returer.</p>
           <div class="responsibility-points">
-            <article><strong>Noggrant kontrollerat</strong><p>Vi granskar produkter innan de skickas vidare.</p></article>
-            <article><strong>Anpassat för anstalt</strong><p>Olika anstalter har olika regler och begränsningar.</p></article>
-            <article><strong>Förpackat av CellVia</strong><p>Produkter förbereds och packas av vårt team.</p></article>
-            <article><strong>Tydligare process för familjer</strong><p>Vi försöker göra processen enklare att förstå.</p></article>
+            <article><strong>Vi kontrollerar produkterna innan leverans</strong><p>Varje produkt granskas mot vald anstalts kända rutiner.</p></article>
+            <article><strong>Vi packar paketet själva</strong><p>CellVia förbereder och packar innehållet omsorgsfullt.</p></article>
+            <article><strong>Vi anpassar innehållet efter vald anstalt</strong><p>Olika anstalter kan ha olika rutiner och begränsningar.</p></article>
+            <article><strong>Vi dokumenterar innehållet internt</strong><p>Innehållet sparas tydligt i ordern för uppföljning.</p></article>
+            <article><strong>Slutlig bedömning görs alltid av anstalten</strong><p>CellVia kan minska risken för fel, men beslutet ligger hos anstalten.</p></article>
           </div>
           <figure class="packing-proof">
-            <img src="assets/documented-packing.jpg" alt="Ett öppet paket packas omsorgsfullt av CellVia" />
+            <img src="assets/images/documented-packing.jpg" alt="Ett öppet paket packas omsorgsfullt av CellVia" loading="lazy" decoding="async" />
             <figcaption>
               <strong>Dokumenterad packning</strong>
               <span>Kontroll, märkning och försegling i ett sammanhållet flöde.</span>
@@ -96,15 +125,15 @@
         </div>
         <div class="preparation-grid">
           <article>
-            <img src="assets/process-products.jpg" alt="Produkter ligger ordnade på ett bord inför packning" />
+            <img src="assets/images/process-products.jpg" alt="Produkter ligger ordnade på ett bord inför packning" loading="lazy" decoding="async" />
             <h3>Produkterna väljs ut</h3>
           </article>
           <article>
-            <img src="assets/cellvia-worker.jpg" alt="CellVia-medarbetare kontrollerar och förbereder ett paket" />
+            <img src="assets/images/cellvia-worker.jpg" alt="CellVia-medarbetare kontrollerar och förbereder ett paket" loading="lazy" decoding="async" />
             <h3>Vi kontrollerar och förbereder paketet</h3>
           </article>
           <article>
-            <img src="assets/process-sealed-package.jpg" alt="Ett stängt och prydligt CellVia-paket står redo för leverans" />
+            <img src="assets/images/process-sealed-package.jpg" alt="Ett stängt och prydligt CellVia-paket står redo för leverans" loading="lazy" decoding="async" />
             <h3>Paketet skickas vidare till anstalten</h3>
           </article>
         </div>
@@ -129,14 +158,14 @@
           <p>Börja med mottagningen. Olika anstalter kan ha olika regler, begränsningar och rutiner.</p>
           <div class="search-row">
             <input aria-label="Sök anstalt" placeholder="Sök anstalt, ort eller område" />
-            <button>Sök</button>
+            <button type="button" data-home-prison-search>Sök</button>
           </div>
         </div>
         <aside class="prison-card">
           <h3>Exempel: Saltvik Anstalt</h3>
           <p>Kontrollera alltid aktuell information innan paketet förbereds.</p>
-          <a href="#produkter">Visa produktkategorier</a>
-          <a href="#paket">Se paketförslag</a>
+          <a href="produkter.html">Visa produktkategorier</a>
+          <a href="paket.html">Se paketförslag</a>
         </aside>
       </section>
 
@@ -160,10 +189,10 @@
           <h2>Färdiga paketförslag</h2>
         </div>
         <div class="package-grid">
-          <article><h3>Bas - Hygien</h3><p>Vanliga hygienprodukter för vardagen.</p><ul><li>Produkter väljs ut</li><li>Förpackning anpassas</li><li>CellVia förbereder paketet</li></ul><a href="#nästa-steg">Visa innehåll</a></article>
-          <article><h3>Skriv & papper</h3><p>För brev, studier och vardagskontakt.</p><ul><li>Papper och kuvert</li><li>Enkel kontroll</li><li>Tydlig förberedelse</li></ul><a href="#nästa-steg">Visa innehåll</a></article>
-          <article><h3>Komfort</h3><p>Varsamt utvalda basprodukter.</p><ul><li>Mjuka vardagsartiklar</li><li>Anpassas efter anstalt</li><li>Packas av CellVia</li></ul><a href="#nästa-steg">Visa innehåll</a></article>
-          <article class="custom"><h3>Skapa eget paket</h3><p>Välj produkter själv och låt CellVia förbereda dem lugnt och tydligt.</p><a href="#nästa-steg">Skapa eget</a></article>
+          <article><h3>Bas - Hygien</h3><p>Vanliga hygienprodukter för vardagen.</p><ul><li>Produkter väljs ut</li><li>Förpackning anpassas</li><li>CellVia förbereder paketet</li></ul><a href="paket.html#bas-hygien">Visa innehåll</a></article>
+          <article><h3>Skriv & papper</h3><p>För brev, studier och vardagskontakt.</p><ul><li>Papper och kuvert</li><li>Enkel kontroll</li><li>Tydlig förberedelse</li></ul><a href="paket.html#brev-kontakt">Visa innehåll</a></article>
+          <article><h3>Komfort</h3><p>Varsamt utvalda basprodukter.</p><ul><li>Mjuka vardagsartiklar</li><li>Anpassas efter anstalt</li><li>Packas av CellVia</li></ul><a href="paket.html#komfort">Visa innehåll</a></article>
+          <article class="custom"><h3>Skapa eget paket</h3><p>Välj produkter själv och låt CellVia förbereda dem lugnt och tydligt.</p><a href="skapa-paket.html">Skapa eget</a></article>
         </div>
       </section>
 
@@ -173,7 +202,7 @@
           <h2>Det ska kännas enkelt att göra rätt</h2>
           <p>CellVia är byggt för familjer som vill skicka med omtanke, men också med respekt för de regler som gäller.</p>
         </div>
-        <a class="button primary" href="#anstalter">Börja med anstalt</a>
+        <a class="button primary" href="anstalter.html">Börja med anstalt</a>
       </section>
 
       <section class="faq" id="hjälp">
@@ -190,20 +219,20 @@
 
       <section class="next-step" id="nästa-steg">
         <h2>Starta med anstalten och låt innehållet följa reglerna</h2>
-        <a class="button primary" href="#anstalter">Kontrollera anstalt</a>
+        <a class="button primary" href="anstalter.html">Kontrollera anstalt</a>
       </section>
     </main>
 
     <footer class="footer">
       <div>
-        <a class="brand footer-brand" href="#hem">
+        <a class="brand footer-brand" href="index.html">
           <svg class="leaf-logo" viewBox="0 0 32 32" aria-hidden="true"><path d="M5 6c9 1 15 7 16 16C12 21 6 15 5 6Z"></path><path d="M27 5c-8 .5-13 5-14 13 8-1 13-5 14-13Z"></path></svg>
           <span>CellVia</span>
         </a>
         <p>En svensk plattform för tryggare och tydligare paketförberedelse.</p>
       </div>
-      <div><h3>Tjänster</h3><a href="#anstalter">Anstalter</a><a href="#paket">Paket</a><a href="#produkter">Produkter</a></div>
-      <div><h3>Hjälp</h3><a href="#hjälp">Vanliga frågor</a><a href="#ansvar">Vår process</a><a href="#nästa-steg">Nästa steg</a></div>
+      <div><h3>Tjänster</h3><a href="anstalter.html">Anstalter</a><a href="paket.html">Paket</a><a href="produkter.html">Produkter</a><a href="skapa-paket.html">Skapa paket</a></div>
+      <div><h3>Hjälp</h3><a href="hjalp.html">Vanliga frågor</a><a href="kontakt.html">Kontakt</a><a href="villkor.html">Villkor</a><a href="integritet.html">Integritetspolicy</a></div>
     </footer>
   </body>
 </html>

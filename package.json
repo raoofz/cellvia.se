@@ -1,0 +1,10 @@
+{
+  "name": "cellvia-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "lint": "node tools/check-site.js",
+    "build": "node tools/check-site.js"
+  }
+}
