@@ -40,6 +40,14 @@ function tagsFor(category, topCategory) {
   return tags;
 }
 
+function imageFor(category) {
+  if (category === "Hygien & personlig vård") return "assets/images/process-products.jpg";
+  if (category === "Kläder & basplagg") return "assets/images/cellvia-worker.jpg";
+  if (category === "Böcker & skrivmaterial" || category === "Brev & dokument") return "assets/images/documented-packing.jpg";
+  if (category === "Musik & ljud" || category === "CD-spelare & enklare elektronik") return "assets/images/process-sealed-package.jpg";
+  return "assets/images/process-products.jpg";
+}
+
 function descriptionFor(product, category) {
   const base = product.shortDescription || product.description;
   if (base && base.length > 12) return base.slice(0, 220);
@@ -61,7 +69,8 @@ const products = rawProducts.map((product) => {
     category,
     packageTags: tagsFor(category, product.topCategory),
     price: Math.round(Number(product.price || 0)),
-    image: product.thumbnail || product.image || "assets/images/process-products.jpg",
+    image: imageFor(category),
+    sourceImage: product.thumbnail || product.image || "",
     description: descriptionFor(product, category),
     usefulFor: `Kan vara relevant som katalogval inom ${product.topCategory}. Produkten visas som vägledning och kräver kontroll före köp och leverans.`,
     compatibilityStatus: status,

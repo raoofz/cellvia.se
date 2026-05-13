@@ -9,6 +9,7 @@
     const prisonSelect = qs("#product-prison");
     const packageSelect = qs("#product-package");
     const statusSelect = qs("#product-status");
+    const sourceCategorySelect = qs("#product-source-category");
     const sortSelect = qs("#product-sort");
     let visibleCount = 48;
     let lastFilterKey = "";
@@ -51,6 +52,8 @@
     if (packageSelect) packageSelect.innerHTML = `<option value="">Alla paketkopplingar</option>${packageTags.map((tag) => `<option>${escapeHtml(tag)}</option>`).join("")}`;
     const statuses = [...new Set(repo().products.all().map((product) => product.compatibilityStatus))];
     if (statusSelect) statusSelect.innerHTML = `<option value="">Alla kompatibiliteter</option>${statuses.map((status) => `<option>${escapeHtml(status)}</option>`).join("")}`;
+    const sourceCategories = [...new Set(repo().products.all().map((product) => product.sourceCategory).filter(Boolean))].sort((a, b) => a.localeCompare(b, "sv"));
+    if (sourceCategorySelect) sourceCategorySelect.innerHTML = `<option value="">Alla leverantörskategorier</option>${sourceCategories.map((category) => `<option>${escapeHtml(category)}</option>`).join("")}`;
     if (sortSelect) sortSelect.innerHTML = `<option value="recommended">Rekommenderad ordning</option><option value="price-asc">Pris: lägst först</option><option value="price-desc">Pris: högst först</option><option value="name">Namn A-Ö</option><option value="status">Kompatibilitet</option>`;
 
     function sortResults(results) {
@@ -72,7 +75,8 @@
         category: categorySelect?.value || "",
         prisonId,
         packageTag: packageSelect?.value || "",
-        status: statusSelect?.value || ""
+        status: statusSelect?.value || "",
+        sourceCategory: sourceCategorySelect?.value || ""
       };
       const filterKey = JSON.stringify({ ...filters, sort: sortSelect?.value || "" });
       if (filterKey !== lastFilterKey) {

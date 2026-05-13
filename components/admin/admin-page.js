@@ -21,10 +21,11 @@
 
   function renderPanels() {
     const reviewProducts = repo().products.all().filter((product) => product.requiresManualReview);
-    setHtml("#admin-products", reviewProducts.map((product) => `<li>${escapeHtml(product.name)} · ${escapeHtml(product.category)} · ${escapeHtml(product.compatibilityStatus)}</li>`).join("") || "<li>Inga produkter kräver granskning.</li>");
+    setHtml("#admin-products", reviewProducts.slice(0, 80).map((product) => `<li>${escapeHtml(product.name)} · ${escapeHtml(product.category)} · ${escapeHtml(product.compatibilityStatus)}</li>`).join("") + (reviewProducts.length > 80 ? `<li class="small-muted">Visar 80 av ${reviewProducts.length}. Använd produktsidan för full sökning.</li>` : "") || "<li>Inga produkter kräver granskning.</li>");
     setHtml("#admin-prisons", repo().prisons.all().map((prison) => `<option value="${prison.id}">${escapeHtml(prison.name)}</option>`).join(""));
     setHtml("#admin-messages", repo().contacts.all().map((message) => `<article><strong>${escapeHtml(message.name)}</strong><p>${escapeHtml(message.email)}</p><p>${escapeHtml(message.message)}</p></article>`).join("") || "<p>Inga kontaktmeddelanden ännu.</p>");
-    setHtml("#admin-product-management", repo().products.all().map((product) => `
+    const allProducts = repo().products.all();
+    setHtml("#admin-product-management", `<p class="small-muted">${allProducts.length} produkter i katalogen. De första 120 visas här för snabb kontroll.</p>` + allProducts.slice(0, 120).map((product) => `
       <article class="compact-admin-item">
         <strong>${escapeHtml(product.name)}</strong>
         <p>${escapeHtml(product.category)} · ${escapeHtml(product.stockStatus)} · ${escapeHtml(product.compatibilityStatus)}</p>
@@ -40,6 +41,7 @@
     `).join(""));
     const warnings = repo().products.all()
       .filter((product) => product.warningNotes.length || product.requiresManualReview)
+      .slice(0, 100)
       .map((product) => `<article class="compact-admin-item"><strong>${escapeHtml(product.name)}</strong><p>${escapeHtml(product.warningNotes.join(" ") || "Kräver manuell kontroll.")}</p></article>`)
       .join("");
     setHtml("#admin-warnings", warnings || "<p>Inga varningar i aktuell data.</p>");

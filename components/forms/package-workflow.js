@@ -5,6 +5,7 @@
   const { setHtml, qs, qsa } = window.CellViaDom;
   const { setStatus, clearStatus } = window.CellViaStatus;
   const pricing = { service: 89, packing: 59, shipping: 79 };
+  let visibleChoiceCount = 40;
 
   function totals(productIds) {
     const productTotal = productIds.reduce((sum, id) => sum + (repo().products.find(id)?.price || 0), 0);
@@ -71,11 +72,22 @@
   }
 
   function renderChoices(state) {
+    const search = (qs("#create-product-search")?.value || "").trim().toLowerCase();
+    const category = qs("#create-category-filter")?.value || "";
     const results = state.prisonId
       ? compatibility().productsForPrison(state.prisonId, { includeHidden: false })
       : repo().products.all().map((product) => compatibility().evaluateProductForPrison(product, null));
 
-    setHtml("#create-products", results.map((result) => {
+    const filtered = results.filter((result) => {
+      const product = result.product;
+      const text = [product.name, product.description, product.category, product.sourceCategory, product.compatibilityNote].join(" ").toLowerCase();
+      return (!search || text.includes(search)) && (!category || product.category === category);
+    });
+    const visible = filtered.slice(0, visibleChoiceCount);
+
+    setHtml("#create-products", `
+      <div class="results-count">${visible.length} av ${filtered.length} produkter visas i paketbyggaren</div>
+      ${visible.map((result) => {
       const product = result.product;
       return `
         <article class="choice-row ${result.isRisky ? "risky-choice" : ""}">
@@ -92,7 +104,10 @@
           </div>
         </article>
       `;
-    }).join(""));
+    }).join("")}
+      ${visible.length < filtered.length ? `<button type="button" class="button secondary load-more" data-create-show-more>Visa fler produkter</button>` : ""}
+      ${!filtered.length ? `<div class="empty-state">Inga produkter matchar sökningen. Prova en bredare sökning eller byt kategori.</div>` : ""}
+    `);
   }
 
   function mount() {
@@ -105,6 +120,11 @@
     if (prisonSelect) {
       prisonSelect.innerHTML = `<option value="">Välj anstalt</option>${repo().prisons.all().map((prison) => `<option value="${prison.id}">${escapeHtml(prison.name)}</option>`).join("")}`;
       if (prisonSeed) state.set({ prisonId: prisonSeed });
+    }
+    const createCategory = qs("#create-category-filter");
+    if (createCategory) {
+      const categories = [...new Set(repo().products.all().map((product) => product.category))].sort((a, b) => a.localeCompare(b, "sv"));
+      createCategory.innerHTML = `<option value="">Alla kategorier</option>${categories.map((item) => `<option>${escapeHtml(item)}</option>`).join("")}`;
     }
     if (productSeed) state.addProduct(productSeed);
     if (packageSeed) {
@@ -122,7 +142,15 @@
 
     prisonSelect?.addEventListener("change", () => {
       clearStatus("#create-status");
+      visibleChoiceCount = 40;
       state.set({ prisonId: prisonSelect.value });
+    });
+
+    qsa("#create-product-search, #create-category-filter").forEach((input) => {
+      input.addEventListener("input", () => {
+        visibleChoiceCount = 40;
+        renderChoices(state.get());
+      });
     });
 
     qsa("#inmate-name, #inmate-number, #order-notes").forEach((input) => {
@@ -136,6 +164,10 @@
     });
 
     window.CellViaDom.on(document, "click", "[data-create-add]", (_, button) => state.addProduct(button.dataset.createAdd));
+    window.CellViaDom.on(document, "click", "[data-create-show-more]", () => {
+      visibleChoiceCount += 40;
+      renderChoices(state.get());
+    });
     window.CellViaDom.on(document, "click", "[data-create-check]", (_, button) => {
       const current = state.get();
       const product = repo().products.find(button.dataset.createCheck);

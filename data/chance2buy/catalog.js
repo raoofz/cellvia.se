@@ -663,7 +663,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/watermusic-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/watermusic-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -692,7 +693,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/vikingarnasave-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/vikingarnasave-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -721,7 +723,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/vikingarnakramgoa-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/vikingarnakramgoa-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -750,7 +753,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/ultimategirlsnightin-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/ultimategirlsnightin-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -779,7 +783,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/tranquiltity-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/tranquiltity-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -808,7 +813,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/tranquilchilloutharmony-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/tranquilchilloutharmony-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -837,7 +843,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/timericeanydream-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/timericeanydream-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -866,7 +873,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/xfactor.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/xfactor.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -895,7 +903,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/theworldsgreatest-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/theworldsgreatest-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -924,7 +933,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/theworldofyourhundredbest-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/theworldofyourhundredbest-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -953,7 +963,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/thesoundsofchrist-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/thesoundsofchrist-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -982,7 +993,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thekillersbestof-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thekillersbestof-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1011,7 +1023,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/tiotoviolin-420x413.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/tiotoviolin-420x413.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1040,7 +1053,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/tiofttrumpet-420x414.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/tiofttrumpet-420x414.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1069,7 +1083,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/theorgans-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/theorgans-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1098,7 +1113,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/tiothooboe-420x413.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/tiothooboe-420x413.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1127,7 +1143,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/tioftoflute-420x410.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/tioftoflute-420x410.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1156,7 +1173,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thegreatirish-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thegreatirish-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1185,7 +1203,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/theglennmillerchristmas-420x422.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/theglennmillerchristmas-420x422.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1214,7 +1233,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/theflashbackchrist.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/theflashbackchrist.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1243,7 +1263,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/theessentialbands-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/theessentialbands-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1272,7 +1293,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thechristmasalbumfestive-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thechristmasalbumfestive-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1301,7 +1323,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thebestchristmasever-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thebestchristmasever-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1330,7 +1353,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/tamlamotown-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/tamlamotown-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1359,7 +1383,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/susanboyle-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/susanboyle-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1388,7 +1413,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/stenstanleypabegaren-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/stenstanleypabegaren-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1417,7 +1443,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/starsofthewestend-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/starsofthewestend-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1446,7 +1473,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/soullegendswish-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/soullegendswish-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1475,7 +1503,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/soullegendsdance.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/soullegendsdance.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1504,7 +1533,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/smashhit-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/smashhit-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1533,7 +1563,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/simplyred.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/simplyred.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1562,7 +1593,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/simonsabba-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/simonsabba-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1591,7 +1623,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/serdarortcask-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/serdarortcask-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1620,7 +1653,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/renatascott-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/renatascott-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1649,7 +1683,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/puremidnightsoul-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/puremidnightsoul-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1678,7 +1713,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/perfectday-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/perfectday-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1707,7 +1743,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/pavelstratan-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/pavelstratan-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1736,7 +1773,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/paulpotts-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/paulpotts-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1765,7 +1803,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/paulmealor-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/paulmealor-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1794,7 +1833,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/paranorma-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/paranorma-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1823,7 +1863,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/niteflite-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/niteflite-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1852,7 +1893,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/natkingcoleorange.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/natkingcoleorange.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1881,7 +1923,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/musicofthenight-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/musicofthenight-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1910,7 +1953,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/mrmusicgreatestcountryhits-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/mrmusicgreatestcountryhits-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1939,7 +1983,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/mrmusiccountry-420x415.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/mrmusiccountry-420x415.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1968,7 +2013,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/millenniummemo-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/millenniummemo-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -1997,7 +2043,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/marcelkayath-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/marcelkayath-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2026,7 +2073,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/lundskonamaj-420x428.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/lundskonamaj-420x428.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2055,7 +2103,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/luisp-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/luisp-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2084,7 +2133,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/liammoore.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/liammoore.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2113,7 +2163,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/LaBoiteADiscoFunk.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/LaBoiteADiscoFunk.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2142,7 +2193,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/joniharmswhateverittakes-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/joniharmswhateverittakes-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2171,7 +2223,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/joniharmsthatsfaith-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/joniharmsthatsfaith-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2200,7 +2253,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/joniharmsafterall-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/joniharmsafterall-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2229,7 +2283,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/jinglebells-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/jinglebells-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2258,7 +2313,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/jimreevesverybestof-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/jimreevesverybestof-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2287,7 +2343,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/jimreeves-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/jimreeves-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2316,7 +2373,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/ignasisimon-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/ignasisimon-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2345,7 +2403,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/imeverywomen-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/imeverywomen-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2374,7 +2433,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/hits53-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/hits53-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2403,7 +2463,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/helpinghaiti-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/helpinghaiti-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2432,7 +2493,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/hearsay-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/hearsay-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2461,7 +2523,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/harrybrandelius.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/harrybrandelius.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2490,7 +2553,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/harrybelafonte.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/harrybelafonte.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2519,7 +2583,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/musicforaglor-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/musicforaglor-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2548,7 +2613,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/goldensoulhits-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/goldensoulhits-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2577,7 +2643,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/francis-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/francis-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2606,7 +2673,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/everttaubetillsjos.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/everttaubetillsjos.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2635,7 +2703,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/essentialdeltablues-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/essentialdeltablues-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2664,7 +2733,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/enbukettrosor40-420x424.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/enbukettrosor40-420x424.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2693,7 +2763,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/elvis20love-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/elvis20love-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2722,7 +2793,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/elvis18filmhits-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/elvis18filmhits-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2751,7 +2823,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/edytabartosiewiczsen-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/edytabartosiewiczsen-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2780,7 +2853,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/edyta-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/edyta-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2809,7 +2883,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/dreamboatjazzband-420x424.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/dreamboatjazzband-420x424.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2838,7 +2913,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/daveaustin-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/daveaustin-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2867,7 +2943,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/danielodonell-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/danielodonell-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2896,7 +2973,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/danielbed-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/danielbed-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2925,7 +3003,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicalcrhistmas30.jpg-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicalcrhistmas30.jpg-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2954,7 +3033,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicfmhalloffame-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicfmhalloffame-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -2983,7 +3063,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicfmsmooth.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicfmsmooth.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3012,7 +3093,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicfmclassicsonfilm-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicfmclassicsonfilm-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3041,7 +3123,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicfmbestof2002-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicfmbestof2002-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3070,7 +3153,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/christmasrefle-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/christmasrefle-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3099,7 +3183,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/celticmyths-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/celticmyths-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3128,7 +3213,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/carolosmerton-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/carolosmerton-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3157,7 +3243,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/boptildr-420x423.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/boptildr-420x423.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3186,7 +3273,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/bengthenningbast-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/bengthenningbast-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3215,7 +3303,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/bellehendrik-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/bellehendrik-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3244,7 +3333,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/baroqueandearly-420x419.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/baroqueandearly-420x419.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3273,7 +3363,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/anitalindblomcollection-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/anitalindblomcollection-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3302,7 +3393,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/andrewlloydgenius-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/andrewlloydgenius-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3331,7 +3423,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/amazonodyssey-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/amazonodyssey-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3360,7 +3453,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/asamplelondon-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/asamplelondon-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3389,7 +3483,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/20timelessclassics-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/20timelessclassics-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3418,7 +3513,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/20immortal-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/20immortal-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3447,7 +3543,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/theworldoftheacademy-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/theworldoftheacademy-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3476,7 +3573,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/wordstotheworld-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/wordstotheworld-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3505,7 +3603,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/westlifefacetoface-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/westlifefacetoface-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3534,7 +3633,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/voiceofthevalley-420x426.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/voiceofthevalley-420x426.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3563,7 +3663,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/vivaldi-420x418.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/vivaldi-420x418.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3592,7 +3693,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/vicente-420x415.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/vicente-420x415.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3621,7 +3723,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/verdiarias-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/verdiarias-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3650,7 +3753,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thenone-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thenone-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3679,7 +3783,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/best2006-420x415.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/best2006-420x415.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3708,7 +3813,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thunderdome-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thunderdome-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3737,7 +3843,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/theworldsfavouriteschristmas-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/theworldsfavouriteschristmas-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3766,7 +3873,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/thegreatsongwriters-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/thegreatsongwriters-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3795,7 +3903,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/theshadows-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/theshadows-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3824,7 +3933,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thepriests-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thepriests-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3853,7 +3963,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/postoffice-420x418.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/postoffice-420x418.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3882,7 +3993,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thepercythemesfromstagescreen-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thepercythemesfromstagescreen-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3911,7 +4023,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/theoperaalbum2002-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/theoperaalbum2002-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3940,7 +4053,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/theofficialscotland-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/theofficialscotland-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3969,7 +4083,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/musicalswestide-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/musicalswestide-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -3998,7 +4113,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/themuscialgrease.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/themuscialgrease.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4027,7 +4143,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/themusicofeltonjohn-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/themusicofeltonjohn-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4056,7 +4173,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/mostwonderfuljpg-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/mostwonderfuljpg-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4085,7 +4203,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thelightningseeds-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thelightningseeds-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4114,7 +4233,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thegreatestthemes-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thegreatestthemes-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4143,7 +4263,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thegreatesthitsoftheclassics-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thegreatesthitsoftheclassics-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4172,7 +4293,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thegreatromancepiano-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thegreatromancepiano-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4201,7 +4323,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/TheEssenceofJazzVocals-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/TheEssenceofJazzVocals-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4230,7 +4353,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thecrooners-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thecrooners-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4259,7 +4383,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thecorrs-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thecorrs-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4288,7 +4413,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/scotswha-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/scotswha-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4317,7 +4443,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/theclassicalalbum2009-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/theclassicalalbum2009-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4346,7 +4473,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thebeatlespartymix-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thebeatlespartymix-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4375,7 +4503,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thealbum-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thealbum-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4404,7 +4533,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/taichi-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/taichi-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4433,7 +4563,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/switched-420x421.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/switched-420x421.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4462,7 +4593,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/sugarsugar-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/sugarsugar-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4491,7 +4623,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/storytellers-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/storytellers-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4520,7 +4653,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/sprangeen-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/sprangeen-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4549,7 +4683,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/spanishguitar-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/spanishguitar-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4578,7 +4713,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/soundsofinstr-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/soundsofinstr-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4607,7 +4743,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/songsfromthemusicals-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/songsfromthemusicals-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4636,7 +4773,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/slammin-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/slammin-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4665,7 +4803,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/simplyred25-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/simplyred25-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4694,7 +4833,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/simonegui-420x419.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/simonegui-420x419.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4723,7 +4863,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/simone-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/simone-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4752,7 +4893,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/sibelius-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/sibelius-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4781,7 +4923,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/scissor-420x427.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/scissor-420x427.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4810,7 +4953,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/russellwatsonencore-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/russellwatsonencore-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4839,7 +4983,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/rossano-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/rossano-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4868,7 +5013,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/rosemarie-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/rosemarie-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4897,7 +5043,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/ronankeating-420x418.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/ronankeating-420x418.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4926,7 +5073,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/roknroll40-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/roknroll40-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4955,7 +5103,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/1960rocknroll-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/1960rocknroll-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -4984,7 +5133,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/rio-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/rio-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5013,7 +5163,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/rickymartinlivinlavida-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/rickymartinlivinlavida-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5042,7 +5193,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/richardandadam-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/richardandadam-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5071,7 +5223,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/radio2cent.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/radio2cent.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5100,7 +5253,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/radio1vol5-420x421.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/radio1vol5-420x421.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5129,7 +5283,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/quietmusic-420x421.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/quietmusic-420x421.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5158,7 +5313,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/purcell-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/purcell-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5187,7 +5343,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/proms94-420x419.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/proms94-420x419.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5216,7 +5373,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/performedinheaven-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/performedinheaven-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5245,7 +5403,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/partyparty-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/partyparty-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5274,7 +5433,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/ottorino-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/ottorino-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5303,7 +5463,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/olofarnalds-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/olofarnalds-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5332,7 +5493,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/nightfeber-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/nightfeber-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5361,7 +5523,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/nigelk-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/nigelk-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5390,7 +5553,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/nationalphil-420x424.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/nationalphil-420x424.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5419,7 +5583,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/kenburns-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/kenburns-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5448,7 +5613,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/musicdanceilike-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/musicdanceilike-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5477,7 +5643,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/mozartmasterpie-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/mozartmasterpie-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5506,7 +5673,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/mozart21-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/mozart21-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5535,7 +5703,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/motown50-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/motown50-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5564,7 +5733,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/moremistrel-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/moremistrel-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5593,7 +5763,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/mojoindie-420x421.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/mojoindie-420x421.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5622,7 +5793,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/mohamedg-420x398.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/mohamedg-420x398.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5651,7 +5823,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/loscuas-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/loscuas-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5680,7 +5853,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/militaryw-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/militaryw-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5709,7 +5883,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/michaelbublecrazy-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/michaelbublecrazy-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5738,7 +5913,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/meditationclassics-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/meditationclassics-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5767,7 +5943,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/maurizio-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/maurizio-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5796,7 +5973,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/magicofthewaltz-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/magicofthewaltz-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5825,7 +6003,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/magicballads-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/magicballads-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5854,7 +6033,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/lulu-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/lulu-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5883,7 +6063,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/lovesongsinbrass-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/lovesongsinbrass-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5912,7 +6093,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/libertyx-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/libertyx-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5941,7 +6123,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/legendsofthecent-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/legendsofthecent-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5970,7 +6153,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/legendsoflasvegas-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/legendsoflasvegas-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -5999,7 +6183,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/theorginales-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/theorginales-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6028,7 +6213,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/keith-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/keith-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6057,7 +6243,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/journeywiththewhales-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/journeywiththewhales-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6086,7 +6273,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/joniharms-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/joniharms-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6115,7 +6303,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/joedolan-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/joedolan-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6144,7 +6333,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/joanarma-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/joanarma-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6173,7 +6363,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/jazzcafe-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/jazzcafe-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6202,7 +6393,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/javiers-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/javiers-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6231,7 +6423,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/idolsofthes-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/idolsofthes-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6260,7 +6453,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/refoil-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/refoil-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6289,7 +6483,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/hollywoodclassics-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/hollywoodclassics-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6318,7 +6513,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/hitsofthesixtiesvol1-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/hitsofthesixtiesvol1-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6347,7 +6543,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/hitsofthesixties-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/hitsofthesixties-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6376,7 +6573,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/hippyhippy.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/hippyhippy.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6405,7 +6603,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/heartbeatandheartaches-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/heartbeatandheartaches-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6434,7 +6633,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/musicalsthephantom-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/musicalsthephantom-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6463,7 +6663,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/musicalsoliver-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/musicalsoliver-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6492,7 +6693,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/kidsfav-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/kidsfav-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6521,7 +6723,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/georgeharrisonmysweetlord-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/georgeharrisonmysweetlord-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6550,7 +6753,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/frankiel-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/frankiel-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6579,7 +6783,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/filmthemesulti.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/filmthemesulti.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6608,7 +6813,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/female-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/female-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6637,7 +6843,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/favouritesrequ-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/favouritesrequ-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6666,7 +6873,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/donnasummer-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/donnasummer-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6695,7 +6903,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/dominick-420x424.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/dominick-420x424.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6724,7 +6933,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/dinacarroll-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/dinacarroll-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6753,7 +6963,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/debenhams.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/debenhams.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6782,7 +6993,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/contemporaryhymns-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/contemporaryhymns-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6811,7 +7023,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/collincampbell-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/collincampbell-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6840,7 +7053,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicalmasterpieces-420x414.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicalmasterpieces-420x414.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6869,7 +7083,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicalitaly-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicalitaly-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6898,7 +7113,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/zhlclassicaldreams-420x428.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/zhlclassicaldreams-420x428.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6927,7 +7143,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicalchilloutgold-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicalchilloutgold-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6956,7 +7173,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicpfunkmaster-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicpfunkmaster-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -6985,7 +7203,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicfmrelaxescape-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicfmrelaxescape-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7014,7 +7233,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicalmusicatthemovies-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/classicalmusicatthemovies-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7043,7 +7263,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/chrstinaguilera-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/chrstinaguilera-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7072,7 +7293,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/choraleven-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/choraleven-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7101,7 +7323,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/chopinpianoclassics-420x418.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/chopinpianoclassics-420x418.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7130,7 +7353,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/charlottechurch-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/charlottechurch-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7159,7 +7383,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/celticheart-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/celticheart-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7188,7 +7413,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/celloadagios-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/celloadagios-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7217,7 +7443,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/carlorff-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/carlorff-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7246,7 +7473,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/capitalgoldsix.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/capitalgoldsix.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7275,7 +7503,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/capitalgoldguitar-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/capitalgoldguitar-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7304,7 +7533,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/calumkennedyking-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/calumkennedyking-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7333,7 +7563,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/callumkennedylands-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/callumkennedylands-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7362,7 +7593,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/busteda-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/busteda-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7391,7 +7623,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/brahmsworkofp-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/brahmsworkofp-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7420,7 +7653,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/bossanovaforlovers-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/bossanovaforlovers-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7449,7 +7683,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/bestoffolk-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/bestoffolk-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7478,7 +7713,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/ludbeethoven-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/ludbeethoven-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7507,7 +7743,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/ludwigvan35-420x428.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/ludwigvan35-420x428.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7536,7 +7773,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/battlesep-420x422.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/battlesep-420x422.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7565,7 +7803,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/johannsebastianbach-420x421.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/johannsebastianbach-420x421.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7594,7 +7833,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/assorted95-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/assorted95-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7623,7 +7863,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/andrewlloydthepremiercoll-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/andrewlloydthepremiercoll-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7652,7 +7893,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/anarchyin-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/anarchyin-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7681,7 +7923,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/alifakra-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/alifakra-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7710,7 +7953,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/aledj-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/aledj-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7739,7 +7983,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/alanga-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/alanga-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7768,7 +8013,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/addicted2baseline-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/addicted2baseline-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7797,7 +8043,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/adreamofpeace-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/adreamofpeace-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7826,7 +8073,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/aclassicalchristmasseason-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/aclassicalchristmasseason-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7855,7 +8103,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/60festive-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/60festive-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7884,7 +8133,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/300years.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/300years.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7913,7 +8163,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/25yearsofrocknroll-420x419.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/25yearsofrocknroll-420x419.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7942,7 +8193,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/100hits60-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/100hits60-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -7971,7 +8223,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/lipstick50-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/lipstick50-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8000,7 +8253,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/yoursound-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/yoursound-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8029,7 +8283,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/wonderfulpiano-420x419.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/wonderfulpiano-420x419.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8058,7 +8313,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/willyoung-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/willyoung-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8087,7 +8343,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/willyoungfriday-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/willyoungfriday-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8116,7 +8373,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/westlifeworld-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/westlifeworld-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8145,7 +8403,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/westlifelove-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/westlifelove-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8174,7 +8433,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/urbantheo-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/urbantheo-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8203,7 +8463,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "assets/images/process-products.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8232,7 +8493,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/unforgetable-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/unforgetable-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8261,7 +8523,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/ultimatesixtiesvol1-420x415.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/ultimatesixtiesvol1-420x415.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8290,7 +8553,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/ultimateseventiesvol2-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/ultimateseventiesvol2-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8319,7 +8583,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/tommyscott-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/tommyscott-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8348,7 +8613,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thosewherethedays-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thosewherethedays-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8377,7 +8643,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thisischillout-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thisischillout-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8406,7 +8673,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/thisischillout-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/thisischillout-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8435,7 +8703,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/theworldofthe5060-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/theworldofthe5060-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8464,7 +8733,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/theverybestofpurernbwinter-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/theverybestofpurernbwinter-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8493,7 +8763,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/themood-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/themood-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8522,7 +8793,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/thelas-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/thelas-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8551,7 +8823,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/killers-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/killers-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8580,7 +8853,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/theinstrumentguitarlute-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/theinstrumentguitarlute-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8609,7 +8883,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/film90s-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/film90s-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8638,7 +8913,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/thechartshow-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/thechartshow-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8667,7 +8943,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/thebritish60s-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/thebritish60s-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8696,7 +8973,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/thebestsixtiesalbumintheworldever-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/thebestsixtiesalbumintheworldever-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8725,7 +9003,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/thebestibiza-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/thebestibiza-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8754,7 +9033,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/super60s-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/super60s-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8783,7 +9063,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/sundayexpress.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/sundayexpress.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8812,7 +9093,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/nonstoppop-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/nonstoppop-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8841,7 +9123,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/singlegirl-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/singlegirl-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8870,7 +9153,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/simplywoman-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/simplywoman-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8899,7 +9183,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "assets/images/process-products.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8928,7 +9213,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/sentimentaljourney-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/sentimentaljourney-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8957,7 +9243,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/sclub7-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/sclub7-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -8986,7 +9273,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/russellvoice-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/russellvoice-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9015,7 +9303,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/russellamo-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/russellamo-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9044,7 +9333,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/russellultimate-420x419.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/russellultimate-420x419.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9073,7 +9363,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/robsongreen-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/robsongreen-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9102,7 +9393,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/rhydian-420x421.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/rhydian-420x421.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9131,7 +9423,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/restrelaxation-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/restrelaxation-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9160,7 +9453,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/prince-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/prince-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9189,7 +9483,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/playlistthedef-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/playlistthedef-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9218,7 +9513,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/pianoclassics-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/pianoclassics-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9247,7 +9543,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/perfectweddingclassics-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/perfectweddingclassics-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9276,7 +9573,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/ollymurs-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/ollymurs-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9305,7 +9603,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/oasis-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/oasis-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9334,7 +9633,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/nowdance97.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/nowdance97.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9363,7 +9663,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/newwomanhits-420x419.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/newwomanhits-420x419.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9392,7 +9693,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/neworder-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/neworder-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9421,7 +9723,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/mumdad-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/mumdad-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9450,7 +9753,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/morecoolbritt-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/morecoolbritt-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9479,7 +9783,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/mariolanza-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/mariolanza-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9508,7 +9813,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/magnif80-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/magnif80-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9537,7 +9843,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/madonna-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/madonna-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9566,7 +9873,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/lightfamilypostcardfromheaven-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/lightfamilypostcardfromheaven-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9595,7 +9903,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/lighthouseocean-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/lighthouseocean-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9624,7 +9933,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/letsgrooveagain-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/letsgrooveagain-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9653,7 +9963,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/letthemusicplay-420x418.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/letthemusicplay-420x418.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9682,7 +9993,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/lomond-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/lomond-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9711,7 +10023,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/kisspresentshotj-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/kisspresentshotj-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9740,7 +10053,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/kerrang-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/kerrang-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9769,7 +10083,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/jls-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/jls-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9798,7 +10113,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/jamilula-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/jamilula-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9827,7 +10143,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/girlsinlove.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/girlsinlove.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9856,7 +10173,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/j17selecta-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/j17selecta-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9885,7 +10203,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/itsagirlthing-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/itsagirlthing-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9914,7 +10233,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/ireneamothers-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/ireneamothers-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9943,7 +10263,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/ildivoacora-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/ildivoacora-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -9972,7 +10293,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/ibizaclassics-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/ibizaclassics-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10001,7 +10323,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/garage-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/garage-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10030,7 +10353,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/ilovedad-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/ilovedad-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10059,7 +10383,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/hereandnow80s-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/hereandnow80s-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10088,7 +10413,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/hercules.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/hercules.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10117,7 +10443,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/heartbeatsmoments-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/heartbeatsmoments-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10146,7 +10473,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/happysongs-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/happysongs-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10175,7 +10503,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/hallel-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/hallel-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10204,7 +10533,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/greensleeves-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/greensleeves-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10233,7 +10563,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/greatesthitsofpunk-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/greatesthitsofpunk-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10262,7 +10593,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/grahamdarby-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/grahamdarby-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10291,7 +10623,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/gowild-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/gowild-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10320,7 +10653,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/garage-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/garage-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10349,7 +10683,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/funkydivas-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/funkydivas-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10378,7 +10713,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/formumdads-420x423.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/formumdads-420x423.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10407,7 +10743,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/aromarelax-420x392.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/aromarelax-420x392.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10436,7 +10773,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/beofreelvis-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/beofreelvis-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10465,7 +10803,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/eltonjohn-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/eltonjohn-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10494,7 +10833,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/destress-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/destress-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10523,7 +10863,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/freewheeling-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/freewheeling-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10552,7 +10893,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/cocteautwins-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/cocteautwins-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10581,7 +10923,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/classicfm2-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/classicfm2-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10610,7 +10953,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "assets/images/process-products.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10639,7 +10983,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/christina-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/christina-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10668,7 +11013,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/chicago-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/chicago-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10697,7 +11043,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/changes-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/changes-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10726,7 +11073,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/busted-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/busted-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10755,7 +11103,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/boyzone-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/boyzone-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10784,7 +11133,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/blink182-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/blink182-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10813,7 +11163,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/billyjoelstormfront-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/billyjoelstormfront-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10842,7 +11193,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/benhaenow-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/benhaenow-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10871,7 +11223,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/bed2dafloor-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/bed2dafloor-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10900,7 +11253,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/barbarastr-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/barbarastr-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10929,7 +11283,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/atomickitten-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/atomickitten-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10958,7 +11313,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/arnold-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/arnold-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -10987,7 +11343,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/anytimeclassics-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/anytimeclassics-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11016,7 +11373,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/annualsummer-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/annualsummer-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11045,7 +11403,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/americananthems-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/americananthems-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11074,7 +11433,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/abbeywaitongfortheday-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/abbeywaitongfortheday-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11103,7 +11463,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/centruriaabbey-420x415.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/centruriaabbey-420x415.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11132,7 +11493,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/abbamania-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/abbamania-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11161,7 +11523,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Thealista1.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Thealista1.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11190,7 +11553,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/classicalshades-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/classicalshades-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11219,7 +11583,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/40goldenoldies-420x412.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/40goldenoldies-420x412.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11248,7 +11613,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/101housework-420x363.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/101housework-420x363.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11275,7 +11641,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 89,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Telia-Kontantkort-420x420.png",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Telia-Kontantkort-420x420.png",
       "description": "Nummersatt trippel-SIM. OBS! Måste aktiveras med bank-ID, i Telia-butik eller hos ATG-ombud (och laddas). Kontantkort är på väg in i vårt lager.",
       "usefulFor": "Kan vara relevant som katalogval inom Muck och permission. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -11302,7 +11669,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 7999,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/iPhone-15-420x548.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/iPhone-15-420x548.jpg",
       "description": "A16-Chip, extra lång batteritid, 48/12 MP kamera, 6,1” SuperRetina XDR OLED-skärm.",
       "usefulFor": "Kan vara relevant som katalogval inom Muck och permission. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -11329,7 +11697,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 2799,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Samsung-A17-420x506.webp",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Samsung-A17-420x506.webp",
       "description": "Snabb och mångsidig med 5000 mAh batteri, 6,7” FHD+ Super AMOLED-skärm, 50MP kamera.",
       "usefulFor": "Kan vara relevant som katalogval inom Muck och permission. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -11356,7 +11725,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 399,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Duffelbag-420x277.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Duffelbag-420x277.jpg",
       "description": "Rymlig bag i nylon med många mindre fack. När den är tom viks den enkelt ihop och tar minimal plats.",
       "usefulFor": "Kan vara relevant som katalogval inom Muck och permission. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -11383,7 +11753,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 289,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Kungsbacka-Tyra-Sv-420x697.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Kungsbacka-Tyra-Sv-420x697.jpg",
       "description": "Huvudfack med avdelare för laptop. Rymlig framficka med dragkedja. Justerbara axelremmar för optimal komfort.",
       "usefulFor": "Kan vara relevant som katalogval inom Muck och permission. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -11410,7 +11781,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Champ-bil-420x312.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Champ-bil-420x312.jpg",
       "description": "Utgångar: USB-C och USB-A",
       "usefulFor": "Kan vara relevant som katalogval inom Muck och permission. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -11437,7 +11809,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Champ-Laddare-420x383.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Champ-Laddare-420x383.jpg",
       "description": "Katalogprodukt från Chance2Buy inom tillbehör. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Muck och permission. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -11464,7 +11837,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Champ-C-Light-420x466.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Champ-C-Light-420x466.jpg",
       "description": "Kabellängd 1 m",
       "usefulFor": "Kan vara relevant som katalogval inom Muck och permission. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -11491,7 +11865,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 179,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Champ-C-C-420x469.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Champ-C-C-420x469.jpg",
       "description": "Kabellängd 1 m",
       "usefulFor": "Kan vara relevant som katalogval inom Muck och permission. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -11518,7 +11893,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Champ-A-C-420x466.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Champ-A-C-420x466.jpg",
       "description": "Kabellängd 1 m",
       "usefulFor": "Kan vara relevant som katalogval inom Muck och permission. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -11545,7 +11921,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Denver-in-ea-420x500.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Denver-in-ea-420x500.jpg",
       "description": "Bluetooth V5.3, inbyggd mikrofon, ca 6 timmar speltid per laddning, USB-C-ingång för laddning.",
       "usefulFor": "Kan vara relevant som katalogval inom Muck och permission. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -11572,7 +11949,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Hama-PB-20000-420x610.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Hama-PB-20000-420x610.jpg",
       "description": "Tre utgångar (2 USB-C och en USB-A) samt en USB-C-ingång för uppladdning. Säker snabbladdning och digital display 0-100%.",
       "usefulFor": "Kan vara relevant som katalogval inom Muck och permission. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -11599,7 +11977,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Hama-PB-5000.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Hama-PB-5000.jpg",
       "description": "Två USB-A-utgångar så du kan ladda två produkter samtidigt samt en USB-C-ingång för uppladdning.",
       "usefulFor": "Kan vara relevant som katalogval inom Muck och permission. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -11627,7 +12006,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Markus-Schulz-In-Search-Of-Sunrise-21-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Markus-Schulz-In-Search-Of-Sunrise-21-420x420.jpg",
       "description": "3 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11655,7 +12035,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/DJ-Snake-NOMAD-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/DJ-Snake-NOMAD-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11683,7 +12064,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Dimitri-Vegas-Like-Mike-Bringing-The-Madness-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Dimitri-Vegas-Like-Mike-Bringing-The-Madness-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11711,7 +12093,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 109,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Van-Halen-Van-Halen-Ii-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Van-Halen-Van-Halen-Ii-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11739,7 +12122,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Stratovarius-Surviv-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Stratovarius-Surviv-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11767,7 +12151,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 279,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Scorpions-From-The-First-Sting-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Scorpions-From-The-First-Sting-420x420.jpg",
       "description": "2 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11795,7 +12180,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Rammstein-Mutter-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Rammstein-Mutter-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11823,7 +12209,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Primal-Fear-Domination-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Primal-Fear-Domination-420x420.jpg",
       "description": "2 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11851,7 +12238,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Pantera-Reinventing-Hell-Best-Of-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Pantera-Reinventing-Hell-Best-Of-420x420.jpg",
       "description": "2 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11879,7 +12267,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 119,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Megadeth-Greatest-Hits-Back-To-The-Start-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Megadeth-Greatest-Hits-Back-To-The-Start-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11907,7 +12296,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 119,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Marilyn-Manson-The-High-End-Of-Low-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Marilyn-Manson-The-High-End-Of-Low-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11935,7 +12325,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 169,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Manowar-Triple-Album-Collection-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Manowar-Triple-Album-Collection-420x420.jpg",
       "description": "3 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11963,7 +12354,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Lordi-Arockalypse-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Lordi-Arockalypse-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -11991,7 +12383,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 119,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Kiss-Dressed-To-Kill-Remaster-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Kiss-Dressed-To-Kill-Remaster-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12019,7 +12412,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Judas-Priest-The-Essential-Judas-Priest-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Judas-Priest-The-Essential-Judas-Priest-420x420.jpg",
       "description": "2 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12047,7 +12441,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Europe-The-Final-Countdown-The-Best-Of-Europe-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Europe-The-Final-Countdown-The-Best-Of-Europe-420x420.jpg",
       "description": "2 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12075,7 +12470,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Dream-Evil-Metal-Gods-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Dream-Evil-Metal-Gods-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12103,7 +12499,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Disturbed-Divisive-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Disturbed-Divisive-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12131,7 +12528,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 119,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Bryan-Adams-So-Happy-It-Hurts-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Bryan-Adams-So-Happy-It-Hurts-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12159,7 +12557,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Bon-Jovi-Bon-Jovi-Greatest-Hits-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Bon-Jovi-Bon-Jovi-Greatest-Hits-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12187,7 +12586,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 189,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Alice-Cooper-Best-Of-Alice-Cooper-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Alice-Cooper-Best-Of-Alice-Cooper-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12215,7 +12615,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Aerosmith-Greatest-Hits-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Aerosmith-Greatest-Hits-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12243,7 +12644,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 159,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Accept-Metal-Heart-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Accept-Metal-Heart-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12271,7 +12673,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 219,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Young-Miko-420x499.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Young-Miko-420x499.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12299,7 +12702,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Rauw-Alejandro-Cosa-Nuestra-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Rauw-Alejandro-Cosa-Nuestra-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12327,7 +12731,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Maluma-Don-Juan-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Maluma-Don-Juan-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12355,7 +12760,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Karol-G-Tropicoqueta-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Karol-G-Tropicoqueta-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12383,7 +12789,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 269,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Wicked-Movie-Cast-Cynthia-Erivo-Ariana-Grande-Wicked-For-Good-–-The-Soundtrack-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Wicked-Movie-Cast-Cynthia-Erivo-Ariana-Grande-Wicked-For-Good-–-The-Soundtrack-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12411,7 +12818,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 119,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Whitney-Houston-My-Love-Is-Your-Love-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Whitney-Houston-My-Love-Is-Your-Love-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12439,7 +12847,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 269,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/The-Weeknd-Hurry-Up-Tomorrow-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/The-Weeknd-Hurry-Up-Tomorrow-420x420.jpg",
       "description": "2 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12467,7 +12876,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Taylor-Swift-The-Life-Of-A-Showgirl-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Taylor-Swift-The-Life-Of-A-Showgirl-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12495,7 +12905,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Shakira-Las-Mujeres-Ya-No-Lloran-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Shakira-Las-Mujeres-Ya-No-Lloran-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12523,7 +12934,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 219,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Mariah-Carey-Here-For-It-All-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Mariah-Carey-Here-For-It-All-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12551,7 +12963,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Madison-Beer-locket.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Madison-Beer-locket.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12579,7 +12992,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 119,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Imagine-Dragons-Origins-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Imagine-Dragons-Origins-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12607,7 +13021,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Coldplay-Moon-Music.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Coldplay-Moon-Music.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12635,7 +13050,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Lily-Allen-West-End-Girl-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Lily-Allen-West-End-Girl-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12663,7 +13079,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 269,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Justin-Bieber-SWAG-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Justin-Bieber-SWAG-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12691,7 +13108,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Christina-Aguilera-Lotus-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Christina-Aguilera-Lotus-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12719,7 +13137,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Bruno-Mars-The-Romantic-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Bruno-Mars-The-Romantic-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12747,7 +13166,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 269,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Billie-Eilish-Hit-Me-Hard-And-Soft-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Billie-Eilish-Hit-Me-Hard-And-Soft-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12775,7 +13195,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Beyonce-Renaissance-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Beyonce-Renaissance-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12803,7 +13224,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Adele-30-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Adele-30-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12831,7 +13253,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Addison-Rae-Addison-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Addison-Rae-Addison-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12859,7 +13282,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 219,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Stray-Kids-SKZ-It-Tape-Do-It-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Stray-Kids-SKZ-It-Tape-Do-It-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12887,7 +13311,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Ive-Ive-Secret-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Ive-Ive-Secret-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12915,7 +13340,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 219,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/BTS-Skool-Luv-Affair-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/BTS-Skool-Luv-Affair-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12943,7 +13369,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Travis-Scott-Utopia-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Travis-Scott-Utopia-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12971,7 +13398,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Sza-SOS-Deluxe-LANA-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Sza-SOS-Deluxe-LANA-420x420.jpg",
       "description": "2 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -12999,7 +13427,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Post-Malone-F-1-Trillion-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Post-Malone-F-1-Trillion-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13027,7 +13456,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Petter-9818-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Petter-9818-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13055,7 +13485,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/PARTYNEXTDOOR-Drake-ome-exy-ongs-4-U-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/PARTYNEXTDOOR-Drake-ome-exy-ongs-4-U-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13083,7 +13514,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 269,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Metro-Boomin-Heroes-and-Villains-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Metro-Boomin-Heroes-and-Villains-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13111,7 +13543,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Logic-College-Park-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Logic-College-Park-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13139,7 +13572,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Lil-Wayne-I-am-music-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Lil-Wayne-I-am-music-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13167,7 +13601,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Killer-Mike-Michael-The-Mighty-Midnight-Revival-Songs-For-Sinners-And-Saints-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Killer-Mike-Michael-The-Mighty-Midnight-Revival-Songs-For-Sinners-And-Saints-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13195,7 +13630,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Joey-Bada-2000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Joey-Bada-2000-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13223,7 +13659,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/J-Cole-Cole-World-The-Sideline-Story-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/J-Cole-Cole-World-The-Sideline-Story-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13251,7 +13688,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 219,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Ice-Cube-Man-Up-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Ice-Cube-Man-Up-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13279,7 +13717,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Future-Metro-Boomin-WE-DONT-TRUST-YOU-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Future-Metro-Boomin-WE-DONT-TRUST-YOU-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13307,7 +13746,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 259,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Drake-416-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Drake-416-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13335,7 +13775,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Doja-cat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Doja-cat-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13363,7 +13804,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Aesop-Rock-I-Heard-Its-A-Mess-There-Too-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Aesop-Rock-I-Heard-Its-A-Mess-There-Too-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13391,7 +13833,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/ASAP-Rocky-Dont-be-dumb-420x420.webp",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/ASAP-Rocky-Dont-be-dumb-420x420.webp",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13419,7 +13862,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 119,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/2Pac-Resurrection-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/2Pac-Resurrection-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13447,7 +13891,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/21-Savage-American-Dream-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/21-Savage-American-Dream-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13474,7 +13919,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/C2B-flaska-420x1360.png",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/C2B-flaska-420x1360.png",
       "description": "Vår nya egna vattenflaska är här. Perfekt att ha varma dagar och när du tränar. Volym 750 ml. Transparent med svart snäpplock.",
       "usefulFor": "Kan vara relevant som katalogval inom Träning. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -13502,7 +13948,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 79,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/brevpapper-420x420.png",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/brevpapper-420x420.png",
       "description": "Vårt eget unika brevpapper i A5- format. Håll kontakt med nära och kära! Säljs i paket om 10 brevpapper och 5 kuvert.",
       "usefulFor": "Kan vara relevant som katalogval inom Brev & vykort. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13530,7 +13977,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Vykort-420x407.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Vykort-420x407.jpg",
       "description": "Våra egna unika vykort med fängelsemotiv. Håll kontakt med nära och kära! A6-format. Säljs i 5-pack.",
       "usefulFor": "Kan vara relevant som katalogval inom Brev & vykort. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13558,7 +14006,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 999,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/rieker-b7796-14-420x207.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/rieker-b7796-14-420x207.jpg",
       "description": "Slip-on sneakers med stötdämpande sula. Bred framfot och extra mjuk innersula ger extra komfort.’ Finns i stl 41, 42, 43, 44, 45, 46. OBS! Då vi inte kan hålla alla storlekar i lager är leveranstiden upp till 2 veckor på",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -13586,7 +14035,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 1399,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Sketchers-flex-advantage-420x199.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Sketchers-flex-advantage-420x199.jpg",
       "description": "Bekväm och snygg sneaker med överdel i mesh som andas och en flexibel yttersula. Finns i stl 41, 42, 43, 44, 45, 46. OBS! Då vi inte kan hålla alla storlekar i lager är leveranstiden upp till 2 veckor på skor.",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -13613,7 +14063,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 1499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Casio-Classic-MTP-1375PD-420x628.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Casio-Classic-MTP-1375PD-420x628.jpg",
       "description": "Nyhet från Casio! Sportig klocka med mineralglas och små visare för datum, dag och 24-timmarsläge. Vattentäthet 5 ATM.",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -13641,7 +14092,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 399,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Roadstar-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Roadstar-420x420.png",
       "description": "Enklare CD-spelare till extra lågt pris. Hörlurar ingår. Drivs av 2 st AA-batterier (ingår ej).",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -13669,7 +14121,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 699,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Oral-B-Pro-Series-1-420x632.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Oral-B-Pro-Series-1-420x632.jpg",
       "description": "Professionell rengöring varje dag med 3D-teknik som oscillerar, roterar och pulserar. Tryckkontroll för tandköttet. Två borsthuvuden och laddare ingår.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13696,7 +14149,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Fantastiska-Byggnader-420x420.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Fantastiska-Byggnader-420x420.jpg",
       "description": "Målarbok för vuxna – årets julklapp 2025",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -13723,7 +14177,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Draknastet-420x420.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Draknastet-420x420.jpg",
       "description": "Målarbok för vuxna – årets julklapp 2025",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -13750,7 +14205,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Piggare-hjarna-420x613.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Piggare-hjarna-420x613.jpg",
       "description": "En blandning av utmaningar för en piggare hjärna.",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -13778,7 +14234,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Gor-det-sjalv-tidning-420x565.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Gor-det-sjalv-tidning-420x565.jpg",
       "description": "Inspiration för hemmafix, 20 nr/år. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avslutas p",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13806,7 +14263,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Gor-det-sjalv-tidning-420x565.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Gor-det-sjalv-tidning-420x565.jpg",
       "description": "Inspiration för hemmafix, 20 nr/år. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avslutas p",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13834,7 +14292,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Gangland-Sweden-del-2-420x563.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Gangland-Sweden-del-2-420x563.jpg",
       "description": "Amir al Rubejis hyllade böcker ger en unik inblick i den undre världen i förortens gängmiljö. En verklighet som endast är känd av dem som lever i den. Böckerna skrevs inifrån Fenixavdelningarna på Hall och Kumla.",
       "usefulFor": "Kan vara relevant som katalogval inom Böcker. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -13862,7 +14321,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Gangland-Sweden-del-1-420x558.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Gangland-Sweden-del-1-420x558.jpg",
       "description": "Amir al Rubejis hyllade böcker ger en unik inblick i den undre världen i förortens gängmiljö. En verklighet som endast är känd av dem som lever i den. Böckerna skrevs inifrån Fenixavdelningarna på Hall och Kumla.",
       "usefulFor": "Kan vara relevant som katalogval inom Böcker. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -13891,7 +14351,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/bridget-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/bridget-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13920,7 +14381,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/classicmusicrelax-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/classicmusicrelax-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13949,7 +14411,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/elvisandfriends-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/elvisandfriends-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -13978,7 +14441,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "assets/images/process-products.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14007,7 +14471,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/chillout-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/chillout-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14036,7 +14501,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/ronank-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/ronank-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14065,7 +14531,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/redhotliving-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/redhotliving-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14094,7 +14561,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/coresbrazil-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/coresbrazil-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14123,7 +14591,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/upliftingopenwindow-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/upliftingopenwindow-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14152,7 +14621,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/ildivo-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/ildivo-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14181,7 +14651,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/yulie-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/yulie-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14210,7 +14681,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/classicalchillout-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/classicalchillout-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14239,7 +14711,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Twice_-_Taste_of_Love_EP.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Twice_-_Taste_of_Love_EP.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14268,7 +14741,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/undertheboardwalk-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/undertheboardwalk-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14297,7 +14771,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/thebestofallwomen-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/thebestofallwomen-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14326,7 +14801,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/naturalsleep-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/naturalsleep-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14355,7 +14831,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/pilates-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/pilates-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14384,7 +14861,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/symphonicdesyn-420x415.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/symphonicdesyn-420x415.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14413,7 +14891,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/elephantman-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/elephantman-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14442,7 +14921,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/PHOENIX-JAMES-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/PHOENIX-JAMES-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14471,7 +14951,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/sebastianfont-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/sebastianfont-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14500,7 +14981,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/latinfever-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/latinfever-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14529,7 +15011,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/michaelball-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/michaelball-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14558,7 +15041,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/hitsofthesixties-1-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/hitsofthesixties-1-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14587,7 +15071,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/jukebox-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/jukebox-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14616,7 +15101,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thesoldierscominghome-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thesoldierscominghome-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14645,7 +15131,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/memories-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/memories-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14674,7 +15161,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/norahjonesnot-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/norahjonesnot-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14703,7 +15191,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/relaxingmoods-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/relaxingmoods-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14732,7 +15221,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/takethat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/takethat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14761,7 +15251,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/takethatultimate-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/takethatultimate-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14790,7 +15281,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/tranquil-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/tranquil-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14819,7 +15311,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/whalesong-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/whalesong-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14848,7 +15341,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/tranqalpha-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/tranqalpha-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14877,7 +15371,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/graceblack-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/graceblack-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14906,7 +15401,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/rainforest-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/rainforest-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14935,7 +15431,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/goldenoldies-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/goldenoldies-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14964,7 +15461,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/sexand-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/sexand-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -14993,7 +15491,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/floorfillers1-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/floorfillers1-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15022,7 +15521,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/thenumberoneclass-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/thenumberoneclass-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15051,7 +15551,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/fartulla-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/fartulla-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15080,7 +15581,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/millenniummega3-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/millenniummega3-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15109,7 +15611,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/heartbeat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/heartbeat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15138,7 +15641,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/cbeebies-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/cbeebies-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15167,7 +15671,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/silenceisgolden-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/silenceisgolden-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15196,7 +15701,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/everchanging-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/everchanging-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15225,7 +15731,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/notredip-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/notredip-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15254,7 +15761,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thenorthenbeat-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thenorthenbeat-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15283,7 +15791,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/freez-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/freez-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15312,7 +15821,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/nowthats-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/nowthats-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15341,7 +15851,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/electroclash-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/electroclash-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15370,7 +15881,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/millenniummega6-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/millenniummega6-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15399,7 +15911,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/millenniummega-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/millenniummega-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15428,7 +15941,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/stimelabestof-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/stimelabestof-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15457,7 +15971,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/kissonyourcollar2.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/kissonyourcollar2.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15486,7 +16001,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/felicitylott-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/felicitylott-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15515,7 +16031,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/weekendsongs-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/weekendsongs-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15544,7 +16061,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/ofathe-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/ofathe-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15573,7 +16091,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/theighties-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/theighties-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15602,7 +16121,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/weshallovercome-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/weshallovercome-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15631,7 +16151,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/welshwedding-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/welshwedding-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15660,7 +16181,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/chillout3-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/chillout3-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15689,7 +16211,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/celtic-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/celtic-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15718,7 +16241,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/andyabraham-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/andyabraham-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15747,7 +16271,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/terrywogan.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/terrywogan.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15776,7 +16301,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/eddiesto-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/eddiesto-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15805,7 +16331,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/classicvoices-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/classicvoices-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15834,7 +16361,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/kttunstall-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/kttunstall-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15863,7 +16391,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/whatafeeling-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/whatafeeling-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15892,7 +16421,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/funkmaster-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/funkmaster-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15921,7 +16451,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/woman2-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/woman2-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15950,7 +16481,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/socagold-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/socagold-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -15979,7 +16511,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/swingisthething-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/swingisthething-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16008,7 +16541,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/thenowsoundsofbrazil-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/thenowsoundsofbrazil-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16037,7 +16571,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/brassbandclassics-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/brassbandclassics-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16066,7 +16601,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/homeland-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/homeland-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16095,7 +16631,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/chrisrea-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/chrisrea-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16124,7 +16661,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/legendarycroo-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/legendarycroo-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16153,7 +16691,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/brazil5000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/brazil5000-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16182,7 +16721,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/cubansalsa-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/cubansalsa-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16211,7 +16751,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/05/myheartwillgoon-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/05/myheartwillgoon-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16240,7 +16781,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/scottbond-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/scottbond-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16269,7 +16811,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/michaelbublecallmei-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/michaelbublecallmei-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16298,7 +16841,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/alexandraburke-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/alexandraburke-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16327,7 +16871,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/robbiewilliamsin-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/robbiewilliamsin-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16356,7 +16901,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/thebrass-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/thebrass-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16385,7 +16931,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/lastchoir-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/lastchoir-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16414,7 +16961,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/smokegets-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/smokegets-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16443,7 +16991,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/toploader-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/toploader-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16472,7 +17021,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/peterwaterman-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/peterwaterman-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16501,7 +17051,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/festebrasil-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/festebrasil-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16530,7 +17081,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/showstoppers2-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/showstoppers2-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16559,7 +17111,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/ildivosiempre-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/ildivosiempre-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16588,7 +17141,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/eternalpowerofawoman-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/eternalpowerofawoman-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16617,7 +17171,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/pureeasymoods-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/pureeasymoods-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16646,7 +17201,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/classicalexp-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/classicalexp-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16675,7 +17231,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/moregirlsnightout-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/moregirlsnightout-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16704,7 +17261,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/kiss100fm-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/kiss100fm-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16733,7 +17291,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/justthetwo-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/justthetwo-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16762,7 +17321,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/funkessentials-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/funkessentials-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16791,7 +17351,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/simplymusicals-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/simplymusicals-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16820,7 +17381,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/teenagedirt-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/teenagedirt-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16849,7 +17411,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/spicegirls-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/spicegirls-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16878,7 +17441,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/choirboys-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/choirboys-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16907,7 +17471,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/simplylove-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/simplylove-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16936,7 +17501,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/summertime-420x418.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/summertime-420x418.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16965,7 +17531,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/thesoundofheartbeats-420x372.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/thesoundofheartbeats-420x372.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -16994,7 +17561,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/metallicastanger-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/metallicastanger-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17023,7 +17591,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/serenitynow-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/serenitynow-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17052,7 +17621,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/americanroadsongs-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/americanroadsongs-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17081,7 +17651,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/thebestalbumnext-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/thebestalbumnext-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17110,7 +17681,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/revival-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/revival-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17139,7 +17711,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/welshchoirs-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/welshchoirs-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17168,7 +17741,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/greatesthitsofthe60s-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/greatesthitsofthe60s-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17197,7 +17771,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/michaelbu-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/michaelbu-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17226,7 +17801,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/andrewgold-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/andrewgold-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17255,7 +17831,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/andrewpan.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/andrewpan.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17284,7 +17861,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/einschw-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/einschw-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17313,7 +17891,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/passthehaggis-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/passthehaggis-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17342,7 +17921,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/enriqueesc-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/enriqueesc-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17371,7 +17951,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/3am-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/3am-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17400,7 +17981,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/deanmartin-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/deanmartin-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17429,7 +18011,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/bbclive-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/bbclive-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17458,7 +18041,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/whistledown-420x419.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/whistledown-420x419.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17487,7 +18071,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/monro-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/monro-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17516,7 +18101,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/jamiec-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/jamiec-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17545,7 +18131,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/andrewbestof-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/andrewbestof-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17574,7 +18161,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/focuson-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/focuson-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17603,7 +18191,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/robbiewes-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/robbiewes-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17632,7 +18221,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/flymetothemoon1-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/flymetothemoon1-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17661,7 +18251,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/seasonalmusic-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/seasonalmusic-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17690,7 +18281,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/xfactor-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/xfactor-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17719,7 +18311,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/wonderfulworld60-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/wonderfulworld60-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17748,7 +18341,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/favouritehymns-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/favouritehymns-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17777,7 +18371,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/flymetothemoon3-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/flymetothemoon3-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17806,7 +18401,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/evenmoreb.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/evenmoreb.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17835,7 +18431,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/100hits60s-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/100hits60s-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17864,7 +18461,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/hereigoagain-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/hereigoagain-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17893,7 +18491,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/girlsnightout-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/girlsnightout-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17922,7 +18521,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/radio1live3-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/radio1live3-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17951,7 +18551,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/morebeautiful.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/morebeautiful.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -17980,7 +18581,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/realtime-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/realtime-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18009,7 +18611,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/partyinthepark-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/partyinthepark-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18038,7 +18641,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/101radiohits-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/101radiohits-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18067,7 +18671,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/ukhits60-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/ukhits60-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18096,7 +18701,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/shoutglory-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/shoutglory-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18125,7 +18731,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/kennyrogers-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/kennyrogers-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18154,7 +18761,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/everly-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/everly-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18183,7 +18791,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/nomoreher-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/nomoreher-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18212,7 +18821,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/boybands.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/boybands.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18241,7 +18851,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/donnyosmond-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/donnyosmond-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18270,7 +18881,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/georgeharr-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/georgeharr-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18299,7 +18911,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/greatesthitsofthe80s.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/greatesthitsofthe80s.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18328,7 +18941,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/jackie-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/jackie-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18357,7 +18971,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/beatles6770-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/beatles6770-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18386,7 +19001,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/chakra-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/chakra-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18415,7 +19031,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/topsofthepops1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/topsofthepops1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18444,7 +19061,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/ima-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/ima-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18473,7 +19091,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/kylie-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/kylie-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18502,7 +19121,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-13-at-14.40.06-1-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-13-at-14.40.06-1-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18531,7 +19151,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/coolbri-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/coolbri-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18560,7 +19181,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/theamercianboy-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/theamercianboy-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18589,7 +19211,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/harrods3-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/harrods3-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18618,7 +19241,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/ultimatesalsa-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/ultimatesalsa-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18647,7 +19271,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/theworldofclassical-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/theworldofclassical-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18676,7 +19301,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/colonial-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/colonial-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18705,7 +19331,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/motown-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/motown-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18734,7 +19361,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/wedding-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/wedding-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18763,7 +19391,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/loveathteth-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/loveathteth-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18792,7 +19421,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/glamourgold.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/glamourgold.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18821,7 +19451,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/ourownway-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/ourownway-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18850,7 +19481,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Manu-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Manu-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18879,7 +19511,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/forsummer.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/forsummer.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18908,7 +19541,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/purechillout-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/purechillout-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18937,7 +19571,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/kissclassics-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/kissclassics-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18966,7 +19601,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/carta-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/carta-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -18995,7 +19631,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/kingsway-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/kingsway-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19024,7 +19661,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/realwindup-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/realwindup-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19053,7 +19691,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/junglee.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/junglee.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19082,7 +19721,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/essentialamerica-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/essentialamerica-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19111,7 +19751,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/no1million-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/no1million-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19140,7 +19781,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Kathleen-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Kathleen-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19169,7 +19811,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/moods-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/moods-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19198,7 +19841,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/herecomesthesun-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/herecomesthesun-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19227,7 +19871,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/thecheesy.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/thecheesy.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19256,7 +19901,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/radio1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/radio1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19285,7 +19931,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/stereop-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/stereop-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19314,7 +19961,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-13-at-14.40.06-2-420x420.jpeg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/WhatsApp-Image-2026-04-13-at-14.40.06-2-420x420.jpeg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19343,7 +19991,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/thefantasyalbum-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/thefantasyalbum-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19372,7 +20021,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/robson-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/robson-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19401,7 +20051,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/novelty-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/novelty-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19430,7 +20081,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/100hitsopera-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/100hitsopera-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19459,7 +20111,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/theclassicalalbum2007-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/theclassicalalbum2007-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19488,7 +20141,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/golden-collection-25-hits-cover-hd-square-v4-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/golden-collection-25-hits-cover-hd-square-v4-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19517,7 +20171,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/jacek-szylkowski-nie-mowie-zegnaj-cover-hd-square-v3-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/jacek-szylkowski-nie-mowie-zegnaj-cover-hd-square-v3-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19546,7 +20201,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/c4-big-band-cover-hd-square-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/c4-big-band-cover-hd-square-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19575,7 +20231,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/unleashed-cover-hd-square-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/unleashed-cover-hd-square-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19604,7 +20261,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/dadsel-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/dadsel-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19633,7 +20291,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/americag-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/americag-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19662,7 +20321,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/simongar-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/simongar-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19691,7 +20351,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/pausinil-420x426.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/pausinil-420x426.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19720,7 +20381,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/culturebeat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/culturebeat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19749,7 +20411,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/the-golden-no-1-collection-1950-1959-enhanced-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/the-golden-no-1-collection-1950-1959-enhanced-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19778,7 +20441,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/jerrylee-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/jerrylee-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19807,7 +20471,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/dragons-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/dragons-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19836,7 +20501,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/dragonstime-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/dragonstime-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19865,7 +20531,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/filmk-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/filmk-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19894,7 +20561,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/cornelis-vreeswijk-cover-hd-square-v2-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/cornelis-vreeswijk-cover-hd-square-v2-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19923,7 +20591,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/weezer-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/weezer-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19952,7 +20621,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/simply-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/simply-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -19981,7 +20651,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/ruin-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/ruin-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20010,7 +20681,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/nancy-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/nancy-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20039,7 +20711,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/mello25-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/mello25-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20068,7 +20741,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/lotti-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/lotti-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20097,7 +20771,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/piaf-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/piaf-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20126,7 +20801,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/danjakob-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/danjakob-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20155,7 +20831,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/cruising-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/cruising-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20184,7 +20861,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/amygrant-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/amygrant-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20213,7 +20891,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/02/larsroos-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/02/larsroos-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20242,7 +20921,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/EaglesGreat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/EaglesGreat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20271,7 +20951,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/blondielines-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/blondielines-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20300,7 +20981,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/roxette-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/roxette-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20329,7 +21011,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/muggladandy-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/muggladandy-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20358,7 +21041,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ljuvapowerb-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ljuvapowerb-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20387,7 +21071,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/orupklass-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/orupklass-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20416,7 +21101,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/rodtime-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/rodtime-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20445,7 +21131,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/rodst-420x418.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/rodst-420x418.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20474,7 +21161,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/love-songs-of-the-80s-cover-hd-square-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/love-songs-of-the-80s-cover-hd-square-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20503,7 +21191,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d000082c134ff8f1dffc25fd8ac7ddb46-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d000082c134ff8f1dffc25fd8ac7ddb46-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20532,7 +21221,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/greatbigw-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/greatbigw-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20561,7 +21251,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/super-ballads-5-cover-hd-square-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/super-ballads-5-cover-hd-square-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20590,7 +21281,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/radio-city-love-songs-cover-hd-square-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/radio-city-love-songs-cover-hd-square-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20619,7 +21311,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/adagio-klassik-zum-geniessen-cover-hd-square-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/adagio-klassik-zum-geniessen-cover-hd-square-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20648,7 +21341,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/love-and-heart-classics-cover-hd-square-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/love-and-heart-classics-cover-hd-square-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20677,7 +21371,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/marieannef-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/marieannef-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20706,7 +21401,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/moonlight-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/moonlight-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20735,7 +21431,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/mr-music-hits-vol-1-cover-hd-square-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/mr-music-hits-vol-1-cover-hd-square-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20764,7 +21461,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/sommar-toppar-cover-hd-square-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/sommar-toppar-cover-hd-square-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20793,7 +21491,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/the-80s-love-album-cover-hd-square-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/the-80s-love-album-cover-hd-square-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20822,7 +21521,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/u2-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/u2-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20851,7 +21551,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/eurovision-song-contest-malmo-2024-cover-hd-square-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/eurovision-song-contest-malmo-2024-cover-hd-square-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20880,7 +21581,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/powerb-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/powerb-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20909,7 +21611,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/shades-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/shades-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20938,7 +21641,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/superballads-9-cover-hd-square-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/superballads-9-cover-hd-square-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20967,7 +21671,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/kennyr-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/kennyr-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -20996,7 +21701,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/skanska-rok-n-roll-hits-vol-1-cover-hd-square-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/skanska-rok-n-roll-hits-vol-1-cover-hd-square-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21025,7 +21731,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/southern-rok-n-roll-hits-2-cover-hd-square-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/southern-rok-n-roll-hits-2-cover-hd-square-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21054,7 +21761,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ff1f62bbcacc3c20640ede70-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ff1f62bbcacc3c20640ede70-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21083,7 +21791,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273a2cba7678a831d36be310680_resultat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273a2cba7678a831d36be310680_resultat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21112,7 +21821,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273d5a64ed7e9703d321f37500e-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273d5a64ed7e9703d321f37500e-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21141,7 +21851,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27321ad6ebd11e81d11114292b3-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27321ad6ebd11e81d11114292b3-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21170,7 +21881,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ebd6d20c0082524244ef83df-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ebd6d20c0082524244ef83df-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21199,7 +21911,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273cba44c10e994e15a9668a911-1-420x418.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273cba44c10e994e15a9668a911-1-420x418.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21228,7 +21941,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273433ea0cb808a0cf9d2cea958-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273433ea0cb808a0cf9d2cea958-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21257,7 +21971,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c2e46decb356ecb67cc9baa7-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c2e46decb356ecb67cc9baa7-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21286,7 +22001,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27327bd7d234a31296df34b9a64-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27327bd7d234a31296df34b9a64-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21315,7 +22031,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2737f82a09dfb7a68b7ce539895-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2737f82a09dfb7a68b7ce539895-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21344,7 +22061,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Tom_Jones_Kiss_HD_3000x3000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Tom_Jones_Kiss_HD_3000x3000-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21373,7 +22091,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c10f408af511539696d8e620-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c10f408af511539696d8e620-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21402,7 +22121,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/sweet-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/sweet-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21431,7 +22151,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2735f7146c148a56bfdb1406a9f-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2735f7146c148a56bfdb1406a9f-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21460,7 +22181,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/pumpkins-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/pumpkins-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21489,7 +22211,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/therockandrollcoll-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/therockandrollcoll-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21518,7 +22241,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21547,7 +22271,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2731f5c7dc0d40e6dd2e38cf34f-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2731f5c7dc0d40e6dd2e38cf34f-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21576,7 +22301,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Elvis_Party_Time_HD_3000x3000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Elvis_Party_Time_HD_3000x3000-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21605,7 +22331,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c0b32e86af553fe52d22b87b-1-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c0b32e86af553fe52d22b87b-1-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21634,7 +22361,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2734f61b1a3b88b625faac91a3a-2-420x414.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2734f61b1a3b88b625faac91a3a-2-420x414.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21663,7 +22391,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273d848096c6318e3317771721d-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273d848096c6318e3317771721d-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21692,7 +22421,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2739ea49d3b5c0c0373ccce68e6-1-420x419.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2739ea49d3b5c0c0373ccce68e6-1-420x419.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21721,7 +22451,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/The_Boppers_Goodnight_Sweet_Heart_HD_3000x3000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/The_Boppers_Goodnight_Sweet_Heart_HD_3000x3000-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21750,7 +22481,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/musicofthebeatles-e1768573114891-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/musicofthebeatles-e1768573114891-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21779,7 +22511,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/teenage-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/teenage-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21808,7 +22541,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273832125e3a7b4864d7a95d4a5-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273832125e3a7b4864d7a95d4a5-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21837,7 +22571,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2735e9767ffdb710d4d134990d4-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2735e9767ffdb710d4d134990d4-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21866,7 +22601,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273b5bc3f1312c9efa5725ecc50-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273b5bc3f1312c9efa5725ecc50-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21895,7 +22631,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27312c2256f2de25108eab58148-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27312c2256f2de25108eab58148-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21924,7 +22661,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/600x600bf-60-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/600x600bf-60-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21953,7 +22691,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27378582e8a50c60dac62312ca9-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27378582e8a50c60dac62312ca9-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -21982,7 +22721,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273276978bacf9123cc1aa81aa9-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273276978bacf9123cc1aa81aa9-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22011,7 +22751,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27322f36eb7bdf72ae01f2ae5fb-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27322f36eb7bdf72ae01f2ae5fb-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22040,7 +22781,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ae8c0c2be80a2e4d3d4e64fc-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ae8c0c2be80a2e4d3d4e64fc-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22069,7 +22811,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2734f4648db0d1cbcbfe3922506-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2734f4648db0d1cbcbfe3922506-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22098,7 +22841,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ddfdd91a6b17a7030b1a0246-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ddfdd91a6b17a7030b1a0246-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22127,7 +22871,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2737f85812de8e3e5c43e56be12-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2737f85812de8e3e5c43e56be12-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22156,7 +22901,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Stevie_Wonder_The_Music_Of_HD_Tight_3000x3000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Stevie_Wonder_The_Music_Of_HD_Tight_3000x3000-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22185,7 +22931,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Starnews_BNG_HD_3000x3000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Starnews_BNG_HD_3000x3000-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22214,7 +22961,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Staindcoveralbum2003-420x414.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Staindcoveralbum2003-420x414.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22243,7 +22991,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2730c68a191841700a3fa3241e3-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2730c68a191841700a3fa3241e3-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22272,7 +23021,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2732b7e571002b007ce6f687d69-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2732b7e571002b007ce6f687d69-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22301,7 +23051,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Sonata_Arctica_Successor_HD_3000x3000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Sonata_Arctica_Successor_HD_3000x3000-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22330,7 +23081,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27364d22ce190ad5ec39ba6cc95-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27364d22ce190ad5ec39ba6cc95-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22359,7 +23111,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c579b15206ab88f6dcad44f6-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c579b15206ab88f6dcad44f6-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22388,7 +23141,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Sixties_USA_Volume_1_HD_3000x3000-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Sixties_USA_Volume_1_HD_3000x3000-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22417,7 +23171,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27387e228a0b0e4603b214cbe44-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27387e228a0b0e4603b214cbe44-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22446,7 +23201,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273eec025647ca335355188a199-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273eec025647ca335355188a199-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22475,7 +23231,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/sator-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/sator-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22504,7 +23261,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273f2c2fa569f75319e7079d8df-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273f2c2fa569f75319e7079d8df-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22533,7 +23291,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Roy_Orbison_Oh_Pretty_Woman_HD_3000x3000-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Roy_Orbison_Oh_Pretty_Woman_HD_3000x3000-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22562,7 +23321,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/romanticmelody-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/romanticmelody-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22591,7 +23351,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273a7ea428295c51a91cd82e24a-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273a7ea428295c51a91cd82e24a-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22620,7 +23381,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Rod_Stewart_The_Music_Of_HD_3000x3000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Rod_Stewart_The_Music_Of_HD_3000x3000-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22649,7 +23411,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Rock_The_First_Volume_Two_Clean_HD_3000x3000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Rock_The_First_Volume_Two_Clean_HD_3000x3000-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22678,7 +23441,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Rock_n_Roll_At_Its_Best_HD_3000x3000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Rock_n_Roll_At_Its_Best_HD_3000x3000-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22707,7 +23471,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27312ab9df64159a57fcdf1c70e-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27312ab9df64159a57fcdf1c70e-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22736,7 +23501,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/rockroll3-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/rockroll3-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22765,7 +23531,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Rhapsody_Rain_Of_A_Thousand_Flames_HD_3000x3000-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Rhapsody_Rain_Of_A_Thousand_Flames_HD_3000x3000-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22794,7 +23561,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273cc829f0b2a081cdb6265831c-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273cc829f0b2a081cdb6265831c-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22823,7 +23591,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c386c6309bec1bfd37331c60-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c386c6309bec1bfd37331c60-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22852,7 +23621,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2730a2b7e10b5800e68c148bd55-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2730a2b7e10b5800e68c148bd55-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22881,7 +23651,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Ramones_All_The_Stuff_And_More_Vol_One_HD_3000x3000-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Ramones_All_The_Stuff_And_More_Vol_One_HD_3000x3000-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22910,7 +23681,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/queensryche-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/queensryche-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22939,7 +23711,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Power_Summer_Party_HD_3000x3000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Power_Summer_Party_HD_3000x3000-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22968,7 +23741,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Phil_Collins_The_Music_Of_HD_3000x3000-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Phil_Collins_The_Music_Of_HD_3000x3000-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -22997,7 +23771,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27350cab823a5a640e2ddc9b628-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27350cab823a5a640e2ddc9b628-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23026,7 +23801,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27396990eeb0c2b44d261720291-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27396990eeb0c2b44d261720291-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23055,7 +23831,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/PanteraVulgarDisplayofPower.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/PanteraVulgarDisplayofPower.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23084,7 +23861,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273e698b41c758c1a49fecbc1cf-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273e698b41c758c1a49fecbc1cf-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23113,7 +23891,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2733a56cbca99455f649ef7e251-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2733a56cbca99455f649ef7e251-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23142,7 +23921,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273b64f1b5e27a8501dfd13ac1f-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273b64f1b5e27a8501dfd13ac1f-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23171,7 +23951,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Live_at_budokan_ozzy.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Live_at_budokan_ozzy.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23200,7 +23981,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273d0c71235675c9baee14b9d33-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273d0c71235675c9baee14b9d33-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23229,7 +24011,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2736ab3121cb80e3d8da28f5b77-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2736ab3121cb80e3d8da28f5b77-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23258,7 +24041,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/R-11384531-1515348596-6383-1-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/R-11384531-1515348596-6383-1-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23287,7 +24071,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/nightgale-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/nightgale-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23316,7 +24101,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273edd9a5dd47544724f248b3af-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273edd9a5dd47544724f248b3af-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23345,7 +24131,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Motley_Crue_Decade_of_Decadence_HD_3000x3000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Motley_Crue_Decade_of_Decadence_HD_3000x3000-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23374,7 +24161,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273f0cf75c16615df978a5202e2-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273f0cf75c16615df978a5202e2-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23403,7 +24191,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c6957b871e8b2c3136bd008d-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c6957b871e8b2c3136bd008d-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23432,7 +24221,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273f05a91fa4fcf5f6e65b20fc7-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273f05a91fa4fcf5f6e65b20fc7-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23461,7 +24251,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/MidnightOil_DieselAndDust.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/MidnightOil_DieselAndDust.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23490,7 +24281,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Men_At_Work_Contraband_HD_3000x3000-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Men_At_Work_Contraband_HD_3000x3000-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23519,7 +24311,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2739ce39d341464f1b624716601_resultat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2739ce39d341464f1b624716601_resultat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23548,7 +24341,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Megadeth_-_The_System_Has_Failed.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Megadeth_-_The_System_Has_Failed.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23577,7 +24371,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/megadeth-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/megadeth-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23606,7 +24401,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/megadance3.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/megadance3.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23635,7 +24431,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ChatGPT-Image-12-jan.-2026-14_59_36-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ChatGPT-Image-12-jan.-2026-14_59_36-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23664,7 +24461,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27323dbfb8b3b1be429587f5380-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27323dbfb8b3b1be429587f5380-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23693,7 +24491,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ff9ed111df9875691321f1e9-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ff9ed111df9875691321f1e9-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23722,7 +24521,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273b2b3dc4550e94bb8d63154e0-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273b2b3dc4550e94bb8d63154e0-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23751,7 +24551,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2732612add61ad53e5a5d33c2d4-420x414.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2732612add61ad53e5a5d33c2d4-420x414.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23780,7 +24581,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273967e4e7eb39572871169a25c-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273967e4e7eb39572871169a25c-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23809,7 +24611,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ab013a7eef1e5aafac5c71b8-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ab013a7eef1e5aafac5c71b8-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23838,7 +24641,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273e34df47ecb20f86d3b544380-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273e34df47ecb20f86d3b544380-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23867,7 +24671,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2735a4f68f158e182ebbce0f3ff-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2735a4f68f158e182ebbce0f3ff-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23896,7 +24701,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/madonna-420x412.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/madonna-420x412.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23925,7 +24731,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ChatGPT-Image-12-jan.-2026-14_46_50-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ChatGPT-Image-12-jan.-2026-14_46_50-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23954,7 +24761,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/lynyrd-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/lynyrd-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -23983,7 +24791,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ChatGPT-Image-12-jan.-2026-14_44_10-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ChatGPT-Image-12-jan.-2026-14_44_10-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24012,7 +24821,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27344971d48c21dbd132f2d506e-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27344971d48c21dbd132f2d506e-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24041,7 +24851,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/mello2004-420x419.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/mello2004-420x419.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24070,7 +24881,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273550699c44dd74a7663c6ebfa-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273550699c44dd74a7663c6ebfa-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24099,7 +24911,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ChatGPT-Image-12-jan.-2026-14_39_02-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ChatGPT-Image-12-jan.-2026-14_39_02-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24128,7 +24941,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/laura-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/laura-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24157,7 +24971,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273dceb034ab4d75c7d4c4a0fab-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273dceb034ab4d75c7d4c4a0fab-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24186,7 +25001,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/klassiskafav-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/klassiskafav-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24215,7 +25031,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ad439f1ccc16c72ef3c77d6e-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ad439f1ccc16c72ef3c77d6e-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24244,7 +25061,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273067c5e38e27f1b67752e2301-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273067c5e38e27f1b67752e2301-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24273,7 +25091,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273e83a27c7202168c709569079-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273e83a27c7202168c709569079-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24302,7 +25121,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2737f038d3cdb65df1df73ca1f1-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2737f038d3cdb65df1df73ca1f1-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24331,7 +25151,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2737703391d79ac40b36b4b1068-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2737703391d79ac40b36b4b1068-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24360,7 +25181,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2736805b0426a6ffe0647e5a85b-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2736805b0426a6ffe0647e5a85b-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24389,7 +25211,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2735c29a88ba5341ca428f0c322-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2735c29a88ba5341ca428f0c322-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24418,7 +25241,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2732277d1a849a63c7075ec38ff-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2732277d1a849a63c7075ec38ff-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24447,7 +25271,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273e5fe26265c3d9a8284e45bf4-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273e5fe26265c3d9a8284e45bf4-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24476,7 +25301,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27336277367f28b92305186711d-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27336277367f28b92305186711d-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24505,7 +25331,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273d0d7dbbbb9ee8980315ea58b-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273d0d7dbbbb9ee8980315ea58b-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24534,7 +25361,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273b98e12ec91674f1792983649-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273b98e12ec91674f1792983649-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24563,7 +25391,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273787593a5d345063b8071efbb-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273787593a5d345063b8071efbb-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24592,7 +25421,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27392f6978e63489548e47cca1a-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27392f6978e63489548e47cca1a-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24621,7 +25451,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27386bea2881f2ea14076781883-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27386bea2881f2ea14076781883-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24650,7 +25481,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273965cd3ad01d5125cf3e8e634-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273965cd3ad01d5125cf3e8e634-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24679,7 +25511,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273a0262fc5d2ff4a7adb443285-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273a0262fc5d2ff4a7adb443285-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24708,7 +25541,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c9ef22edfb3f66f1a9e8de0a-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c9ef22edfb3f66f1a9e8de0a-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24737,7 +25571,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273117c8dca9a8ec5d003e25bc4-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273117c8dca9a8ec5d003e25bc4-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24766,7 +25601,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273653dbff2b0f97dc6422b80fb-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273653dbff2b0f97dc6422b80fb-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24795,7 +25631,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27350ca988178e9624bdb5fcb46-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27350ca988178e9624bdb5fcb46-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24824,7 +25661,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27386303ceacc1b046d1a75dd6d_resultat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27386303ceacc1b046d1a75dd6d_resultat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24853,7 +25691,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273791aa3935bc6346313982be6-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273791aa3935bc6346313982be6-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24882,7 +25721,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273d24defadd7de770e83d9f484-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273d24defadd7de770e83d9f484-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24911,7 +25751,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27359592a88a52daf0dedd408bb-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27359592a88a52daf0dedd408bb-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24940,7 +25781,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/R-25426768-1670704451-1878-420x415.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/R-25426768-1670704451-1878-420x415.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24969,7 +25811,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ChatGPT-Image-12-jan.-2026-13_59_25-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ChatGPT-Image-12-jan.-2026-13_59_25-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -24998,7 +25841,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/79479705-aa6b-4d8f-a1aa-3083ccf574a6-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/79479705-aa6b-4d8f-a1aa-3083ccf574a6-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25027,7 +25871,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273f9354765b1904289474c7860-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273f9354765b1904289474c7860-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25056,7 +25901,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27390fc03ad70c24bcf38643202-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27390fc03ad70c24bcf38643202-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25085,7 +25931,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273bc2a6e127def6e2f87edcfc0_resultat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273bc2a6e127def6e2f87edcfc0_resultat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25114,7 +25961,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273db47e2c8d5321e54bd3e77a7-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273db47e2c8d5321e54bd3e77a7-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25143,7 +25991,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2736ab440f2c47e69ee98519d04-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2736ab440f2c47e69ee98519d04-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25172,7 +26021,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Heading_for_Tomorrow_cover.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/Heading_for_Tomorrow_cover.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25201,7 +26051,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ce248e7ad7389aee6cd97e7f-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ce248e7ad7389aee6cd97e7f-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25230,7 +26081,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2732b75a60300a7c31fd9150f90-420x426.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2732b75a60300a7c31fd9150f90-420x426.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25259,7 +26111,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2730a13e49b14b5682768d13bc6-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2730a13e49b14b5682768d13bc6-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25288,7 +26141,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ChatGPT-Image-12-jan.-2026-13_26_41-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ChatGPT-Image-12-jan.-2026-13_26_41-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25317,7 +26171,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/d7ecd7d3-61a9-46ea-ae36-432917d6e8f2-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/d7ecd7d3-61a9-46ea-ae36-432917d6e8f2-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25346,7 +26201,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/81TCJS7-PUL._UF10001000_QL80_-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/81TCJS7-PUL._UF10001000_QL80_-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25375,7 +26231,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/elivstheyears-420x412.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/elivstheyears-420x412.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25404,7 +26261,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273661fa273ca23e7b9859a03c7-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273661fa273ca23e7b9859a03c7-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25433,7 +26291,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273503827c505051fb9d3fc1637-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273503827c505051fb9d3fc1637-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25462,7 +26321,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/edguy-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/edguy-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25491,7 +26351,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ed44479d621cb05e1ed6775b-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ed44479d621cb05e1ed6775b-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25520,7 +26381,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273683db7c73d8bc4c99a1cccd7-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273683db7c73d8bc4c99a1cccd7-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25549,7 +26411,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273254c8e7c848fce4e7379484e-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273254c8e7c848fce4e7379484e-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25578,7 +26441,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27331010b8dc89208cec7c138bf-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27331010b8dc89208cec7c138bf-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25607,7 +26471,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273151426da499501002d8daa97-420x419.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273151426da499501002d8daa97-420x419.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25636,7 +26501,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27377efb3f269d1cd4cf1668c46-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27377efb3f269d1cd4cf1668c46-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25665,7 +26531,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2731b05a0ac73b43db4bf98149f-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2731b05a0ac73b43db4bf98149f-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25694,7 +26561,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273f4d11b78efa76496f2acd618_resultat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273f4d11b78efa76496f2acd618_resultat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25723,7 +26591,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273828a63edebee1ecd4836f352-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273828a63edebee1ecd4836f352-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25752,7 +26621,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273e587855cc9baaba4c216b833-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273e587855cc9baaba4c216b833-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25781,7 +26651,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273282dbcb679e3693f7660f874-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273282dbcb679e3693f7660f874-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25810,7 +26681,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27341ef9292c32f930d40fe53d3_resultat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27341ef9292c32f930d40fe53d3_resultat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25839,7 +26711,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27351e41d7c23c5db7a50495816-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b27351e41d7c23c5db7a50495816-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25868,7 +26741,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273493af742afdd887225efc1a6-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273493af742afdd887225efc1a6-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25897,7 +26771,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2737d5389e4f99f07f1c3d281fc-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2737d5389e4f99f07f1c3d281fc-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25926,7 +26801,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273f5af7e7e592e366fe6759042-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273f5af7e7e592e366fe6759042-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25955,7 +26831,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2731e7f85c751911e237255d5cc-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2731e7f85c751911e237255d5cc-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -25984,7 +26861,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273bf385707f791826904c3c781-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273bf385707f791826904c3c781-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26013,7 +26891,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273bfe0969859e2b408e73a30a5-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273bfe0969859e2b408e73a30a5-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26042,7 +26921,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c5761c4b3f109685b351af9e-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273c5761c4b3f109685b351af9e-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26071,7 +26951,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/bc83101e-f6f0-4cc6-b60a-e548eda17fac-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/bc83101e-f6f0-4cc6-b60a-e548eda17fac-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26100,7 +26981,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ab1be4cb10e2f93cedbfed49-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273ab1be4cb10e2f93cedbfed49-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26129,7 +27011,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/R-5528056-1418580446-6507-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/R-5528056-1418580446-6507-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26158,7 +27041,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273576e6ede19a8fed4ff052e37-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273576e6ede19a8fed4ff052e37-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26187,7 +27071,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273a2566dc84cb72258a4e19c27-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273a2566dc84cb72258a4e19c27-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26216,7 +27101,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273d7ec0277f97213136fc21c95-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273d7ec0277f97213136fc21c95-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26245,7 +27131,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d000082c144edec8f897c32ed8deb90a3-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d000082c144edec8f897c32ed8deb90a3-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26274,7 +27161,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/71BbR4uEcDL._SL1258_-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/71BbR4uEcDL._SL1258_-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26303,7 +27191,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/f700f709-17d4-4d8f-95e3-97ff9ce45b32-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/f700f709-17d4-4d8f-95e3-97ff9ce45b32-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26332,7 +27221,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/missbrown-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/missbrown-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26361,7 +27251,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/R-12651066-1539360617-9845-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/R-12651066-1539360617-9845-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26390,7 +27281,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273dc8541659805d7574571f4b3_resultat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273dc8541659805d7574571f4b3_resultat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26419,7 +27311,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2736c8852a65c7af2c51e7a7145_resultat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2736c8852a65c7af2c51e7a7145_resultat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26448,7 +27341,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273e9a45a0cc00590e7997c94ac_resultat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273e9a45a0cc00590e7997c94ac_resultat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26477,7 +27371,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d000082c17f3b31516e1e8f569c18b659_resultat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d000082c17f3b31516e1e8f569c18b659_resultat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26506,7 +27401,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/71BaAm6rL._AC_SX425_-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/71BaAm6rL._AC_SX425_-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26535,7 +27431,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2732f2b989fc7d2db02994ab9c9-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2732f2b989fc7d2db02994ab9c9-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26564,7 +27461,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273b13164e012bc0b89631a985c-420x417.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273b13164e012bc0b89631a985c-420x417.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26593,7 +27491,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2735744b01e0a6ca4af6183ba5d_resultat-420x419.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b2735744b01e0a6ca4af6183ba5d_resultat-420x419.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26622,7 +27521,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273197ed6ed9a501d56f0cc4b78_resultat-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/ab67616d0000b273197ed6ed9a501d56f0cc4b78_resultat-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26651,7 +27551,8 @@ window.CellViaChance2Buy = {
         "Begagnade skivor"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/10glam-420x414.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/10glam-420x414.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Begagnade skivor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26678,7 +27579,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/RemoveMe-420x341.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/01/RemoveMe-420x341.jpg",
       "description": "Är du orolig över vad som står om din anhörige på Internet? Vill du att din anhörige ska bli mer anonym online och svårare att hitta? Vill du hjälpa din anhörige att komma ut och slippa sitt digitala förflutna? Ge din an",
       "usefulFor": "Kan vara relevant som katalogval inom RemoveMe anonymisering. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Ej rekommenderad",
@@ -26706,7 +27608,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Various-Ultimate.-80s-Dance-Party-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Various-Ultimate.-80s-Dance-Party-420x420.jpg",
       "description": "4 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26734,7 +27637,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 259,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Various-Artists-Eurovision-Song-Contest-Basel-2025-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Various-Artists-Eurovision-Song-Contest-Basel-2025-420x420.jpg",
       "description": "2 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26762,7 +27666,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Various-50-Best-Relaxing-Piano-e1767981022408-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Various-50-Best-Relaxing-Piano-e1767981022408-420x420.jpg",
       "description": "3 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26790,7 +27695,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Zara-Larsson-Midnight-Sun-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Zara-Larsson-Midnight-Sun-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26818,7 +27724,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 159,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Willie-Nelson-It-will-always-be-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Willie-Nelson-It-will-always-be-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26846,7 +27753,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 259,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Volbeat-Seal-The-Deal-Lets-Boogie-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Volbeat-Seal-The-Deal-Lets-Boogie-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26874,7 +27782,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 259,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Volbeat-Outlaw-Gentlemen-Shady-Ladies-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Volbeat-Outlaw-Gentlemen-Shady-Ladies-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26902,7 +27811,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 189,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Volbeat-Beyond-Hell-Above-Heaven-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Volbeat-Beyond-Hell-Above-Heaven-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26930,7 +27840,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Sabrina-Carpenter-Singular-Act-I-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Sabrina-Carpenter-Singular-Act-I-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26958,7 +27869,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Rihanna-Good-Girl-Gone-Bad-Reloaded-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Rihanna-Good-Girl-Gone-Bad-Reloaded-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -26986,7 +27898,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/ab67616d000082c1fbc71c99f9c1296c56dd51b6-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/ab67616d000082c1fbc71c99f9c1296c56dd51b6-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27014,7 +27927,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Michael-Buble-Love-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Michael-Buble-Love-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27042,7 +27956,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Metallica-beyond-magic-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Metallica-beyond-magic-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27070,7 +27985,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/HybridTheory-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/HybridTheory-420x420.jpg",
       "description": "2 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27098,7 +28014,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 279,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Lady-Gaga-Mayhem-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Lady-Gaga-Mayhem-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27126,7 +28043,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Journey-Infinity-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Journey-Infinity-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27154,7 +28072,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/IronMaidenLiveafterdeath-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/IronMaidenLiveafterdeath-420x420.png",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27182,7 +28101,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 259,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Guns-N-Roses-Greatest-Hits-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Guns-N-Roses-Greatest-Hits-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27210,7 +28130,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 119,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/ab67616d000082c12876e0647769b340d08d9b99-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/ab67616d000082c12876e0647769b340d08d9b99-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27238,7 +28159,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Ed-Sheeran-Equals--420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Ed-Sheeran-Equals--420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27266,7 +28188,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 119,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Disturbed-The-Sickness-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Disturbed-The-Sickness-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27294,7 +28217,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Celine-Dion-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Celine-Dion-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27322,7 +28246,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Bruce-S-The-essential-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Bruce-S-The-essential-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27350,7 +28275,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 179,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Ariana-Grande-Eternal-Sunshine-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Ariana-Grande-Eternal-Sunshine-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27378,7 +28304,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 119,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Aerosmith-Gold-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Aerosmith-Gold-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27406,7 +28333,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/ABBA-18-Hits-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/ABBA-18-Hits-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27434,7 +28362,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Yelawolf-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Yelawolf-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27462,7 +28391,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Xxxtentacion-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Xxxtentacion-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27490,7 +28420,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Wu-Tang-Clan-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Wu-Tang-Clan-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27518,7 +28449,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 219,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Tyler-The-Creator-Call-me-if-you-get-lost-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Tyler-The-Creator-Call-me-if-you-get-lost-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27546,7 +28478,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 159,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Tyler-The-Creator-flower-boy-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Tyler-The-Creator-flower-boy-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27574,7 +28507,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 159,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Travis-Scott-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Travis-Scott-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27602,7 +28536,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 159,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/The-Not-Big-Ready-to-die-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/The-Not-Big-Ready-to-die-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27630,7 +28565,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 159,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/The-Not-Big-Life-after-death-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/The-Not-Big-Life-after-death-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27658,7 +28594,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Tha-Game-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Tha-Game-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27686,7 +28623,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 159,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Slipknot-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Slipknot-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27714,7 +28652,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 159,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Raekwon-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Raekwon-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27742,7 +28681,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Outkast-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Outkast-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27770,7 +28710,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Nicki-Minaj-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Nicki-Minaj-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27798,7 +28739,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/NF-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/NF-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27826,7 +28768,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 159,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/NAS-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/NAS-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27854,7 +28797,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Mobb-Deeo-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Mobb-Deeo-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27882,7 +28826,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 219,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Mf-Doom-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Mf-Doom-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27910,7 +28855,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 219,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Mckinley-Dixon-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Mckinley-Dixon-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27938,7 +28884,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/LL-Cool-J-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/LL-Cool-J-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27966,7 +28913,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Lauryn-Hill-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Lauryn-Hill-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -27994,7 +28942,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 169,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/KRS-One-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/KRS-One-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28022,7 +28971,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Kids-see-Ghosts-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Kids-see-Ghosts-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28050,7 +29000,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Kendrick-Lamar-Mr-Morale-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Kendrick-Lamar-Mr-Morale-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28078,7 +29029,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Kendrick-Lamar-Good-kid-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Kendrick-Lamar-Good-kid-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28106,7 +29058,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Kanye-West-My-beautiful-dark-twisted-fantasy-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Kanye-West-My-beautiful-dark-twisted-fantasy-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28134,7 +29087,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Kanye-West-College-Dropout-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Kanye-West-College-Dropout-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28162,7 +29116,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/IceCube-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/IceCube-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28190,7 +29145,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Iam-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Iam-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28218,7 +29174,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Gorillaz-e1767983516611-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Gorillaz-e1767983516611-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28246,7 +29203,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Ghostface-Killah-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Ghostface-Killah-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28274,7 +29232,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 189,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Future-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Future-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28302,7 +29261,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Fugees-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Fugees-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28330,7 +29290,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Eminem-The-Eminem-Show-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Eminem-The-Eminem-Show-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28358,7 +29319,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Eminem-The-Mashall-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Eminem-The-Mashall-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28386,7 +29348,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 169,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Eazy-E-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Eazy-E-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28414,7 +29377,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Drake-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Drake-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28442,7 +29406,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/DrDre-e1767982677265-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/DrDre-e1767982677265-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28470,7 +29435,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/DMX-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/DMX-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28498,7 +29464,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Denzel-Curry-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Denzel-Curry-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28526,7 +29493,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Death-Grips-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Death-Grips-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28554,7 +29522,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 179,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Danger-Mouse-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Danger-Mouse-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28582,7 +29551,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 219,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Cypress-Hill-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Cypress-Hill-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28610,7 +29580,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 159,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Cypress-Hill-The-essential-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Cypress-Hill-The-essential-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28638,7 +29609,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 189,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Criolo-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Criolo-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28666,7 +29638,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Clipping-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Clipping-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28694,7 +29667,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 219,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Blockbusta-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Blockbusta-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28722,7 +29696,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 219,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Brother-Ali-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Brother-Ali-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28750,7 +29725,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Bone-Thugs-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Bone-Thugs-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28778,7 +29754,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Big-Sean-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Big-Sean-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28806,7 +29783,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/50cents-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/50cents-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28834,7 +29812,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/2pac-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/2pac-420x420.jpg",
       "description": "1 cd Vi har kraftigt utökat antalet CD-skivor i sortimentet och därför kommer det kunna vara lite längre leveranstid än vanligt på vissa av skivorna. Vi kommer såklart göra allt vi kan för att skicka iväg alla skivor så ",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -28862,7 +29841,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Kom-igang-med-yoga-420x552.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Kom-igang-med-yoga-420x552.jpg",
       "description": "Weronica Andersson med en introduktion till yoga för bättre koncentration och smidigare muskler. Inbunden.",
       "usefulFor": "Kan vara relevant som katalogval inom Böcker. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -28890,7 +29870,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 189,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/kroppsviktstraning-420x469.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/kroppsviktstraning-420x469.jpg",
       "description": "Magnus Frantzén om hur du bli starkare, smidigare och mer atletisk än någonsin utan maskiner. 81 övningar. Inbunden.",
       "usefulFor": "Kan vara relevant som katalogval inom Böcker. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -28918,7 +29899,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/4-timmarskroppen-420x684.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/4-timmarskroppen-420x684.jpg",
       "description": "Timothy Ferris har gjort en extremguide till fettförbränning, styrka och prestationsförmåga för den nyfikne. Pocket.",
       "usefulFor": "Kan vara relevant som katalogval inom Böcker. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -28946,7 +29928,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Halsa-pa-recxept-420x683.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Halsa-pa-recxept-420x683.jpg",
       "description": "Anders Hansen och Carl Johan Sundberg om träning som både gör dig starkare, friskare och yngre. Pocket.",
       "usefulFor": "Kan vara relevant som katalogval inom Böcker. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -28974,7 +29957,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Teddy-Swims-Ive-Tried-Everything-But-Therapy-Complete-Edition-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Teddy-Swims-Ive-Tried-Everything-But-Therapy-Complete-Edition-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29002,7 +29986,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 159,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Various-Artists-Fitness-Workout-Power-Workout-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Various-Artists-Fitness-Workout-Power-Workout-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29030,7 +30015,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/karlekskort2.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/karlekskort2.jpg",
       "description": "Gulligt kort perfekt att skicka till någon inför alla hjärtans dag. Lyxigt dubbelt kort 10×17 cm med kuvert.",
       "usefulFor": "Kan vara relevant som katalogval inom Brev & vykort. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29058,7 +30044,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/karlekskort1.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/karlekskort1.jpg",
       "description": "Gulligt kort perfekt att skicka till någon inför alla hjärtans dag. Lyxigt dubbelt kort 10×17 cm med kuvert.",
       "usefulFor": "Kan vara relevant som katalogval inom Brev & vykort. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29086,7 +30073,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 1199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/NB-520-dam-420x203.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/NB-520-dam-420x203.jpg",
       "description": "Mångsidig neutral löparsko med 10 mm drop. Bra ventilation och bra grepp. Finns i stl 36, 36,5 37, 37,5, 38, 39, 40, 41. OBS! Då vi inte kan hålla alla storlekar i lager är leveranstiden upp till 2 veckor på skor.",
       "usefulFor": "Kan vara relevant som katalogval inom För henne. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29114,7 +30102,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 1199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/NB-408-420x201.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/NB-408-420x201.jpg",
       "description": "Mångsidiga skor med ventilerande mesh i överdelen och slitstark gummisula. Finns i stl 39,5, 40, 40,5, 41,5, 42, 43 ,44, 44,5 45, 45,5, 46,5. OBS! Då vi inte kan hålla alla storlekar i lager är leveranstiden upp till 2 v",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29142,7 +30131,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 1599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Reebook-Classic-420x198.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Reebook-Classic-420x198.jpg",
       "description": "Inspirerad av klassiska aztek-modellen med bl.a. koskinnsmocka. Yttersula med bra grepp. Finns i stl 40, 41, 42, 43, 44, 45, 45,5. OBS! Då vi inte kan hålla alla storlekar i lager är leveranstiden upp till 2 veckor på sk",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29170,7 +30160,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 1999,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Nike-Air-270-swv-420x224.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Nike-Air-270-swv-420x224.jpg",
       "description": "En efterlängtad nyhet! Nike Air Max 270 är en sportig vardagssko utrustad med Air-dämpning i hälen för ökad dämpning och komfort i varje steg. Mellansula i skum bidrar till ytterligare dämpning. Detta är en riktigt skön ",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29198,7 +30189,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Adidas-shower-420x248.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Adidas-shower-420x248.jpg",
       "description": "Bekväma sandaler med lättviktsdämpning och de ikoniska 3-stripes uppepå. Finns i stl 39, 40,5, 42, 43, 44,5, 46. OBS! Då vi inte kan hålla alla storlekar i lager är leveranstiden upp till 2 veckor på skor.",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29226,7 +30218,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 1199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Vans-Old-Skool-420x213.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Vans-Old-Skool-420x213.jpg",
       "description": "Tidlös låg sneaker med mockaöverlägg och våffelsula. Finns i stl 40, 41, 42, 42,5, 43, 44, 44,5 45, 46. OBS! Då vi inte kan hålla alla storlekar i lager är leveranstiden upp till 2 veckor på skor.",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29253,7 +30246,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 1695,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Talpa-classic-omslag-420x420.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Talpa-classic-omslag-420x420.jpg",
       "description": "Som en kameleont anpassar sig denna klocka lika bra till det formella som till det informella – den kan både smälta in och sticka ut. 20 mm äkta italienskt läderarmband i stilren svart färg Storlek (med krona): 45 mm Tjo",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29281,7 +30275,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Kid-Cudi-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Kid-Cudi-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29309,7 +30304,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Clipse-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Clipse-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29337,7 +30333,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Beastie-boys-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Beastie-boys-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29364,7 +30361,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/grafitti-malarbok-2-420x543.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/grafitti-malarbok-2-420x543.jpg",
       "description": "Målarbok för vuxna – årets julklapp 2025",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29391,7 +30389,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/manga-2-420x546.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/manga-2-420x546.jpg",
       "description": "Målarbok för vuxna – årets julklapp 2025",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29418,7 +30417,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/marvel-malarbok-2.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/marvel-malarbok-2.jpg",
       "description": "Målarbok för vuxna – årets julklapp 2025",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29445,7 +30445,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 79,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/tattoo-2-420x594.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/tattoo-2-420x594.jpg",
       "description": "Målarbok för vuxna – årets julklapp 2025",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29472,7 +30473,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 79,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Mandala-2.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Mandala-2.jpg",
       "description": "Målarbok för vuxna – årets julklapp 2025",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29499,7 +30501,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Armband-brunt-1-420x420.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Armband-brunt-1-420x420.jpg",
       "description": "Exklusivt armband av samma märke – RG AETAS – som våra nya klockor. Äkta italienskt läderarmband som kommer i två färger (svart eller brun) 20 cm längd Svart magnetclip Kommer i snygg presentask Matchar våra klockor från",
       "usefulFor": "Kan vara relevant som katalogval inom Smycken. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29526,7 +30529,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Armband-svart-1-420x420.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Armband-svart-1-420x420.jpg",
       "description": "Exklusivt armband av samma märke – RG AETAS – som våra nya klockor. Äkta italienskt läderarmband som kommer i två färger (svart eller brun) 20 cm längd Svart magnetclip Kommer i snygg presentask Matchar våra klockor från",
       "usefulFor": "Kan vara relevant som katalogval inom Smycken. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29553,7 +30557,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 1495,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Aurora-nigrum-omslag-420x420.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Aurora-nigrum-omslag-420x420.jpg",
       "description": "Kronografur som kombinerar elegans med sportighet. 20 mm äkta italienskt läderarmband i svart färg Storlek (med krona): 45 mm Tjocklek: 8 mm Färg klockhus: Silver Färg visare: Svart Färg urtavla: Vit Urverk: Japansk Quar",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29580,7 +30585,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 1495,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/12/Aurora-rubricum-omslag2-420x420.jpeg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/12/Aurora-rubricum-omslag2-420x420.jpeg",
       "description": "Kronografur som kombinerar elegans med sportighet. 20 mm äkta italienskt läderarmband i brun färg Storlek (med krona): 45 mm Tjocklek: 8 mm Färg klockhus: Silver Färg visare: Svart Färg urtavla: Vit Urverk: Japansk Quart",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29607,7 +30613,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 1695,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Infinitum-classic-omslag-420x420.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Infinitum-classic-omslag-420x420.jpg",
       "description": "Klocka som andas minimalistisk elegans. 20 mm äkta italienskt läderarmband i stilren svart färg Storlek (med krona): 45 mm Tjocklek: 8 mm Färg klockhus: Silver Färg visare: Svart Färg urtavla: Pärlvit Urverk: Japansk Qua",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29634,7 +30641,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 1995,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Aurea-Imperium-omslag-420x420.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Aurea-Imperium-omslag-420x420.jpg",
       "description": "En klocka som andas framgång och stolthet. 20 mm äkta italienskt läderarmband i stilren svart färg Storlek (med krona): 45 mm Tjocklek: 8 mm Färg klockhus: Guld Färg visare: Guld Färg urtavla: Svart Urverk: Japansk Quart",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29661,7 +30669,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 1995,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Aurea-Corium-omslag-420x420.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Aurea-Corium-omslag-420x420.jpg",
       "description": "Professionalitet för den moderna mannen. 20 mm äkta italienskt läderarmband i elegant brun färg Storlek (med krona): 45 mm Tjocklek: 8 mm Färg klockhus: Guld Färg visare: Guld Färg urtavla: Svart Urverk: Japansk Quartz G",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29689,7 +30698,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/KanyeGrad-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/KanyeGrad-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29717,7 +30727,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 699,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Denver-DMP-395B-1-420x337.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Denver-DMP-395B-1-420x337.jpg",
       "description": "CD-/MP3-spelare med inbyggda högtalare i locket. Antichock– och resumefunktion. Hörlurar ingår. Drivs av 2 st AA-batterier (ingår ej). Observera att alla anstalter inte tillåter CD-spelare med högtalare. Kolla med din an",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -29745,7 +30756,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Warren-G-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Warren-G-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29773,7 +30785,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/JayZ-Blueprint-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/JayZ-Blueprint-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29801,7 +30814,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Genius-Gza-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Genius-Gza-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29829,7 +30843,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 259,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Cardi-B-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Cardi-B-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29857,7 +30872,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Imagine-Dragons-Evolve-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Imagine-Dragons-Evolve-420x420.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29885,7 +30901,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 649,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Buslatta-korsord-420x581.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Buslatta-korsord-420x581.jpg",
       "description": "De enklaste kryssen (grad 1 av 5) för nybörjaren. Utkommer med 13 nr/år. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29913,7 +30930,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/Buslatta-korsord-420x581.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/Buslatta-korsord-420x581.jpg",
       "description": "De enklaste kryssen (grad 1 av 5) för nybörjaren. Utkommer med 13 nr/år. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29941,7 +30959,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 999,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/nostalgia-420x543.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/nostalgia-420x543.jpg",
       "description": "Klassiska bilar och andra fordon. Utkommer med 12 nr/år. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts oc",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29969,7 +30988,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 549,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/nostalgia-420x543.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/nostalgia-420x543.jpg",
       "description": "Klassiska bilar och andra fordon. Utkommer med 12 nr/år. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts oc",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -29997,7 +31017,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 1099,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/forskning-framsteg-420x541.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/forskning-framsteg-420x541.jpg",
       "description": "Vetenskap. Utkommer med 8 nr/år. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avslutas pren",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30025,7 +31046,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/forskning-framsteg-420x541.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/forskning-framsteg-420x541.jpg",
       "description": "Vetenskap. Utkommer med 8 nr/år. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avslutas pren",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30053,7 +31075,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 699,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/vagabond-420x557.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/vagabond-420x557.jpg",
       "description": "Reseinspiration, utkommer 8 nr/år. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avslutas pr",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30081,7 +31104,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 369,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/vagabond-420x557.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/vagabond-420x557.jpg",
       "description": "Reseinspiration, utkommer 8 nr/år. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avslutas pr",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30109,7 +31133,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 22,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Frimarken-420x287.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/Frimarken-420x287.jpg",
       "description": "Vi är nu officiell återförsäljare för Postnord och erbjuder er nu att köpa frimärken till era anhöriga. Våra frimärken är på rulle och du väljer därför exakt hur många du vill köpa. Kontrollera gärna med din anhörige om ",
       "usefulFor": "Kan vara relevant som katalogval inom Brev & vykort. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30136,7 +31161,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 1499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Casio-ga-2100-1a1er-420x511.webp",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/Casio-ga-2100-1a1er-420x511.webp",
       "description": "Extra stöttålig med kolfiber, extra vattentät (20 ATM), självlysande visare, automatisk kalender mm. Bredd 45 mm, vikt 51 gram.",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30164,7 +31190,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/HAMA-Shell-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/HAMA-Shell-420x420.jpg",
       "description": "Mjuka, bekväma och prisvärda over-ear hörlurar som skärmar av effektivt. Sladdlängd 200cm. 3,5 mm och 6,3 mm kontakt.",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30192,7 +31219,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/gaubert-1-pack-gbp-014-cotton-boxershorts-420x420.webp",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/gaubert-1-pack-gbp-014-cotton-boxershorts-420x420.webp",
       "description": "Svart, mjuk och modern boxerkalsong i 95% bomull och 5% elastan. Säljs styckvis. Finns i stl M, L, XL, XXL.",
       "usefulFor": "Kan vara relevant som katalogval inom Kläder. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30220,7 +31248,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Saxon-420x409.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/Saxon-420x409.jpg",
       "description": "1 cd Utgående produkt, säljs så länge lagret räcker",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30248,7 +31277,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Taylor-Swift-420x410.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/Taylor-Swift-420x410.jpg",
       "description": "1 cd Utgående produkt, säljs så länge lagret räcker",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30276,7 +31306,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Taylor-the-Creator-Wolf-420x367.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/Taylor-the-Creator-Wolf-420x367.jpg",
       "description": "1 cd Utgående produkt, säljs så länge lagret räcker",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30304,7 +31335,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Sampa-the-great-420x410.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/Sampa-the-great-420x410.jpg",
       "description": "1 cd Utgående produkt, säljs så länge lagret räcker",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30332,7 +31364,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 1199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/AKG-K92-420x666.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/AKG-K92-420x666.jpg",
       "description": "Professionell studiohörlur i sluten utformning med 40 mm element. Sladdlängd 3 m. Guldpläterad kontakt 3,5 och 6,3 mm.",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30360,7 +31393,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 899,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/trailer-420x589.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/trailer-420x589.jpg",
       "description": "Lastbilar och åkeribranschen. Utkommer ca en gång/mån. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30388,7 +31422,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 549,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/trailer-420x589.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/trailer-420x589.jpg",
       "description": "Lastbilar och åkeribranschen. Utkommer ca en gång/mån. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30416,7 +31451,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 1299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Asics-versablast-420x201.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/Asics-versablast-420x201.jpg",
       "description": "Bekväm löparsko med responsiv fjädring. Amplifoam PLUS dämpning. Dropp 8 mm. Neutrala. Finns i stl 40,5, 41,5, 42, 42,5, 43,5, 44, 45, 46. OBS! Då vi inte kan hålla alla storlekar i lager är leveranstiden upp till 2 veck",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30444,7 +31480,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 699,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Jack-n-Jones-sneaker-420x194.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/Jack-n-Jones-sneaker-420x194.jpg",
       "description": "Prisvärd och lätt tygsneaker i svart mesh som andas och vit sula. Finns i stl 40, 41, 42, 43, 44, 45, 46. OBS! Då vi inte kan hålla alla storlekar i lager är leveranstiden upp till 2 veckor på skor.",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30472,7 +31509,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 1299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Adidas-420x210.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/Adidas-420x210.jpg",
       "description": "Träningssko optimerad för crosstraining i klassisk Adidas-design. Extra bra stöd, extra grepp och fin komfort. Finns i stl 40 2/3, 41 1/3, 42, 42 2/3, 43 1/3, 44, 44 2/3, 45 1/3, 46. OBS! Då vi inte kan hålla alla storle",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30500,7 +31538,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 1499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/08/Nike-AIr-Max-420x186.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/08/Nike-AIr-Max-420x186.jpg",
       "description": "Klassiska sneakers med synlig Max Air-enhet i sulan. Ovandel i skinn, textil och mesh och slitstark sula med extra bra grepp. Finns i stl 41, 42, 43, 44, 45, 46. OBS! Då vi inte kan hålla alla storlekar i lager är levera",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30527,7 +31566,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/Adressbok-420x550.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/Adressbok-420x550.jpg",
       "description": "Smidig adressbok A-Z i A6-format med 116 sidor med bokstavsflikar. Blandade färger.",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30554,7 +31594,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 69,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/Fargpennor-12-pack.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/Fargpennor-12-pack.jpg",
       "description": "12 pennor från MyPauze i olika färger.",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30581,7 +31622,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 139,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/Tectonic-420x577.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/Tectonic-420x577.jpg",
       "description": "400 utmaningar i olika svårighetsgrader som håller hjärnan i trim.",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30608,7 +31650,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 79,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/Sudoku-svara-t-expert-420x617.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/Sudoku-svara-t-expert-420x617.jpg",
       "description": "Sudokubok med 256 rutnät. Perfekt tidsfördriv som håller hjärnan i trim.",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30635,7 +31678,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 79,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/Sudoku-medel-t-svara-420x654.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/Sudoku-medel-t-svara-420x654.jpg",
       "description": "Sudokubok med 256 rutnät. Perfekt tidsfördriv som håller hjärnan i trim.",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30662,7 +31706,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 79,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/Sudoku-latt-t-medel-420x657.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/Sudoku-latt-t-medel-420x657.jpg",
       "description": "Sudokubok med 256 rutnät. Perfekt tidsfördriv som håller hjärnan i trim.",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30690,7 +31735,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 1099,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/kalle_anka-420x643.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/kalle_anka-420x643.jpg",
       "description": "Klassisk Disney. Utkommer ca en gång/vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter av",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30718,7 +31764,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/kalle_anka-420x643.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/kalle_anka-420x643.jpg",
       "description": "Klassisk Disney. Utkommer ca en gång/vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter av",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30746,7 +31793,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 449,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/herman-hedning-420x643.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/herman-hedning-420x643.webp",
       "description": "Legendarisk huvudfoting. Utkommer ca varannan månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och dä",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30774,7 +31822,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/herman-hedning-420x643.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/herman-hedning-420x643.webp",
       "description": "Legendarisk huvudfoting. Utkommer ca varannan månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och dä",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30802,7 +31851,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 449,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/uti-var-hage-420x643.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/uti-var-hage-420x643.jpg",
       "description": "Träffsäker humor. Utkommer ca varannan månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30830,7 +31880,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/uti-var-hage-420x643.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/uti-var-hage-420x643.jpg",
       "description": "Träffsäker humor. Utkommer ca varannan månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30858,7 +31909,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 229,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/Fusion5-kompatibla-blad.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/Fusion5-kompatibla-blad.jpg",
       "description": "Varje rakblad har fem blad som ger en nära, slät och ren rakning. Detta är billigare kompatibla blad (ej original). Säljs i 8-pack.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30886,7 +31938,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 49,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/skrubbhandskar-420x406.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/skrubbhandskar-420x406.jpg",
       "description": "Rengöring och peeling för hela kroppen. Säljs parvis.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30914,7 +31967,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 49,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/1009-Porta-Pro-extra-kuddar-420x195.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/1009-Porta-Pro-extra-kuddar-420x195.jpg",
       "description": "Fräscha upp dina KOSS Porta Pro med nya kuddar. Mycket enkelt att byta om de gamla är trasiga eller smutsiga. Säljs parvis.",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -30942,7 +31996,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/60s-classics-e1767981112865-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/60s-classics-e1767981112865-420x420.jpg",
       "description": "5 cd Utgående produkt, säljs så länge lagret räcker",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30970,7 +32025,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/BE-Happier-than-ever-420x409.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/07/BE-Happier-than-ever-420x409.jpg",
       "description": "1 cd Utgående produkt, säljs så länge lagret räcker",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -30998,7 +32054,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4137-420x554.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4137-420x554.webp",
       "description": "TV-tablåer och reportage. Utkommer ca en gång/vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och dä",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31026,7 +32083,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 289,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4137-420x554.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4137-420x554.webp",
       "description": "TV-tablåer och reportage. Utkommer ca en gång/vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och dä",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31054,7 +32112,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 799,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4129-420x554.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4129-420x554.webp",
       "description": "Skvaller. Utkommer ca en gång/vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avslutas ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31082,7 +32141,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 429,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4129-420x554.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4129-420x554.webp",
       "description": "Skvaller. Utkommer ca en gång/vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avslutas ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31110,7 +32170,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 779,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4147-420x563.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4147-420x563.jpg",
       "description": "Två tidningar med livsstil för män. Utkommer ca var sjätte vecka. 8 nr = 6 nr av King och 2 nr av Café. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. M",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31138,7 +32199,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 429,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4147-420x563.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4147-420x563.jpg",
       "description": "Två tidningar med livsstil för män. Utkommer ca var sjätte vecka. 4 nr = 3 nr av King och 1 nr av Café. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. M",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31166,7 +32228,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4145-420x589.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4145-420x589.jpg",
       "description": "Sudoku och sifferpussel på olika nivåer. Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer s",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31194,7 +32257,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4145-420x589.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4145-420x589.jpg",
       "description": "Sudoku och sifferpussel på olika nivåer. Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer s",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31222,7 +32286,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 649,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4123-420x581.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4123-420x581.webp",
       "description": "Lite svårare kryss (grad 4/5). Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31250,7 +32315,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 349,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4123-420x581.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4123-420x581.webp",
       "description": "Lite svårare kryss (grad 4/5). Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31278,7 +32344,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 829,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4125-420x581.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4125-420x581.webp",
       "description": "Enklare kryss (grad 2/5). Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31306,7 +32373,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 489,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4125-420x581.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4125-420x581.webp",
       "description": "Enklare kryss (grad 2/5). Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31334,7 +32402,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 699,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4151-420x533.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4151-420x533.jpg",
       "description": "För kvinnan mitt i livet. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31362,7 +32431,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4151-420x533.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4151-420x533.jpg",
       "description": "För kvinnan mitt i livet. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31390,7 +32460,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4149-420x554.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4149-420x554.webp",
       "description": "Mode, skönhet och resor. Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31418,7 +32489,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 329,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4149-420x554.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4149-420x554.webp",
       "description": "Mode, skönhet och resor. Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31446,7 +32518,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 949,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4119-420x553.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4119-420x553.webp",
       "description": "Nyheter och fördjupning. Utkommer ca en gång per vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31474,7 +32547,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4119-420x553.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4119-420x553.webp",
       "description": "Nyheter och fördjupning. Utkommer ca en gång per vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31502,7 +32576,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 999,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4143-420x559.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4143-420x559.jpg",
       "description": "Båtliv. Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avsluta",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31530,7 +32605,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 329,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4143-420x559.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4143-420x559.jpg",
       "description": "Båtliv. Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avsluta",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31558,7 +32634,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 589,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4127-420x562.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4127-420x562.webp",
       "description": "Datorer och teknik. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och däref",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31586,7 +32663,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4127-420x562.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4127-420x562.webp",
       "description": "Datorer och teknik. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och däref",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31614,7 +32692,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4115-420x565.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4115-420x565.webp",
       "description": "Träning och kost. Utkommer ca varannan vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31642,7 +32721,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4115-420x565.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4115-420x565.webp",
       "description": "Träning och kost. Utkommer ca varannan vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31670,7 +32750,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 749,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4113-420x617.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4113-420x617.jpg",
       "description": "Ishockey. Utkommer ca varannan månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avslutas",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31698,7 +32779,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 449,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4113-420x617.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4113-420x617.jpg",
       "description": "Ishockey. Utkommer ca varannan månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avslutas",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31726,7 +32808,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 549,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4111-420x556.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4111-420x556.webp",
       "description": "Fotboll. Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avslut",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31754,7 +32837,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 269,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4111-420x556.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4111-420x556.webp",
       "description": "Fotboll. Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter avslut",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31782,7 +32866,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 949,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4141-420x556.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4141-420x556.webp",
       "description": "MC och tester. Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31810,7 +32895,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 189,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4141-420x556.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4141-420x556.webp",
       "description": "MC och tester. Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter ",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31838,7 +32924,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 879,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4133-420x589.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4133-420x589.webp",
       "description": "Gamla bilar och nostalgi. Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts oc",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31866,7 +32953,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 529,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4133-420x589.webp",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4133-420x589.webp",
       "description": "Gamla bilar och nostalgi. Utkommer ca en gång per månad. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts oc",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31894,7 +32982,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 999,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4131-420x589.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4131-420x589.jpg",
       "description": "Bilbyggen och tester. Utkommer ca en gång/mån. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31922,7 +33011,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4131-420x589.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4131-420x589.jpg",
       "description": "Bilbyggen och tester. Utkommer ca en gång/mån. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefter",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31950,7 +33040,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 1149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4105-420x538.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4105-420x538.jpg",
       "description": "Bilar och teknik. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefte",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -31978,7 +33069,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 349,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4105-420x538.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4105-420x538.jpg",
       "description": "Bilar och teknik. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefte",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32006,7 +33098,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 949,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4109-420x561.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4109-420x561.jpg",
       "description": "Bilar och bilsport. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och däref",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32034,7 +33127,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4109-420x561.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4109-420x561.jpg",
       "description": "Bilar och bilsport. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och däref",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32062,7 +33156,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 949,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4107-420x611.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4107-420x611.jpg",
       "description": "Bilar och bilekonomi. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och där",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32090,7 +33185,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4107-420x611.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4107-420x611.jpg",
       "description": "Bilar och bilekonomi. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och där",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32118,7 +33214,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 899,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4135-420x574.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4135-420x574.jpg",
       "description": "Brott, incidenter och fenomen. Utkommer ca var sjätte vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställt",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32146,7 +33243,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4135-420x574.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4135-420x574.jpg",
       "description": "Brott, incidenter och fenomen. Utkommer ca var sjätte vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställt",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32174,7 +33272,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4103-420x564.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4103-420x564.jpg",
       "description": "Historia och vetenskap. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och d",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32202,7 +33301,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4103-420x564.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4103-420x564.jpg",
       "description": "Historia och vetenskap. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och d",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32230,7 +33330,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4101-420x560.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4101-420x560.jpg",
       "description": "Populärvetenskap. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefte",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32258,7 +33359,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/4101-420x560.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/4101-420x560.jpg",
       "description": "Populärvetenskap. Utkommer ca var tredje vecka. Efter beställning tar det några veckor innan det första numret kommer, det beror helt på förlagets utgivningsplan. Mottagaren får det antal nummer som beställts och därefte",
       "usefulFor": "Kan vara relevant som katalogval inom Tidningsprenumerationer. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32286,7 +33388,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 529,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/f91-w-dam.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/f91-w-dam.jpg",
       "description": "Retroklocka med tidtagning, alarm, datum. Väger endast 21 gram. Vattentäthet 3 ATM (tål vattenstänk). 38,2 x 33,2 mm.",
       "usefulFor": "Kan vara relevant som katalogval inom För henne. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32313,7 +33416,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 699,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/Casio-Runner-420x643.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/Casio-Runner-420x643.jpg",
       "description": "Blå sportklocka med extra knappar framtill för enklare tidtagning och varvtider. Belysning, larm, datum mm. Vattentäthet 10 ATM.",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32340,7 +33444,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 649,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/ae-1500wh-420x539.webp",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/ae-1500wh-420x539.webp",
       "description": "Stor och tydlig display med LED-belysning. Timer, larm, tidtagning mm. Vikt 57 gram. Vattentäthet 10 ATM.",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32367,7 +33472,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 799,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/mtp-e700d-420x680.webp",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/mtp-e700d-420x680.webp",
       "description": "Silverfärgad och stilren med sportiga detaljer. Mineralglas. Armband av rostfritt stål. Ø 40 mm, vikt 104 gram. Vattentäthet 10 ATM. Utgående produkt, säljs så länge lagret räcker.",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32394,7 +33500,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/mrw-200h-420x606.webp",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/mrw-200h-420x606.webp",
       "description": "Sportig militärklocka med datum och veckodag. Stora siffror. Armband av extra tåligt gummi. Ø 44 mm. Vattentäthet 10 ATM.",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32421,7 +33528,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/mw-240-420x600.webp",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/mw-240-420x600.webp",
       "description": "Stilren och enkel svart klocka med mineralglas och plastarmband. Ø 44 mm. Väger endast 35 gram. Vattentäthet 5 ATM.",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32449,7 +33557,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/04/KOSS-Kph7.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/04/KOSS-Kph7.jpg",
       "description": "Enklare on-ear hörlur som trots lågt pris håller hög nivå på komfort och ljudkvalitet i sann KOSS-anda. Sladdlängd 120 cm. 3,5 mm kontakt.",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32476,7 +33585,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/03/Powerband-420x305.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/03/Powerband-420x305.jpg",
       "description": "Gummiband är perfekt för nästan all sorts styrketräning för hela kroppen. Finns i fyra olika maxmotstånd 15, 25, 35 och 57 kg. Samtliga är ca 200 cm långa.",
       "usefulFor": "Kan vara relevant som katalogval inom Träning. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32503,7 +33613,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 749,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Dreamgear-uppdaterad.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/09/Dreamgear-uppdaterad.jpg",
       "description": "Portabel spelkonsol med 300 inbyggda spel i olika genres. Inbyggd 2,75” fullfärgsskärm. Inbyggd högtalare och uttag för hörlur (3,5 mm). Drivs av 4 st AAA-batterier (ingår ej). Observera att denna spelkonsol har en USB-k",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32530,7 +33641,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 349,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/03/Denver-GMP.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/03/Denver-GMP.jpg",
       "description": "Portabel enklare spelkonsol med 200 inbyggda spel. Upplev retrokänslan med 2,5” TFT-skärm. Drivs av 3 st AAA-batterier (ingår ej). Storlek 12,2x6x2,6 cm.",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32558,7 +33670,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 749,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/03/Chamion-RD18-2-420x198.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/03/Chamion-RD18-2-420x198.jpg",
       "description": "Helvit somrig sneaker i konstläder till bra pris. Låg modell med extra hög och dämpande sula. Finns i stl 41, 42, 43, 44, 45, 46. OBS! Då vi inte kan hålla alla storlekar i lager är leveranstiden upp till 2 veckor på sko",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32585,7 +33698,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 89,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/03/Kakuro.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/03/Kakuro.jpg",
       "description": "Rejäl utmaning med 137 kluriga siffernötter.",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32613,7 +33727,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/03/gaubert-bmb-010-bamboo-boxershort-1-420x420.webp",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/03/gaubert-bmb-010-bamboo-boxershort-1-420x420.webp",
       "description": "Våra allra finaste supermjuka svarta kalsonger i bästa bambukvalitet som andas otroligt bra. Säljs styckvis. Finns i stl M, L, XL, XXL.",
       "usefulFor": "Kan vara relevant som katalogval inom Kläder. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32641,7 +33756,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 399,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/03/1022-Philips-TAR1509-420x750.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/03/1022-Philips-TAR1509-420x750.jpg",
       "description": "Analog FM-radio med enkla kontroller. Lyssna från den inbyggda högtalaren eller koppla in dina hörlurar (3,5 mm). Drivs med 2 st AAA-batterier (ingår ej).",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32669,7 +33785,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 59,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/02/1086-RodStewart-420x419.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/02/1086-RodStewart-420x419.jpg",
       "description": "1 cd Utgående produkt, säljs så länge lagret räcker",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32697,7 +33814,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 59,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/02/1081-Carola-420x418.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/02/1081-Carola-420x418.jpg",
       "description": "1 cd Utgående produkt, säljs så länge lagret räcker",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32725,7 +33843,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 89,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/12/benyson-seamless-bamboo-ankle-socks-vit-420x420.webp",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/12/benyson-seamless-bamboo-ankle-socks-vit-420x420.webp",
       "description": "Vita korta strumpor i unisexmodell i bästa bambukvalitet som andas och motverkar svett. Finns i stl 35-40 och 41-46.",
       "usefulFor": "Kan vara relevant som katalogval inom För henne. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32753,7 +33872,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/02/8049-benyson-seamless-bamboo-socks-beny-1001-unisex-420x420.webp",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/02/8049-benyson-seamless-bamboo-socks-beny-1001-unisex-420x420.webp",
       "description": "Mjuka och sköna svarta strumpor i bambu som andas och motverkar svett. Finns i stl 35-40 och 41-46.",
       "usefulFor": "Kan vara relevant som katalogval inom Kläder. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32781,7 +33901,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 15,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/12/Vykort-saknar-dig-420x303.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/12/Vykort-saknar-dig-420x303.jpg",
       "description": "Fina vykort i A6-format i åtta olika varianter. med olika hälsningar till nära och kära. Säljs styckvis.",
       "usefulFor": "Kan vara relevant som katalogval inom Brev & vykort. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32808,7 +33929,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 79,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Antbok-420x420.png",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/03/Antbok-420x420.png",
       "description": "Vår nya egna anteckningsbok i A5-format. 80 linjerade sidor, liminbunden.",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32836,7 +33958,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/02/8048-benyson-seamless-bamboo-socks-beny-1002-unisex-420x420.webp",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/02/8048-benyson-seamless-bamboo-socks-beny-1002-unisex-420x420.webp",
       "description": "Mjuka och sköna vita strumpor i bambu som andas och motverkar svett. Finns i stl 35-40 och 41-46.",
       "usefulFor": "Kan vara relevant som katalogval inom Kläder. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32864,7 +33987,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 89,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/12/benyson-seamless-bamboo-ankle-socks-svart-420x420.webp",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/12/benyson-seamless-bamboo-ankle-socks-svart-420x420.webp",
       "description": "Svarta korta strumpor i unisexmodell i bästa bambukvalitet som andas och motverkar svett. Finns i stl 35-40 och 41-46.",
       "usefulFor": "Kan vara relevant som katalogval inom För henne. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -32891,7 +34015,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/12/Casio-enkel-klocka.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/12/Casio-enkel-klocka.jpg",
       "description": "En enklare Casio-modell i plast med bakgrundsbelysning, timer, alarm mm. Väger endast 22 gram. Vattentäthet 3 ATM.",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32919,7 +34044,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 949,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/12/Nike-revolution-dam-420x186.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/12/Nike-revolution-dam-420x186.jpg",
       "description": "Komfortabel löparsko med bra stöd och medelhög dämpning. Finns i storlek 36, 36,5, 37,5, 38, 38,5, 39, 40, 41, 42. OBS! Då vi inte kan hålla alla storlekar i lager är leveranstiden upp till 2 veckor på skor.",
       "usefulFor": "Kan vara relevant som katalogval inom För henne. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32947,7 +34073,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/12/Casio-damklocka.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/12/Casio-damklocka.jpg",
       "description": "Klocka i klassisk design med svart armband i polyuretan. Vattentäthet 3 ATM (tål vattenstänk), Ø 33,8 mm.",
       "usefulFor": "Kan vara relevant som katalogval inom För henne. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -32975,7 +34102,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 799,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/12/Babyliss-trimmer-10-i-1-420x483.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/12/Babyliss-trimmer-10-i-1-420x483.jpg",
       "description": "Supervassa blad i kol/titan med 4 skäggkammar, stubbkam, 2 distanskammar, nästrimmer mm. 60 min batteritid.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33002,7 +34130,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/11/7027-halsband-storre-kors.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/11/7027-halsband-storre-kors.jpg",
       "description": "Silverfärgat stilrent lite större kors (ca 5 cm högt) på halskedja 55 cm.",
       "usefulFor": "Kan vara relevant som katalogval inom Smycken. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33030,7 +34159,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 799,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2026/04/Oneblade-qp272410-420x677.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2026/04/Oneblade-qp272410-420x677.jpg",
       "description": "Trimma, styla och raka med denna laddbara rakhyvel som kan användas både torrt och vått. Tre stubbkammar, en kroppskam samt en skinguard ingår ingår. Kan användas ca 45 minuter på en laddning. Då OneBlade numera bara kom",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33058,7 +34188,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 349,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/11/2102-Venus-rakblad-420x424.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/11/2102-Venus-rakblad-420x424.jpg",
       "description": "Venus rakblad är utformade för kvinnliga former. Venus Smooth rakhyvlar för kvinnor är de första rakhyvlarna med 3 blad framtagna för kvinnor.",
       "usefulFor": "Kan vara relevant som katalogval inom För henne. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33086,7 +34217,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/11/2101-Venus-rakhyvel-420x341.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/11/2101-Venus-rakhyvel-420x341.jpg",
       "description": "Rakhyvel med ergonomiskt grepp för kvinnliga former. Inkluderar två rakblad. Venus Smooth rakhyvlar för kvinnor är de första rakhyvlarna med 3 blad framtagna för kvinnor.",
       "usefulFor": "Kan vara relevant som katalogval inom För henne. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33114,7 +34246,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/11/9105-sport-BH-420x422.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/11/9105-sport-BH-420x422.jpg",
       "description": "Bekväm BH med löstagbar vaddering. 90% polyamid och 10% elastan. Blandade färger. Finns i storlek M/L och XL/XXL.",
       "usefulFor": "Kan vara relevant som katalogval inom För henne. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33142,7 +34275,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 79,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/11/9101-trosor-420x288.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/11/9101-trosor-420x288.jpg",
       "description": "Svarta briefs i supermjukt bambumaterial. Normal passform. 68% bambu, 28% bomull, 4% elastan. Finns i storlek S/M, L/XL och XXL/XXXL.",
       "usefulFor": "Kan vara relevant som katalogval inom För henne. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33170,7 +34304,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 379,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/09/2028-OneBlade-original-2-pack-420x474.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/09/2028-OneBlade-original-2-pack-420x474.jpg",
       "description": "Originalblad från Philips till OneBlade i 2-pack. Livslängd upp till fyra månader per blad.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33198,7 +34333,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/09/2051-endagslinser-420x152.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/09/2051-endagslinser-420x152.jpg",
       "description": "Det enklaste sättet att bära linser. Du sätter i linserna på morgonen och på kvällen kastar du dem. Således behöver du inget linsetui, ingen linsvätska och du behöver inte rengöra linserna. Varje box innehåller 30 endags",
       "usefulFor": "Kan vara relevant som katalogval inom Kontaktlinser. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33225,7 +34361,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/09/4021-Malarbok-for-vuxna-420x532.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/09/4021-Malarbok-for-vuxna-420x532.jpg",
       "description": "Målarbok för vuxna Utgående produkt, säljes så länge lagret räcker.",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33253,7 +34390,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/09/1074-Mr-Brown-420x410.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/09/1074-Mr-Brown-420x410.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33281,7 +34419,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/09/1073-Dababy-Blame-it-on-the-baby-420x409.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/09/1073-Dababy-Blame-it-on-the-baby-420x409.jpg",
       "description": "1 cd Utgående produkt, säljs så länge lagret räcker",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33308,7 +34447,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/09/7036-7037-Radband-420x614.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/09/7036-7037-Radband-420x614.jpg",
       "description": "Ljusbruna bönepärlor. Finns även i en variant med 33 pärlor.",
       "usefulFor": "Kan vara relevant som katalogval inom Smycken. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33335,7 +34475,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/09/7036-7037-Radband-420x614.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/09/7036-7037-Radband-420x614.jpg",
       "description": "Ljusbruna bönepärlor. Finns även i en variant med 99 pärlor.",
       "usefulFor": "Kan vara relevant som katalogval inom Smycken. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33363,7 +34504,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 79,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/09/8045-Deluxe-420x420.png",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/09/8045-Deluxe-420x420.png",
       "description": "Premium svart boxerkalsong i 92% polyamid och 8% elastan. Andas bra och torkar snabbt. Säljs styckvis. Finns i stl M-L och XL-XXL.",
       "usefulFor": "Kan vara relevant som katalogval inom Kläder. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33391,7 +34533,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/benyson-seamless-bamboo-socks-beny-1003-unisex-420x420.webp",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/11/benyson-seamless-bamboo-socks-beny-1003-unisex-420x420.webp",
       "description": "Extra sköna strumpor i bambu som andas och motverkar svett. Tre färger i varje paket. Finns i stl 35-40 och 41-46.",
       "usefulFor": "Kan vara relevant som katalogval inom Kläder. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33418,7 +34561,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 899,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/09/5011-Casio-guld.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/09/5011-Casio-guld.jpg",
       "description": "Guldfärgad klocka i cool retrodesign. Timer, alarm, stoppur. Bakgrundsbelyst display. 32×37 mm. Vattentäthet 10 ATM.",
       "usefulFor": "Kan vara relevant som katalogval inom Klockor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33446,7 +34590,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 329,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/09/2045-Gilette-Labs-4-pack-420x472.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/09/2045-Gilette-Labs-4-pack-420x472.jpg",
       "description": "Varje rakblad har fem blad och plats för den exfolierande remsan samt en trimmer på baksidan. Passar alla Gillette Labs rakhyvlar.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33474,7 +34619,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/08/Labs-med-alla-tillbehor-420x388.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/08/Labs-med-alla-tillbehor-420x388.jpg",
       "description": "Gilettes senaste hyvel som har unik exfolieringsteknik. Avlägsnar smuts innan hyveln passerar. Fantastisk komfort och närhet. Uppdaterad variant – inkluderar nu två rakblad, ställ och fodral.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33502,7 +34648,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 999,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/09/1021-Radio.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/09/1021-Radio.jpg",
       "description": "Hållbar FM-radio med inbyggd högtalare, 20 snabbvalsplatser, insomningsfunktion, alarm. Stort ljud i litet format. Hörlurar kan kopplas in (3,5 mm). Drivs av 2 st AA-batterier (ingår ej). Observera att radion har en USB-",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33530,7 +34677,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 849,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/09/2043-Braun-Rakapparat-420x464.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/09/2043-Braun-Rakapparat-420x464.jpg",
       "description": "Skonsam mot huden och tuff mot skäggväxten. Har tre tryckkänsliga skärelement och är vattentät. Lång batteritid.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33558,7 +34706,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 399,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/05/2050-Air-Optix-420x246.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/05/2050-Air-Optix-420x246.jpg",
       "description": "Dessa linser är en uppdatering av Air Optix Aqua för ännu bättre fuktighet. Varje box innehåller sex månadslinser. Om du har olika styrkor på ögonen måste du köpa två boxar, en för vardera öga. Alla linser har baskurva 8",
       "usefulFor": "Kan vara relevant som katalogval inom Kontaktlinser. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33585,7 +34734,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/05/7039-Nytt-halsband-kors-svart-420x460.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/05/7039-Nytt-halsband-kors-svart-420x460.jpg",
       "description": "Silverfärgat/svart kors på halskedja 60 cm.",
       "usefulFor": "Kan vara relevant som katalogval inom Smycken. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33612,7 +34762,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/05/7038-Halsband-kors-enkelt.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/05/7038-Halsband-kors-enkelt.jpg",
       "description": "Silverfärgat stilrent kors (ca 3 cm högt) på halskedja 60 cm.",
       "usefulFor": "Kan vara relevant som katalogval inom Smycken. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33640,7 +34791,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/05/7025-suddbara-blackpennor.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/05/7025-suddbara-blackpennor.jpg",
       "description": "4-pack pennor från Pilot med mjukt grepp. Perfekt till korsord, sudoku eller brevskrivande.",
       "usefulFor": "Kan vara relevant som katalogval inom Brev & vykort. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33667,7 +34819,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 279,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/05/6002-Scholl-spor.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/05/6002-Scholl-spor.jpg",
       "description": "Sulor Sport Man är en stötdämpande sula för dig som idrottar och/eller springer från Scholl med Gel Activ-teknologi som avlastar fötterna, placeras direkt i skorna. Klipps till rätt storlek och passar skor i storlek 40 t",
       "usefulFor": "Kan vara relevant som katalogval inom Träning. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33694,7 +34847,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/05/6007-Scholl-Active-work.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/05/6007-Scholl-Active-work.jpg",
       "description": "Sulor Work Man är en stötdämpande sula perfekt för dig som står upp långa stunder från Scholl med Gel Activ-teknologi som avlastar fötterna, placeras direkt i skorna. Klipps till rätt storlek och passar skor i storlek 40",
       "usefulFor": "Kan vara relevant som katalogval inom Träning. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33722,7 +34876,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/05/2038-Borshuvuden-3d-White-420x559.png",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/05/2038-Borshuvuden-3d-White-420x559.png",
       "description": "Refillhuvuden som passar till alla Oral-B Vitality. 3D White hjälper till att skapa vitare tänder.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33750,7 +34905,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 329,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/05/2037-Philips-hygientrimmer-420x511.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/05/2037-Philips-hygientrimmer-420x511.jpg",
       "description": "Tvättbar trimmer med protective guard för näshår, öronhår och gonbryn. 1 st AA batteri ingår.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33778,7 +34934,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 59,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/05/1068-420x416.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/05/1068-420x416.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33806,7 +34963,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/05/HipHopUltimate-420x420.png",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/05/HipHopUltimate-420x420.png",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -33834,7 +34992,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 749,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/05/1054-AKG.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/05/1054-AKG.jpg",
       "description": "Over-ear hörlurar med både djup bas och klarhet på höjden. Endast 200 gram. Sladdlängd 250 cm. 3,5 mm kontakt.",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33862,7 +35021,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 179,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/05/1051-Koss-in-ear-420x353.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/05/1051-Koss-in-ear-420x353.jpg",
       "description": "Mycket lätt och bekväm in-ear hörlur. Sladdlängd 122 cm. 3,5 mm kontakt.",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33890,7 +35050,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/05/1052-Koss-the-plug-420x422.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/05/1052-Koss-the-plug-420x422.jpg",
       "description": "Bekväma in-ear hörlurar med expanderbart skum för bästa passform. Sladdlängd 120 cm. 3,5 mm kontakt.",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33918,7 +35079,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 949,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2025/10/Revolution8-420x187.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2025/10/Revolution8-420x187.jpg",
       "description": "Lätt och stilren sko som passar lika bra till vardags som till promenaden eller en kortare löprunda. Dämpar medelmycket. Finns i stl. 41, 42, 43, 44, 45, 46. OBS! Då vi inte kan hålla alla storlekar i lager är leveransti",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33946,7 +35108,8 @@ window.CellViaChance2Buy = {
         "Klädpaket"
       ],
       "price": 399,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/01/9019-420x218.jpg",
+      "image": "assets/images/cellvia-worker.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/01/9019-420x218.jpg",
       "description": "Klassisk sandal med bekväm dämpande korksula och svart läderimitation. Finns i stl 40, 41, 42, 43, 44, 45, 46. OBS! Då vi inte kan hålla alla storlekar i lager är leveranstiden upp till 2 veckor på skor.",
       "usefulFor": "Kan vara relevant som katalogval inom Skor. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -33973,7 +35136,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/01/7048-420x405.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/01/7048-420x405.jpg",
       "description": "Silverfärgat halsband med en halvmåne i antik stil.",
       "usefulFor": "Kan vara relevant som katalogval inom Smycken. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34000,7 +35164,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/01/3021-420x420.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/01/3021-420x420.jpg",
       "description": "Träningshandske med kardborrelåsning ger ett bättre grepp och skydd för handen vid träning. Handsken är en unisex-modell i färg svart/grå. Finns i storlekarna Small, Medium och Large.",
       "usefulFor": "Kan vara relevant som katalogval inom Träning. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34028,7 +35193,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/01/2035-420x575.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/01/2035-420x575.jpg",
       "description": "Ger en överlägsen rengöring. Inbyggd timer i handtaget. Tre olika borstningsfunktioner inkl ”sensitive”. Ett borsthuvud och laddare ingår.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -34056,7 +35222,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2024/01/2034-420x371.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2024/01/2034-420x371.jpg",
       "description": "Huvuden kompatibla till Oral-B Vitality och Vitality Pro (ej original)",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -34083,7 +35250,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 1000,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/Presentkort.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/Presentkort.jpg",
       "description": "Den perfekta gåvan! Om du är osäker på vad du ska köpa till din anhörige så är ett presentkort aldrig fel. Du kan välja mellan olika belopp och vi skickar en kod till den anhörige som anges vid beställning av varor från ",
       "usefulFor": "Kan vara relevant som katalogval inom Presentkort. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Ej rekommenderad",
@@ -34110,7 +35278,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 500,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/Presentkort.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/Presentkort.jpg",
       "description": "Den perfekta gåvan! Om du är osäker på vad du ska köpa till din anhörige så är ett presentkort aldrig fel. Du kan välja mellan olika belopp och vi skickar en kod till den anhörige som anges vid beställning av varor från ",
       "usefulFor": "Kan vara relevant som katalogval inom Presentkort. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Ej rekommenderad",
@@ -34137,7 +35306,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 250,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/Presentkort.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/Presentkort.jpg",
       "description": "Den perfekta gåvan! Om du är osäker på vad du ska köpa till din anhörige så är ett presentkort aldrig fel. Du kan välja mellan olika belopp och vi skickar en kod till den anhörige som anges vid beställning av varor från ",
       "usefulFor": "Kan vara relevant som katalogval inom Presentkort. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Ej rekommenderad",
@@ -34164,7 +35334,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/7050-420x602.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/7050-420x602.jpg",
       "description": "”You are my angel” halsband i stål med hänge. Passar både män och kvinnor. Längd på kedja: 60 cm.",
       "usefulFor": "Kan vara relevant som katalogval inom Smycken. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34192,7 +35363,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 119,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/1016.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/1016.jpg",
       "description": "HAMA förlängningskabel 150 cm",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34220,7 +35392,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 119,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/1017.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/1017.jpg",
       "description": "HAMA förlängningskabel 150 cm",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34247,7 +35420,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/7021-420x352.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/7021-420x352.jpg",
       "description": "Ring i kirurgisk stål. Säljes styckvis",
       "usefulFor": "Kan vara relevant som katalogval inom Smycken. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34274,7 +35448,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 149,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/7049.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/7049.jpg",
       "description": "Snygg rostfri, lite grövre halskedja. Kan med fördel kombineras med valfritt hänge: 7042 eller 7043 Längd: 60 cm. Tjocklek: 6 mm",
       "usefulFor": "Kan vara relevant som katalogval inom Smycken. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34302,7 +35477,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 2199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/8989-420x138.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/8989-420x138.jpg",
       "description": "I häktespaket får du de nödvändigaste produkterna, som man har nytta av under sin verkställighet, detta till ett rabatterat pris. Paketet innehåller: 1003 Soundmaster CD-spelare (ord pris 749,00) 1008 Koss hörlurar (ord ",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34329,7 +35505,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/7011.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/7011.jpg",
       "description": "Ritblock A4 120 gsm. Limmat överkant, trä- och syrafritt papper. 2 mm kartong på baksida. 30 blad",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34356,7 +35533,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 169,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/7020-420x249.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/7020-420x249.jpg",
       "description": "Set med 40 pennor.",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34383,7 +35561,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 59,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/4003-420x360.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/4003-420x360.jpg",
       "description": "Klassisk kortlek. En mycket omtyckt och uppskattad kortlek. Mått: 20x89x58mm",
       "usefulFor": "Kan vara relevant som katalogval inom Hobby & fritid. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34411,7 +35590,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 29,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/4009-420x370.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/4009-420x370.jpg",
       "description": "Vackra dubbla kvalitetskort med födelsedagshälsning på framsidan. Blandade motiv, skickas slumpvis.",
       "usefulFor": "Kan vara relevant som katalogval inom Brev & vykort. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34439,7 +35619,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 59,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/4039-420x624.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/4039-420x624.jpg",
       "description": "Camilla Grebe (Deckare) Lykke redaktör, författarhustru, tonårsmamma och, enligt omgivningen, inte ett spår våldsam står anklagad för mord. Vad har hänt på familjens gård?",
       "usefulFor": "Kan vara relevant som katalogval inom Böcker. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -34467,7 +35648,8 @@ window.CellViaChance2Buy = {
         "Skrivpaket"
       ],
       "price": 59,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/4037.jpg",
+      "image": "assets/images/documented-packing.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/4037.jpg",
       "description": "Nora Roberts (Deckare) Adrian Rizzo var 7 år när hon mötte sin far för första gången. Samma dag försökte han döda henne.",
       "usefulFor": "Kan vara relevant som katalogval inom Böcker. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -34494,7 +35676,8 @@ window.CellViaChance2Buy = {
         "Chance2Buy-katalog"
       ],
       "price": 219,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/6001.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/6001.jpg",
       "description": "Sulor Everyday Man är en stötdämpande sula för vardagsbruk från Scholl med Gel Activ-teknologi som avlastar fötterna, placeras direkt i skorna. Klipps till rätt storlek och passar skor i storlek 40 till 46,5.",
       "usefulFor": "Kan vara relevant som katalogval inom Träning. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34522,7 +35705,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 69,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/2024-scaled-420x233.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/2024-scaled-420x233.jpg",
       "description": "Svart rektangulär hårborste i plast med avrundade nylonpiggar.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -34550,7 +35734,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 299,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/2021-420x526.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/2021-420x526.jpg",
       "description": "Refillborsthuvuden i 4-pack Passar till alla Oral-B-handtag, utom Pulsonic och iO.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -34578,7 +35763,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 59,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/2015-420x273.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/2015-420x273.jpg",
       "description": "Svart kam 15 cm bred. För tjockt hår eller skägg.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -34606,7 +35792,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 249,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/2013-ny-420x418.png",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/2013-ny-420x418.png",
       "description": "En säker, snabb och skonsam trimmer. Löstagbart huvud som underlättar rengöring. Batteridriven: 1 st AA batteri ingår.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -34634,7 +35821,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 399,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/2007-420x420.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/2007-420x420.jpg",
       "description": "5 blad som ger en nära, slät och ren rakning. Dessa rakblad är kompatibla med alla Gillette Fusion rakhyvlar.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -34662,7 +35850,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 199,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/2005-420x831.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/2005-420x831.jpg",
       "description": "Razor Flexball En manuell rakhyvel med Gillettes tunnaste, finaste blad. Hyveln följer ansiktets konturer och ger en hudnära rakning. Alla Fusion rakblad passar till alla modeller av Fusion rakhyvlar med eller utan Flexb",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -34690,7 +35879,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 369,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/2003-420x420.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/2003-420x420.jpg",
       "description": "Ersättningsblad 3-pack (ej original) Passar till alla OneBlade-handtag. Livslängd upp till fyra månader.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -34718,7 +35908,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 39,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/2023-420x337.jpg",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/2023-420x337.jpg",
       "description": "Med skrubbyta, sorterade färger.",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -34746,7 +35937,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 129,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/6005.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/6005.jpg",
       "description": "Laddbara batterier levereras förladdade. Räcker upp till 2x längre. 4-pack.",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34774,7 +35966,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 169,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/6004-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/6004-420x420.jpg",
       "description": "Laddbara batterier levereras förladdade. Räcker upp till 6x längre. 4-pack.",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34802,7 +35995,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/6003-scaled-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/6003-scaled-420x420.jpg",
       "description": "Procharger 4x AA 2000mAh. Ljud- och LED-status för laddning. Automatisk avstängningsmekanism med timer. 4 stycken AA 2000mAh-batterier ingår.",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34830,7 +36024,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 99,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/1007-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/1007-420x420.jpg",
       "description": "Väska för 20 skivor. I svart nylon med bärrem. Vadderad för maximalt skydd.",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34858,7 +36053,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 749,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/1015.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/1015.jpg",
       "description": "En fickradio med 15 programmerbara stationer (10 FM/5 AM). Automatisk stationssökning. DBB. Knapplås. Stereoljud. Batteriindikator. Automatisk avstängning efter 90min. Stor tydlig display. Drivs med 2 st AAA batteri (ing",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34886,7 +36082,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 949,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/1014-ny-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/1014-ny-420x420.jpg",
       "description": "DPR39 är en radio med DAB och DAB+ Snabbval 5 FM samt 5 DAB enkel att ställa in. Insomnings automatik. Låsningsfunktion på alla tangenter. Frekvensområden DAB Band III 170 – 240 Mhz. FM Band II 87,5 – 108 Mhz. Drivs med ",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34914,7 +36111,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 749,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/1003-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/1003-420x420.jpg",
       "description": "Bärbar CD/MP3-spelare. Antichocksystem och resume-funktion. X-basfunktion. Batteriladdningsfunktion: lägg i laddningsbara batterier (ingår ej) och ladda med hjälp av medföljande strömadapter. Hörlurar ingår (minihörlursk",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34942,7 +36140,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 549,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/1001-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/1001-420x420.jpg",
       "description": "Bärbar CD/MP3-spelare med antichock- och resume-funktion. Basförstärkningssystem, LCD skärm. Hörlurar ingår (minihörlurskontakt 3,5 mm) Batteri 2xAA (ingår ej)",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34970,7 +36169,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 499,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/1008-420x420.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/1008-420x420.jpg",
       "description": "PortaPro har dynamiska element och ComfortZone för bästa passform. Lurarna är hopfällbara. Frekvensomfång: 15 – 25 000 Hz. Sladdlängd: 115 cm. 3,5 mm kontakt.",
       "usefulFor": "Kan vara relevant som katalogval inom Audio. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Begränsad",
@@ -34998,7 +36198,8 @@ window.CellViaChance2Buy = {
         "Musikpaket"
       ],
       "price": 39,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/10/1043.jpg",
+      "image": "assets/images/process-sealed-package.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/10/1043.jpg",
       "description": "Katalogprodukt från Chance2Buy inom musik & ljud. Produkten behöver alltid kontrolleras mot vald anstalts regler innan leverans.",
       "usefulFor": "Kan vara relevant som katalogval inom Musik. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
@@ -35026,7 +36227,8 @@ window.CellViaChance2Buy = {
         "Hygienpaket"
       ],
       "price": 599,
-      "image": "https://www.chance2buy.se/wp-content/uploads/2023/08/Philips-5612-420x420.webp",
+      "image": "assets/images/process-products.jpg",
+      "sourceImage": "https://www.chance2buy.se/wp-content/uploads/2023/08/Philips-5612-420x420.webp",
       "description": "Trim-n-flow PRO-teknik. 28 längdinställningar 0,5-28 mm. 75 minuter användning på 8 timmars laddning. 100% tvättbar",
       "usefulFor": "Kan vara relevant som katalogval inom Hygien. Produkten visas som vägledning och kräver kontroll före köp och leverans.",
       "compatibilityStatus": "Kräver kontroll",
