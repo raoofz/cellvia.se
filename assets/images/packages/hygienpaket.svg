@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="Hygienpaket med milda produkter">
+  <rect width="720" height="440" fill="#f7f7f2"/><ellipse cx="360" cy="356" rx="260" ry="34" fill="#dfe4dc"/>
+  <rect x="168" y="160" width="300" height="158" rx="22" fill="#fffdf8" stroke="#d3d9d0" stroke-width="6"/>
+  <rect x="220" y="100" width="70" height="214" rx="15" fill="#f3ede3" stroke="#d3d9d0" stroke-width="5"/>
+  <rect x="328" y="128" width="96" height="186" rx="18" fill="#ffffff" stroke="#d3d9d0" stroke-width="5"/>
+  <rect x="454" y="190" width="86" height="86" rx="20" fill="#e8ddcc" stroke="#d2c5b6" stroke-width="5"/>
+</svg>

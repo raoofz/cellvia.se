@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Mjuk forvaring pa neutral yta">
+  <rect width="640" height="480" fill="#f6f5ef"/>
+  <ellipse cx="320" cy="394" rx="224" ry="30" fill="#dfe4dc"/>
+  <path d="M190 174h260l36 188c4 21-12 40-34 40H188c-22 0-38-20-33-41z" fill="#e8e1d5" stroke="#d3c9bb" stroke-width="6"/>
+  <path d="M228 173c8-52 40-82 92-82s84 30 92 82" fill="none" stroke="#7b927f" stroke-width="14" stroke-linecap="round"/>
+  <rect x="240" y="246" width="160" height="76" rx="15" fill="#fffaf2" opacity=".72"/>
+  <path d="M135 416c94 16 342 17 420 0" fill="none" stroke="#ccd6cd" stroke-width="8" stroke-linecap="round"/>
+</svg>

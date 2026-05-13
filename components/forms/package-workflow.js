@@ -23,7 +23,7 @@
       { label: "Mottagare", done: Boolean(state.inmateName && state.inmateNumber) },
       { label: "Anstalt", done: Boolean(state.prisonId) },
       { label: "Produkter", done: state.productIds.length > 0 },
-      { label: "Kund", done: Boolean(state.customerName && state.customerEmail) },
+      { label: "Kontakt", done: Boolean(state.customerEmail) },
       { label: "Bekräftelse", done: false }
     ];
     setHtml("#create-steps", steps.map((step, index) => `
@@ -81,7 +81,7 @@
     const filtered = results.filter((result) => {
       const product = result.product;
       const text = [product.name, product.description, product.category, product.sourceCategory, product.compatibilityNote].join(" ").toLowerCase();
-      return (!search || text.includes(search)) && (!category || product.category === category);
+      return (!search || text.includes(search)) && (!category || product.category === category || product.catalogCategory === category);
     });
     const visible = filtered.slice(0, visibleChoiceCount);
 
@@ -123,7 +123,7 @@
     }
     const createCategory = qs("#create-category-filter");
     if (createCategory) {
-      const categories = [...new Set(repo().products.all().map((product) => product.category))].sort((a, b) => a.localeCompare(b, "sv"));
+      const categories = [...new Set(repo().products.all().map((product) => product.catalogCategory || product.category))].sort((a, b) => a.localeCompare(b, "sv"));
       createCategory.innerHTML = `<option value="">Alla kategorier</option>${categories.map((item) => `<option>${escapeHtml(item)}</option>`).join("")}`;
     }
     if (productSeed) state.addProduct(productSeed);
@@ -153,15 +153,13 @@
       });
     });
 
-    qsa("#inmate-name, #inmate-number, #inmate-department, #customer-name, #customer-email, #customer-phone, #order-notes, #order-consent").forEach((input) => {
+    qsa("#inmate-name, #inmate-number, #inmate-department, #customer-email, #order-notes, #order-consent").forEach((input) => {
       const syncFormState = () => {
         state.set({
           inmateName: qs("#inmate-name")?.value || "",
           inmateNumber: qs("#inmate-number")?.value || "",
           inmateDepartment: qs("#inmate-department")?.value || "",
-          customerName: qs("#customer-name")?.value || "",
           customerEmail: qs("#customer-email")?.value || "",
-          customerPhone: qs("#customer-phone")?.value || "",
           consent: Boolean(qs("#order-consent")?.checked),
           notes: qs("#order-notes")?.value || ""
         });
@@ -196,9 +194,7 @@
         inmateName: qs("#inmate-name").value,
         inmateNumber: qs("#inmate-number").value,
         inmateDepartment: qs("#inmate-department").value,
-        customerName: qs("#customer-name").value,
         customerEmail: qs("#customer-email").value,
-        customerPhone: qs("#customer-phone").value,
         consent: qs("#order-consent").checked,
         prisonId: prisonSelect.value,
         notes: qs("#order-notes").value

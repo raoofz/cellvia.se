@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="Svensk institutionell byggnad klass 1">
+  <rect width="720" height="440" fill="#f5f6f1"/><rect x="90" y="250" width="540" height="116" rx="8" fill="#dfe5df"/>
+  <rect x="150" y="142" width="420" height="122" rx="10" fill="#f7f5ed" stroke="#cfd8d0" stroke-width="6"/>
+  <path d="M130 142h460l-46-42H176z" fill="#d8dfd8"/>
+  <g fill="#9fb4a6"><rect x="188" y="176" width="48" height="46" rx="4"/><rect x="276" y="176" width="48" height="46" rx="4"/><rect x="364" y="176" width="48" height="46" rx="4"/><rect x="452" y="176" width="48" height="46" rx="4"/></g>
+  <path d="M92 370c130 24 408 24 536 0" stroke="#cfd8d0" stroke-width="8" stroke-linecap="round"/>
+</svg>

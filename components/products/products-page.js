@@ -9,14 +9,15 @@
     const prisonSelect = qs("#product-prison");
     const packageSelect = qs("#product-package");
     const statusSelect = qs("#product-status");
+    const availabilitySelect = qs("#product-availability");
     const sourceCategorySelect = qs("#product-source-category");
     const sortSelect = qs("#product-sort");
     let visibleCount = 48;
     let lastFilterKey = "";
-    const categories = window.CellViaSeed.productCategories || window.CellViaSeed.categories.map((name) => ({ name, icon: "•", description: "", note: "" }));
+    const categories = window.CellViaSchema.categoryDefinitions || window.CellViaSeed.productCategories || window.CellViaSeed.categories.map((name) => ({ name, icon: "•", description: "", note: "" }));
     if (qs("#product-categories")) {
       setHtml("#product-categories", categories.map((category) => `
-        <article>
+        <article class="catalog-category-card" data-catalog-category="${escapeHtml(category.name)}" tabindex="0">
           <span aria-hidden="true">${escapeHtml(category.icon || "•")}</span>
           <strong>${escapeHtml(category.name)}</strong>
           <p>${escapeHtml(category.description || "")}</p>
@@ -52,6 +53,8 @@
     if (packageSelect) packageSelect.innerHTML = `<option value="">Alla paketkopplingar</option>${packageTags.map((tag) => `<option>${escapeHtml(tag)}</option>`).join("")}`;
     const statuses = [...new Set(repo().products.all().map((product) => product.compatibilityStatus))];
     if (statusSelect) statusSelect.innerHTML = `<option value="">Alla kompatibiliteter</option>${statuses.map((status) => `<option>${escapeHtml(status)}</option>`).join("")}`;
+    const availability = [...new Set(repo().products.all().map((product) => product.stockStatus).filter(Boolean))].sort((a, b) => a.localeCompare(b, "sv"));
+    if (availabilitySelect) availabilitySelect.innerHTML = `<option value="">All tillgänglighet</option>${availability.map((status) => `<option>${escapeHtml(status)}</option>`).join("")}`;
     const sourceCategories = [...new Set(repo().products.all().map((product) => product.sourceCategory).filter(Boolean))].sort((a, b) => a.localeCompare(b, "sv"));
     if (sourceCategorySelect) sourceCategorySelect.innerHTML = `<option value="">Alla leverantörskategorier</option>${sourceCategories.map((category) => `<option>${escapeHtml(category)}</option>`).join("")}`;
     if (sortSelect) sortSelect.innerHTML = `<option value="recommended">Populärt</option><option value="name">Namn A-Ö</option><option value="price-asc">Pris: lägst först</option><option value="price-desc">Pris: högst först</option><option value="status">Kompatibilitet först</option>`;
@@ -80,6 +83,7 @@
         prisonId,
         packageTag: packageSelect?.value || "",
         status: statusSelect?.value || "",
+        availability: availabilitySelect?.value || "",
         sourceCategory: sourceCategorySelect?.value || ""
       };
       const filterKey = JSON.stringify({ ...filters, sort: sortSelect?.value || "" });
@@ -101,6 +105,17 @@
     }
 
     qsa("[data-product-filter]").forEach((input) => input.addEventListener("input", render));
+    window.CellViaDom.on(document, "click", "[data-catalog-category]", (_, card) => {
+      if (!categorySelect) return;
+      categorySelect.value = card.dataset.catalogCategory || "";
+      render();
+      qs("#products-grid")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    });
+    window.CellViaDom.on(document, "keydown", "[data-catalog-category]", (event, card) => {
+      if (event.key !== "Enter" && event.key !== " ") return;
+      event.preventDefault();
+      card.click();
+    });
     window.CellViaDom.on(document, "click", "[data-add-product]", (_, button) => {
       const current = window.CellViaStore.read("cellvia-cart-v2", []);
       window.CellViaStore.write("cellvia-cart-v2", [...new Set([...current, button.dataset.addProduct])]);
@@ -121,9 +136,11 @@
     }
     document.title = `${product.name} | CellVia`;
     const compatiblePrisons = product.compatiblePrisons.map((id) => repo().prisons.find(id)).filter(Boolean);
+    const image = product.image || product.fallbackImage || "assets/images/products/vardag.svg";
+    const fallback = product.fallbackImage || "assets/images/products/vardag.svg";
     setHtml("#product-detail", `
       <section class="detail-layout">
-        <img class="detail-image" src="${escapeHtml(product.image)}" alt="${escapeHtml(product.name)}" loading="lazy" decoding="async" />
+        <img class="detail-image" src="${escapeHtml(image)}" alt="${escapeHtml(product.name)}" loading="lazy" decoding="async" onerror="this.onerror=null;this.src='${escapeHtml(fallback)}';" />
         <div>
           <span class="badge ${window.CellViaFormat.slugify(product.compatibilityStatus)}">${escapeHtml(product.compatibilityStatus)}</span>
           <h1>${escapeHtml(product.name)}</h1>
@@ -134,11 +151,13 @@
           <p>${escapeHtml(product.compatibilityNote || window.CellViaSeed.complianceNotice)}</p>
           <p>${escapeHtml(window.CellViaSeed.legalNotice)}</p>
           <dl class="meta-list">
-            <div><dt>Kategori</dt><dd>${escapeHtml(product.category)}</dd></div>
+            <div><dt>Kategori</dt><dd>${escapeHtml(product.catalogCategory || product.category)}</dd></div>
+            <div><dt>Ursprunglig kategori</dt><dd>${escapeHtml(product.category)}</dd></div>
             <div><dt>Lager</dt><dd>${escapeHtml(product.stockStatus)}</dd></div>
             <div><dt>CellVia-kontroll</dt><dd>${product.checkedByCellVia ? "Förkontrollerad" : "Extra verifiering"}</dd></div>
             <div><dt>Manuell kontroll</dt><dd>${product.requiresManualReview ? "Ja" : "Nej"}</dd></div>
           </dl>
+          <div class="institutional-note"><strong>Förberedelse</strong><p>${escapeHtml(product.packagingNote || "Produkten förbereds med dokumentation, tydlig packning och kontroll mot vald anstalts kända rutiner.")}</p></div>
           ${(product.packageTags || []).length ? `<h2>Ingår ofta i</h2><div class="tag-row">${product.packageTags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}</div>` : ""}
           ${product.sourceUrl ? `<h2>Källa</h2><p><a class="text-link" href="${escapeHtml(product.sourceUrl)}" target="_blank" rel="noreferrer">Visa produkt hos ${escapeHtml(product.source || "leverantör")}</a></p>` : ""}
           <h2>Noteringar</h2>

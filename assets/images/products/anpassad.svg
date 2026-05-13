@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Anpassat produktval med dokumentation">
+  <rect width="640" height="480" fill="#f7f7f2"/>
+  <ellipse cx="320" cy="386" rx="230" ry="32" fill="#dfe4dc"/>
+  <rect x="172" y="142" width="152" height="214" rx="20" fill="#ffffff" stroke="#d1d9d1" stroke-width="5"/>
+  <path d="M204 198h88M204 244h88M204 290h62" stroke="#9fb7a8" stroke-width="8" stroke-linecap="round"/>
+  <rect x="350" y="186" width="116" height="142" rx="18" fill="#e8ddcc" stroke="#d2c5b6" stroke-width="5"/>
+  <circle cx="468" cy="174" r="30" fill="#6f8d78"/>
+  <path d="M453 174l10 10 22-24" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+  <path d="M124 405c88 20 344 20 430 0" fill="none" stroke="#ccd6cd" stroke-width="8" stroke-linecap="round"/>
+</svg>

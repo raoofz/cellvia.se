@@ -5,7 +5,7 @@
 
   function mount() {
     const pricing = window.CellViaPackageWorkflow.pricing;
-    const statuses = [...new Set(repo().packages.all().map((pack) => pack.compatibilityLevel || "Kräver kontroll"))];
+    const statuses = ["Vanligt lämplig", "Kräver kontroll", "Begränsad", "Manuell kontroll"];
     const purposes = [
       ["popular", "Populära paket"],
       ["first", "Rekommenderas för första leverans"],
@@ -13,7 +13,7 @@
     ];
     const statusSelect = qs("#package-compatibility");
     const purposeSelect = qs("#package-purpose");
-    if (statusSelect) statusSelect.innerHTML = `<option value="">Alla kompatibiliteter</option>${statuses.map((status) => `<option>${escapeHtml(status)}</option>`).join("")}`;
+    if (statusSelect) statusSelect.innerHTML = `<option value="">Alla paket</option>${statuses.map((status) => `<option>${escapeHtml(status)}</option>`).join("")}`;
     if (purposeSelect) purposeSelect.innerHTML = `<option value="">Alla pakettyper</option>${purposes.map(([value, label]) => `<option value="${value}">${label}</option>`).join("")}`;
 
     function render() {
@@ -27,7 +27,8 @@
           || (purpose === "popular" && pack.popular)
           || (purpose === "first" && pack.firstDelivery)
           || (purpose === "extra" && (level.includes("kontroll") || level.includes("Begränsad")));
-        return (!query || text.includes(query)) && (!status || pack.compatibilityLevel === status) && purposeMatch;
+        const statusMatch = !status || pack.compatibilityLevel === status || (status === "Manuell kontroll" && /kontroll|begränsad/i.test(pack.compatibilityLevel || ""));
+        return (!query || text.includes(query)) && statusMatch && purposeMatch;
       });
       setHtml("#packages-grid", (filtered.length ? filtered.map((pack) => window.CellViaPackageCard.packageCard(pack, repo(), pricing)).join("") : `<div class="empty-state">Inga paket matchar filtret. Prova en bredare sökning.</div>`) + `
         <article class="data-card custom">

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Hygienprodukter pa ljus yta">
+  <rect width="640" height="480" fill="#f7f7f2"/>
+  <ellipse cx="320" cy="388" rx="226" ry="34" fill="#dfe4dc"/>
+  <rect x="184" y="145" width="94" height="220" rx="18" fill="#f4efe4" stroke="#cfd7ca" stroke-width="4"/>
+  <rect x="206" y="117" width="50" height="34" rx="8" fill="#9fb7a8"/>
+  <rect x="207" y="220" width="48" height="84" rx="8" fill="#ffffff" opacity=".78"/>
+  <rect x="319" y="176" width="130" height="168" rx="22" fill="#ffffff" stroke="#d2d9cf" stroke-width="4"/>
+  <path d="M338 176h92l-14-36h-64z" fill="#e7eadf" stroke="#d2d9cf" stroke-width="4"/>
+  <rect x="352" y="235" width="65" height="58" rx="8" fill="#dfe9e1"/>
+  <circle cx="475" cy="332" r="37" fill="#e9dccd" stroke="#d2c3b6" stroke-width="4"/>
+  <path d="M120 393c78 24 322 26 430 2" fill="none" stroke="#cfd7ca" stroke-width="8" stroke-linecap="round"/>
+</svg>

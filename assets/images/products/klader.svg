@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Vikta basplagg pa textil">
+  <rect width="640" height="480" fill="#f5f4ee"/>
+  <path d="M145 338h350c30 0 54 24 54 54v18H102v-25c0-26 19-47 43-47z" fill="#d9dfd5"/>
+  <path d="M175 268h310c24 0 44 20 44 44v34H133v-36c0-23 19-42 42-42z" fill="#ffffff" stroke="#d4d9d0" stroke-width="5"/>
+  <path d="M206 178h246c25 0 45 20 45 45v60H160v-59c0-25 21-46 46-46z" fill="#e6e1d5" stroke="#d2cfc3" stroke-width="5"/>
+  <path d="M238 148c42 22 114 22 156 0l35 35H203z" fill="#f8f8f3" stroke="#d4d9d0" stroke-width="5"/>
+  <path d="M112 415c98 18 336 18 430 0" fill="none" stroke="#cfd6cd" stroke-width="8" stroke-linecap="round"/>
+</svg>

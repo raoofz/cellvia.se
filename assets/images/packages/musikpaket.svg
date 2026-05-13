@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="Musikpaket som kraver kontroll">
+  <rect width="720" height="440" fill="#f4f6f1"/><ellipse cx="360" cy="354" rx="260" ry="34" fill="#dfe4dc"/>
+  <circle cx="280" cy="238" r="72" fill="#fffdfa" stroke="#cfd8d0" stroke-width="7"/><circle cx="280" cy="238" r="22" fill="#e4ebe4"/>
+  <path d="M402 255c0-72 42-116 103-116s103 44 103 116" fill="none" stroke="#203027" stroke-width="14" stroke-linecap="round"/>
+  <rect x="382" y="244" width="52" height="84" rx="22" fill="#31483c"/><rect x="578" y="244" width="52" height="84" rx="22" fill="#31483c"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Batterier tydligt placerade pa ljus yta">
+  <rect width="640" height="480" fill="#f7f7f2"/>
+  <ellipse cx="320" cy="378" rx="220" ry="32" fill="#dde3dc"/>
+  <rect x="170" y="190" width="210" height="74" rx="20" fill="#ffffff" stroke="#cfd7cf" stroke-width="6"/>
+  <rect x="380" y="211" width="30" height="32" rx="8" fill="#cfd7cf"/>
+  <rect x="215" y="207" width="78" height="40" rx="8" fill="#d7bf7a"/>
+  <rect x="235" y="290" width="210" height="74" rx="20" fill="#ffffff" stroke="#cfd7cf" stroke-width="6"/>
+  <rect x="445" y="311" width="30" height="32" rx="8" fill="#cfd7cf"/>
+  <rect x="280" y="307" width="78" height="40" rx="8" fill="#6d8d78"/>
+  <path d="M130 398c90 20 330 22 414 0" fill="none" stroke="#cfd7cf" stroke-width="8" stroke-linecap="round"/>
+</svg>

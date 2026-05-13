@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="Basvardagspaket med flera basprodukter">
+  <rect width="720" height="440" fill="#f6f5ef"/><ellipse cx="360" cy="356" rx="260" ry="34" fill="#dfe4dc"/>
+  <rect x="150" y="130" width="410" height="210" rx="26" fill="#fffdfa" stroke="#d3d9d0" stroke-width="6"/>
+  <rect x="202" y="174" width="88" height="118" rx="14" fill="#e9e1d4"/><rect x="318" y="174" width="118" height="118" rx="14" fill="#eef3eb"/>
+  <rect x="464" y="174" width="56" height="118" rx="14" fill="#6f8d78"/>
+</svg>

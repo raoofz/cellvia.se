@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="Startpaket packat och dokumenterat">
+  <rect width="720" height="440" fill="#f6f5ef"/><ellipse cx="360" cy="354" rx="260" ry="34" fill="#dfe4dc"/>
+  <rect x="188" y="130" width="344" height="206" rx="24" fill="#fffdf8" stroke="#d3d9d0" stroke-width="6"/>
+  <path d="M188 188h344" stroke="#d3d9d0" stroke-width="6"/><path d="M282 130v206" stroke="#d3d9d0" stroke-width="6"/>
+  <circle cx="458" cy="234" r="44" fill="#6f8d78"/><path d="M438 234l14 14 30-34" fill="none" stroke="#fff" stroke-width="9" stroke-linecap="round"/>
+</svg>

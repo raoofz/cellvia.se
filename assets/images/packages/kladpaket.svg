@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="Kladpaket med vikta basplagg">
+  <rect width="720" height="440" fill="#f5f4ee"/><ellipse cx="360" cy="354" rx="260" ry="34" fill="#dfe4dc"/>
+  <path d="M180 286h360c28 0 52 24 52 52v18H128v-20c0-28 23-50 52-50z" fill="#d9dfd5"/>
+  <rect x="168" y="214" width="382" height="100" rx="22" fill="#fffdfa" stroke="#d4d9d0" stroke-width="6"/>
+  <path d="M248 156c48 24 126 24 174 0l42 58H206z" fill="#e8e1d5" stroke="#d4d0c3" stroke-width="6"/>
+</svg>

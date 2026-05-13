@@ -43,13 +43,12 @@
           <div id="create-steps" class="process-steps"></div>
           <form id="create-order-form" class="form-grid">
             <label>Namn på intagen <input id="inmate-name" autocomplete="name" /></label>
-            <label>Klientnummer / intagningsnummer <input id="inmate-number" aria-describedby="inmate-number-help" /></label>
-            <p id="inmate-number-help" class="field-help">Ange intagningsnummer istället för referens om du har det. Detta hjälper till att minska risken för fel mottagare.</p>
+            <label>Intagen nummer <input id="inmate-number" aria-describedby="inmate-number-help" /></label>
+            <p id="inmate-number-help" class="field-help">Ange intagen nummer om du har det. Detta hjälper till att minska risken för fel mottagare och underlättar hanteringen.</p>
             <label>Anstalt <select id="create-prison"></select></label>
-            <label>Avdelning om känd <input id="inmate-department" /></label>
-            <label>Kundens namn <input id="customer-name" autocomplete="name" /></label>
+            <label>Avdelning / avdelningsnummer <input id="inmate-department" aria-describedby="inmate-department-help" /></label>
+            <p id="inmate-department-help" class="field-help">Ange avdelning eller avdelningsnummer om du känner till det. Fältet är frivilligt.</p>
             <label>Kundens e-post <input id="customer-email" type="text" inputmode="email" autocomplete="email" /></label>
-            <label>Kundens telefon <input id="customer-phone" type="tel" autocomplete="tel" /></label>
             <label>Särskilda noteringar <textarea id="order-notes" placeholder="Exempel: storlek, språk, försiktighet eller familjens fråga"></textarea></label>
             <div class="checkbox-field"><input id="order-consent" type="checkbox" /> <label for="order-consent">Jag förstår att anstalten alltid gör slutlig kontroll och kan neka innehåll även om produkten är förberedd.</label></div>
             <button class="button primary" type="submit">Skicka beställning</button>

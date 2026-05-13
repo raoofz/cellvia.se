@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="Anpassat paket med kontrollista">
+  <rect width="720" height="440" fill="#f6f5ef"/><ellipse cx="360" cy="354" rx="260" ry="34" fill="#dfe4dc"/>
+  <rect x="172" y="108" width="220" height="246" rx="20" fill="#fffdfa" stroke="#d3d9d0" stroke-width="6"/>
+  <path d="M220 178h120M220 232h120M220 286h82" stroke="#9fb7a8" stroke-width="9" stroke-linecap="round"/>
+  <rect x="430" y="176" width="122" height="122" rx="22" fill="#e8ddcc" stroke="#d2c5b6" stroke-width="5"/>
+  <circle cx="540" cy="160" r="34" fill="#6f8d78"/><path d="M522 160l12 12 28-32" fill="none" stroke="#fff" stroke-width="8" stroke-linecap="round"/>
+</svg>

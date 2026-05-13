@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Horlurar och CD pa neutral yta">
+  <rect width="640" height="480" fill="#f4f6f1"/>
+  <ellipse cx="322" cy="380" rx="238" ry="34" fill="#dce4dd"/>
+  <circle cx="252" cy="274" r="70" fill="#fdfdfb" stroke="#cfd8d0" stroke-width="7"/>
+  <circle cx="252" cy="274" r="18" fill="#e4ebe4"/>
+  <path d="M354 285c0-78 45-126 112-126s111 48 111 126" fill="none" stroke="#203027" stroke-width="14" stroke-linecap="round"/>
+  <rect x="330" y="269" width="56" height="92" rx="22" fill="#31483c"/>
+  <rect x="545" y="269" width="56" height="92" rx="22" fill="#31483c"/>
+  <path d="M120 396c78 20 352 24 430 2" fill="none" stroke="#cfd8d0" stroke-width="8" stroke-linecap="round"/>
+</svg>

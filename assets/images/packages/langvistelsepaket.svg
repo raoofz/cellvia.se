@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="Langvistelsepaket med stegvis kontroll">
+  <rect width="720" height="440" fill="#f7f7f2"/><ellipse cx="360" cy="356" rx="260" ry="34" fill="#dfe4dc"/>
+  <rect x="150" y="118" width="420" height="220" rx="28" fill="#fffdfa" stroke="#d3d9d0" stroke-width="6"/>
+  <rect x="204" y="170" width="72" height="112" rx="14" fill="#e8ddcc"/><rect x="304" y="170" width="72" height="112" rx="14" fill="#ffffff" stroke="#d3d9d0" stroke-width="4"/>
+  <rect x="404" y="170" width="72" height="112" rx="14" fill="#6f8d78"/><circle cx="526" cy="148" r="34" fill="#335f4a"/>
+  <path d="M509 148l11 12 24-29" fill="none" stroke="#fff" stroke-width="7" stroke-linecap="round"/>
+</svg>

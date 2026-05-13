@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="Lugn svensk institutionsbyggnad klass 3">
+  <rect width="720" height="440" fill="#f6f5ef"/><ellipse cx="360" cy="372" rx="260" ry="28" fill="#dfe5df"/>
+  <rect x="152" y="174" width="416" height="154" rx="16" fill="#fffdfa" stroke="#cfd8d0" stroke-width="6"/>
+  <path d="M142 174h436l-54-56H196z" fill="#e7ded1" stroke="#cfd8d0" stroke-width="6"/>
+  <g fill="#9fb4a6"><rect x="206" y="218" width="52" height="42" rx="6"/><rect x="314" y="218" width="52" height="42" rx="6"/><rect x="422" y="218" width="52" height="42" rx="6"/></g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 480" role="img" aria-label="Vardagsprodukter ordnade pa bord">
+  <rect width="640" height="480" fill="#f6f5ef"/>
+  <ellipse cx="320" cy="386" rx="230" ry="33" fill="#dfe4dc"/>
+  <rect x="156" y="172" width="142" height="178" rx="22" fill="#fffdfa" stroke="#d6d9d0" stroke-width="5"/>
+  <rect x="184" y="212" width="86" height="34" rx="8" fill="#e2e9df"/>
+  <circle cx="392" cy="254" r="72" fill="#e8ddcc" stroke="#d4c6b5" stroke-width="5"/>
+  <rect x="432" y="288" width="80" height="58" rx="14" fill="#ffffff" stroke="#d6d9d0" stroke-width="5"/>
+  <path d="M116 405c100 17 340 18 430 0" fill="none" stroke="#cfd7cf" stroke-width="8" stroke-linecap="round"/>
+</svg>

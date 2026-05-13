@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 440" role="img" aria-label="Skrivpaket med block och kuvert">
+  <rect width="720" height="440" fill="#f6f4ee"/><ellipse cx="360" cy="356" rx="260" ry="34" fill="#dfe4dc"/>
+  <rect x="188" y="112" width="245" height="230" rx="18" fill="#fffdfa" stroke="#d6d7cf" stroke-width="6"/>
+  <path d="M230 178h160M230 230h160M230 282h122" stroke="#dfe5dc" stroke-width="8" stroke-linecap="round"/>
+  <rect x="468" y="132" width="25" height="210" rx="12" fill="#335f4a"/>
+</svg>
