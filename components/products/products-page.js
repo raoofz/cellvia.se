@@ -109,13 +109,14 @@
         .filter((product) => {
           const packageCount = (product.packageTags || []).length;
           const text = [product.catalogCategory, product.category, product.sourceCategory, product.name].join(" ").toLowerCase();
+          const stock = (product.stockStatus || "").toLowerCase();
           const matchesSecurity = !securityPrisonIds || (product.compatiblePrisons || []).some((id) => securityPrisonIds.has(id)) || product.requiresManualReview;
           const matchesQuick = !activeQuickFilter
             || (activeQuickFilter === "popular" && (product.featured || packageCount > 0 || product.checkedByCellVia))
             || (activeQuickFilter === "ready-package" && packageCount > 0)
             || (activeQuickFilter === "electronics" && /elektronik|musik|ljud|hörlur|batteri|cd/i.test(text))
             || (activeQuickFilter === "most-ordered" && (product.featured || packageCount > 1))
-            || (activeQuickFilter === "low-stock" && /begränsat|slut|lågt|lag/i.test(product.stockStatus || ""))
+            || (activeQuickFilter === "low-stock" && /begränsat|tillfälligt slut|ej i lager|slut|lågt/.test(stock))
             || (activeQuickFilter === "new" && product.source);
           return matchesSecurity && matchesQuick;
         });

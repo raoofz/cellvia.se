@@ -6,8 +6,7 @@
     { status: "Beställning mottagen", label: "Mottagen", note: "Ordern är registrerad och väntar på första kontroll." },
     { status: "Produkter kontrolleras", label: "Kontrolleras", note: "CellVia granskar produkter, kategori och anstaltsvägledning." },
     { status: "Paket förbereds", label: "Paketeras", note: "Innehåll packas, dokumenteras och stäms av mot ordern." },
-    { status: "Verifierad", label: "Verifierad", note: "Avvikelser, kvitto/faktura och packningsnoteringar är genomgångna." },
-    { status: "Överlämnad till transport", label: "Överlämnad", note: "Paketet är överlämnat till transportflöde mot anstalt." },
+    { status: "Skickat till anstalt", label: "Skickat", note: "Paketet har skickats vidare enligt dokumenterad orderinformation." },
     { status: "Väntar på intern kontroll", label: "Anstaltskontroll", note: "Slutlig kontroll och beslut görs av anstalten." }
   ];
 

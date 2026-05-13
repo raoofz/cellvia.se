@@ -5,11 +5,12 @@
   const { badge } = window.CellViaBadges;
 
   const homeCategories = [
-    { name: "Hygien", icon: "H", categories: ["Hygien & personlig vård"], description: "Tvål, tandkräm och milda basprodukter.", href: "produkter.html?category=Hygien%20%26%20personlig%20v%C3%A5rd" },
-    { name: "Hörlurar", icon: "L", categories: ["Hörlurar"], description: "Enkla modeller och tydliga varningar.", href: "produkter.html?category=H%C3%B6rlurar" },
-    { name: "Kläder", icon: "K", categories: ["Kläder & basplagg"], description: "Basplagg utan hårda detaljer.", href: "produkter.html?category=Kl%C3%A4der%20%26%20basplagg" },
-    { name: "Böcker & skrivmaterial", icon: "S", categories: ["Böcker & skrivmaterial", "Brev & dokument"], description: "Brev, block och enkla böcker.", href: "produkter.html?category=B%C3%B6cker%20%26%20skrivmaterial" },
-    { name: "Elektronik", icon: "E", categories: ["CD-spelare & enklare elektronik", "Batterier"], description: "Visas med extra kontroll före köp.", href: "produkter.html?category=CD-spelare%20%26%20enklare%20elektronik" },
+    { name: "Hygien", icon: "H", categories: ["Hygien"], description: "Tvål, tandkräm och milda basprodukter.", href: "produkter.html?category=Hygien" },
+    { name: "Hörlurar", icon: "L", categories: ["Musik & ljud"], description: "Enkla modeller och tydliga varningar.", href: "produkter.html?category=Musik%20%26%20ljud" },
+    { name: "Kläder", icon: "K", categories: ["Kläder"], description: "Basplagg utan hårda detaljer.", href: "produkter.html?category=Kl%C3%A4der" },
+    { name: "Böcker", icon: "B", categories: ["Böcker & läsning"], description: "Böcker och läsmaterial.", href: "produkter.html?category=B%C3%B6cker%20%26%20l%C3%A4sning" },
+    { name: "Skrivmaterial", icon: "S", categories: ["Skrivmaterial"], description: "Brev, block och enkla skrivval.", href: "produkter.html?category=Skrivmaterial" },
+    { name: "Elektronik", icon: "E", categories: ["Elektronik med kontroll", "Batterier"], description: "Visas med extra kontroll före köp.", href: "produkter.html?category=Elektronik%20med%20kontroll" },
     { name: "Färdiga paket", icon: "P", categories: [], description: "Startpaket och tydliga paketval.", href: "paket.html", isPackage: true }
   ];
 
@@ -18,7 +19,7 @@
 
   function categoryCount(item) {
     if (item.isPackage) return `${repo().packages.all().length} paket`;
-    const count = repo().products.all().filter((product) => item.categories.includes(product.category)).length;
+    const count = repo().products.all().filter((product) => item.categories.includes(product.catalogCategory || product.category) || item.categories.includes(product.category)).length;
     return `${count} produkter`;
   }
 
