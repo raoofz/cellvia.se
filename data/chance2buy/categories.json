@@ -1,0 +1,491 @@
+[
+  {
+    "sourceId": 23,
+    "name": "Audio",
+    "slug": "audio",
+    "parentId": null,
+    "path": [
+      "Audio"
+    ],
+    "sourceCount": 23,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Audio.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/audio"
+  },
+  {
+    "sourceId": 52,
+    "name": "Begagnade skivor",
+    "slug": "begagnade-skivor",
+    "parentId": null,
+    "path": [
+      "Begagnade skivor"
+    ],
+    "sourceCount": 807,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/cdskivorbeg.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/begagnade-skivor"
+  },
+  {
+    "sourceId": 84,
+    "name": "Country",
+    "slug": "country",
+    "parentId": 52,
+    "path": [
+      "Begagnade skivor",
+      "Country"
+    ],
+    "sourceCount": 17,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/begagnade-skivor/country"
+  },
+  {
+    "sourceId": 82,
+    "name": "Elektroniskt",
+    "slug": "elektroniskt",
+    "parentId": 52,
+    "path": [
+      "Begagnade skivor",
+      "Elektroniskt"
+    ],
+    "sourceCount": 16,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/begagnade-skivor/elektroniskt"
+  },
+  {
+    "sourceId": 83,
+    "name": "Jazz",
+    "slug": "jazz",
+    "parentId": 52,
+    "path": [
+      "Begagnade skivor",
+      "Jazz"
+    ],
+    "sourceCount": 22,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/begagnade-skivor/jazz"
+  },
+  {
+    "sourceId": 81,
+    "name": "Lugn musik",
+    "slug": "lugn-musik-begagnade-skivor",
+    "parentId": 52,
+    "path": [
+      "Begagnade skivor",
+      "Lugn musik"
+    ],
+    "sourceCount": 128,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/begagnade-skivor/lugn-musik-begagnade-skivor"
+  },
+  {
+    "sourceId": 77,
+    "name": "Pop",
+    "slug": "pop-begagnade-skivor",
+    "parentId": 52,
+    "path": [
+      "Begagnade skivor",
+      "Pop"
+    ],
+    "sourceCount": 128,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/begagnade-skivor/pop-begagnade-skivor"
+  },
+  {
+    "sourceId": 80,
+    "name": "Punk",
+    "slug": "punk",
+    "parentId": 52,
+    "path": [
+      "Begagnade skivor",
+      "Punk"
+    ],
+    "sourceCount": 9,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/begagnade-skivor/punk"
+  },
+  {
+    "sourceId": 91,
+    "name": "R&B",
+    "slug": "rnb",
+    "parentId": 52,
+    "path": [
+      "Begagnade skivor",
+      "R&B"
+    ],
+    "sourceCount": 4,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/begagnade-skivor/rnb"
+  },
+  {
+    "sourceId": 79,
+    "name": "Reggae",
+    "slug": "reggae",
+    "parentId": 52,
+    "path": [
+      "Begagnade skivor",
+      "Reggae"
+    ],
+    "sourceCount": 3,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/begagnade-skivor/reggae"
+  },
+  {
+    "sourceId": 72,
+    "name": "Rock",
+    "slug": "rock-begagnade-skivor",
+    "parentId": 52,
+    "path": [
+      "Begagnade skivor",
+      "Rock"
+    ],
+    "sourceCount": 182,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/begagnade-skivor/rock-begagnade-skivor"
+  },
+  {
+    "sourceId": 76,
+    "name": "Samlingsskivor",
+    "slug": "samlingsskivor-begagnade-skivor",
+    "parentId": 52,
+    "path": [
+      "Begagnade skivor",
+      "Samlingsskivor"
+    ],
+    "sourceCount": 362,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/begagnade-skivor/samlingsskivor-begagnade-skivor"
+  },
+  {
+    "sourceId": 75,
+    "name": "Svenskt",
+    "slug": "svenskt-begagnade-skivor",
+    "parentId": 52,
+    "path": [
+      "Begagnade skivor",
+      "Svenskt"
+    ],
+    "sourceCount": 32,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/begagnade-skivor/svenskt-begagnade-skivor"
+  },
+  {
+    "sourceId": 78,
+    "name": "Världsmusik",
+    "slug": "varlden",
+    "parentId": 52,
+    "path": [
+      "Begagnade skivor",
+      "Världsmusik"
+    ],
+    "sourceCount": 71,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/begagnade-skivor/varlden"
+  },
+  {
+    "sourceId": 34,
+    "name": "Brev & vykort",
+    "slug": "brev-och-vykort",
+    "parentId": null,
+    "path": [
+      "Brev & vykort"
+    ],
+    "sourceCount": 8,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/vykort.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/brev-och-vykort"
+  },
+  {
+    "sourceId": 22,
+    "name": "Böcker",
+    "slug": "bocker",
+    "parentId": null,
+    "path": [
+      "Böcker"
+    ],
+    "sourceCount": 8,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Bok-1.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/bocker"
+  },
+  {
+    "sourceId": 38,
+    "name": "För henne",
+    "slug": "for-henne",
+    "parentId": null,
+    "path": [
+      "För henne"
+    ],
+    "sourceCount": 10,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/sportbh-1.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/for-henne"
+  },
+  {
+    "sourceId": 36,
+    "name": "Hobby & fritid",
+    "slug": "hobby-fritid",
+    "parentId": null,
+    "path": [
+      "Hobby & fritid"
+    ],
+    "sourceCount": 25,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Soduko-1.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/hobby-fritid"
+  },
+  {
+    "sourceId": 18,
+    "name": "Hygien",
+    "slug": "hygien",
+    "parentId": null,
+    "path": [
+      "Hygien"
+    ],
+    "sourceCount": 25,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/hygien.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/hygien"
+  },
+  {
+    "sourceId": 21,
+    "name": "Klockor",
+    "slug": "klockor",
+    "parentId": null,
+    "path": [
+      "Klockor"
+    ],
+    "sourceCount": 17,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/klocka.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/klockor"
+  },
+  {
+    "sourceId": 20,
+    "name": "Kläder",
+    "slug": "klader",
+    "parentId": null,
+    "path": [
+      "Kläder"
+    ],
+    "sourceCount": 10,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/underklader-1.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/klader"
+  },
+  {
+    "sourceId": 35,
+    "name": "Kontaktlinser",
+    "slug": "kontaktlinser",
+    "parentId": null,
+    "path": [
+      "Kontaktlinser"
+    ],
+    "sourceCount": 2,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/kontaktlinser.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/kontaktlinser"
+  },
+  {
+    "sourceId": 89,
+    "name": "Muck och permission",
+    "slug": "muck-och-permission",
+    "parentId": null,
+    "path": [
+      "Muck och permission"
+    ],
+    "sourceCount": 13,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/MoP.jpeg",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/muck-och-permission"
+  },
+  {
+    "sourceId": 24,
+    "name": "Musik",
+    "slug": "musik",
+    "parentId": null,
+    "path": [
+      "Musik"
+    ],
+    "sourceCount": 167,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/musik.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/musik"
+  },
+  {
+    "sourceId": 66,
+    "name": "Hiphop",
+    "slug": "hiphop",
+    "parentId": 24,
+    "path": [
+      "Musik",
+      "Hiphop"
+    ],
+    "sourceCount": 82,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/musik/hiphop"
+  },
+  {
+    "sourceId": 86,
+    "name": "K-Pop",
+    "slug": "k-pop",
+    "parentId": 24,
+    "path": [
+      "Musik",
+      "K-Pop"
+    ],
+    "sourceCount": 3,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/musik/k-pop"
+  },
+  {
+    "sourceId": 70,
+    "name": "Lugn musik",
+    "slug": "lugn-musik",
+    "parentId": 24,
+    "path": [
+      "Musik",
+      "Lugn musik"
+    ],
+    "sourceCount": 1,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/musik/lugn-musik"
+  },
+  {
+    "sourceId": 65,
+    "name": "Pop",
+    "slug": "pop",
+    "parentId": 24,
+    "path": [
+      "Musik",
+      "Pop"
+    ],
+    "sourceCount": 36,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/musik/pop"
+  },
+  {
+    "sourceId": 87,
+    "name": "Reggaeton",
+    "slug": "reggaeton",
+    "parentId": 24,
+    "path": [
+      "Musik",
+      "Reggaeton"
+    ],
+    "sourceCount": 4,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/musik/reggaeton"
+  },
+  {
+    "sourceId": 64,
+    "name": "Rock / Metal",
+    "slug": "rock",
+    "parentId": 24,
+    "path": [
+      "Musik",
+      "Rock / Metal"
+    ],
+    "sourceCount": 36,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/musik/rock"
+  },
+  {
+    "sourceId": 71,
+    "name": "Samlingsskivor",
+    "slug": "samlingsskivor",
+    "parentId": 24,
+    "path": [
+      "Musik",
+      "Samlingsskivor"
+    ],
+    "sourceCount": 6,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/musik/samlingsskivor"
+  },
+  {
+    "sourceId": 67,
+    "name": "Svenskt",
+    "slug": "svenskt",
+    "parentId": 24,
+    "path": [
+      "Musik",
+      "Svenskt"
+    ],
+    "sourceCount": 5,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/musik/svenskt"
+  },
+  {
+    "sourceId": 88,
+    "name": "Techno / Dance",
+    "slug": "tachno-dance",
+    "parentId": 24,
+    "path": [
+      "Musik",
+      "Techno / Dance"
+    ],
+    "sourceCount": 3,
+    "image": "",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/musik/tachno-dance"
+  },
+  {
+    "sourceId": 30,
+    "name": "Presentkort",
+    "slug": "presentkort",
+    "parentId": null,
+    "path": [
+      "Presentkort"
+    ],
+    "sourceCount": 3,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/presentkort.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/presentkort"
+  },
+  {
+    "sourceId": 48,
+    "name": "RemoveMe anonymisering",
+    "slug": "removeme-anonymisering",
+    "parentId": null,
+    "path": [
+      "RemoveMe anonymisering"
+    ],
+    "sourceCount": 1,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/remove.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/removeme-anonymisering"
+  },
+  {
+    "sourceId": 33,
+    "name": "Skor",
+    "slug": "skor",
+    "parentId": null,
+    "path": [
+      "Skor"
+    ],
+    "sourceCount": 16,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/skor.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/skor"
+  },
+  {
+    "sourceId": 25,
+    "name": "Smycken",
+    "slug": "ovrigt",
+    "parentId": null,
+    "path": [
+      "Smycken"
+    ],
+    "sourceCount": 11,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/smycken.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/ovrigt"
+  },
+  {
+    "sourceId": 41,
+    "name": "Tidningsprenumerationer",
+    "slug": "tidningar",
+    "parentId": null,
+    "path": [
+      "Tidningsprenumerationer"
+    ],
+    "sourceCount": 62,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Tidningar-1.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/tidningar"
+  },
+  {
+    "sourceId": 19,
+    "name": "Träning",
+    "slug": "traning",
+    "parentId": null,
+    "path": [
+      "Träning"
+    ],
+    "sourceCount": 17,
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/traning.png",
+    "sourceUrl": "https://www.chance2buy.se/produkt-kategori/traning"
+  }
+]

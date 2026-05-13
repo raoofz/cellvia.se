@@ -1,11 +1,12 @@
 const fs = require("node:fs");
 const path = require("node:path");
 
-const sourceDir = "C:/Users/raoof/OneDrive/Desktop/data/chance2buy";
 const outDir = path.join(__dirname, "..", "data", "chance2buy");
-const rawProducts = JSON.parse(fs.readFileSync(path.join(sourceDir, "products.json"), "utf8"));
-const rawCategories = JSON.parse(fs.readFileSync(path.join(sourceDir, "categories.json"), "utf8"));
-const summary = JSON.parse(fs.readFileSync(path.join(sourceDir, "summary.json"), "utf8"));
+const productsFile = fs.existsSync(path.join(outDir, "products-local.json")) ? "products-local.json" : "products.json";
+const categoriesFile = fs.existsSync(path.join(outDir, "categories-local.json")) ? "categories-local.json" : "categories.json";
+const rawProducts = JSON.parse(fs.readFileSync(path.join(outDir, productsFile), "utf8"));
+const rawCategories = JSON.parse(fs.readFileSync(path.join(outDir, categoriesFile), "utf8"));
+const summary = JSON.parse(fs.readFileSync(path.join(outDir, "summary.json"), "utf8"));
 
 const externalNotice = "Extern katalogprodukt. CellVia behöver kontrollera produkt, förpackning, kvitto/faktura och vald anstalts rutiner innan leverans.";
 
@@ -48,6 +49,10 @@ function imageFor(category) {
   return "assets/images/process-products.jpg";
 }
 
+function productImageFor(product, category) {
+  return product.localImage || imageFor(category);
+}
+
 function descriptionFor(product, category) {
   const base = product.shortDescription || product.description;
   if (base && base.length > 12) return base.slice(0, 220);
@@ -69,8 +74,9 @@ const products = rawProducts.map((product) => {
     category,
     packageTags: tagsFor(category, product.topCategory),
     price: Math.round(Number(product.price || 0)),
-    image: imageFor(category),
-    sourceImage: product.thumbnail || product.image || "",
+    image: productImageFor(product, category),
+    sourceImage: product.originalImage || product.thumbnail || product.image || "",
+    localImage: product.localImage || "",
     description: descriptionFor(product, category),
     usefulFor: `Kan vara relevant som katalogval inom ${product.topCategory}. Produkten visas som vägledning och kräver kontroll före köp och leverans.`,
     compatibilityStatus: status,
@@ -98,6 +104,8 @@ const categories = rawCategories.map((category) => ({
   sourceCount: category.sourceCount,
   mappedCategory: mapCategory(category.path?.[0] || category.name),
   image: category.image,
+  localImage: category.localImage || "",
+  sourceImage: category.originalImage || category.image || "",
   sourceUrl: category.sourceUrl
 }));
 

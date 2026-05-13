@@ -29,7 +29,7 @@
           || (purpose === "extra" && (level.includes("kontroll") || level.includes("Begränsad")));
         return (!query || text.includes(query)) && (!status || pack.compatibilityLevel === status) && purposeMatch;
       });
-      setHtml("#packages-grid", filtered.map((pack) => window.CellViaPackageCard.packageCard(pack, repo(), pricing)).join("") + `
+      setHtml("#packages-grid", (filtered.length ? filtered.map((pack) => window.CellViaPackageCard.packageCard(pack, repo(), pricing)).join("") : `<div class="empty-state">Inga paket matchar filtret. Prova en bredare sökning.</div>`) + `
         <article class="data-card custom">
           <div class="data-card-body">
             <h3>Skapa eget paket</h3>

@@ -1,0 +1,83 @@
+{
+  "source": "https://www.chance2buy.se",
+  "generatedAt": "2026-05-13T00:43:34.287Z",
+  "rawProductCount": 1225,
+  "savedProductCount": 1202,
+  "removedProductCount": 23,
+  "rawCategoryCount": 40,
+  "savedCategoryCount": 39,
+  "topCategories": [
+    {
+      "name": "Audio",
+      "count": 23
+    },
+    {
+      "name": "Begagnade skivor",
+      "count": 807
+    },
+    {
+      "name": "Brev & vykort",
+      "count": 8
+    },
+    {
+      "name": "Böcker",
+      "count": 8
+    },
+    {
+      "name": "För henne",
+      "count": 10
+    },
+    {
+      "name": "Hobby & fritid",
+      "count": 22
+    },
+    {
+      "name": "Hygien",
+      "count": 22
+    },
+    {
+      "name": "Klockor",
+      "count": 15
+    },
+    {
+      "name": "Kläder",
+      "count": 6
+    },
+    {
+      "name": "Kontaktlinser",
+      "count": 2
+    },
+    {
+      "name": "Muck och permission",
+      "count": 13
+    },
+    {
+      "name": "Musik",
+      "count": 167
+    },
+    {
+      "name": "Presentkort",
+      "count": 3
+    },
+    {
+      "name": "RemoveMe anonymisering",
+      "count": 1
+    },
+    {
+      "name": "Skor",
+      "count": 14
+    },
+    {
+      "name": "Smycken",
+      "count": 11
+    },
+    {
+      "name": "Tidningsprenumerationer",
+      "count": 64
+    },
+    {
+      "name": "Träning",
+      "count": 6
+    }
+  ]
+}

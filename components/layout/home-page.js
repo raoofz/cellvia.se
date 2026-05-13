@@ -6,16 +6,14 @@
 
   const homeCategories = [
     { name: "Hygien", icon: "H", categories: ["Hygien & personlig vård"], description: "Tvål, tandkräm och milda basprodukter.", href: "produkter.html?category=Hygien%20%26%20personlig%20v%C3%A5rd" },
-    { name: "Elektronik", icon: "E", categories: ["CD-spelare & enklare elektronik"], description: "Visas med extra kontroll före köp.", href: "produkter.html?category=CD-spelare%20%26%20enklare%20elektronik" },
     { name: "Hörlurar", icon: "L", categories: ["Hörlurar"], description: "Enkla modeller och tydliga varningar.", href: "produkter.html?category=H%C3%B6rlurar" },
-    { name: "CD-spelare", icon: "C", categories: ["CD-spelare & enklare elektronik"], description: "Endast efter anstaltskontroll.", href: "produkter.html?category=CD-spelare%20%26%20enklare%20elektronik" },
-    { name: "Batterier", icon: "B", categories: ["Batterier"], description: "Riskkategori som kräver försiktighet.", href: "produkter.html?category=Batterier" },
     { name: "Kläder", icon: "K", categories: ["Kläder & basplagg"], description: "Basplagg utan hårda detaljer.", href: "produkter.html?category=Kl%C3%A4der%20%26%20basplagg" },
     { name: "Böcker & skrivmaterial", icon: "S", categories: ["Böcker & skrivmaterial", "Brev & dokument"], description: "Brev, block och enkla böcker.", href: "produkter.html?category=B%C3%B6cker%20%26%20skrivmaterial" },
+    { name: "Elektronik", icon: "E", categories: ["CD-spelare & enklare elektronik", "Batterier"], description: "Visas med extra kontroll före köp.", href: "produkter.html?category=CD-spelare%20%26%20enklare%20elektronik" },
     { name: "Färdiga paket", icon: "P", categories: [], description: "Startpaket och tydliga paketval.", href: "paket.html", isPackage: true }
   ];
 
-  const featuredProductIds = ["mild-tval", "tandkram", "brev-kit", "skrivblock", "pocketbok", "bomullsstrumpor", "horlurar-kabel", "cd-spelare-enkel"];
+  const featuredProductIds = ["mild-tval", "tandkram", "brev-kit", "skrivblock", "pocketbok", "bomullsstrumpor"];
   const featuredPackageIds = ["startpaket", "hygienpaket", "musikpaket", "langvistelsepaket"];
 
   function categoryCount(item) {

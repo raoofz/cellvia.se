@@ -1,0 +1,738 @@
+[
+  {
+    "sourceId": 6449,
+    "id": "chance2buy-6449",
+    "name": "Swank",
+    "slug": "swank",
+    "sku": "8229",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Swank.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2026/03/Swank-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/swank",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 6448,
+    "id": "chance2buy-6448",
+    "name": "Fox",
+    "slug": "fox",
+    "sku": "8228",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/Fox285_FrontCover.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2026/03/Fox285_FrontCover-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/fox",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 6447,
+    "id": "chance2buy-6447",
+    "name": "Girls next door",
+    "slug": "girls-next-door",
+    "sku": "8227",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/03/GirlsNextDoor270_FrontCover.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2026/03/GirlsNextDoor270_FrontCover-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/girls-next-door",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 4866,
+    "id": "chance2buy-4866",
+    "name": "Spanska herrtidningar",
+    "slug": "spanska-herrtidningar",
+    "sku": "8501",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 99,
+    "currency": "SEK",
+    "priceText": "99,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Spanska herrtidningar till extra lågt pris. Vi har inledningsvis en blandning med tio olika nummer som skickas slumpvis (om du beställer mer än en så får du självklart olika tidningar). Innan du beställer herrtidningar, kontrollera att det är tillåtet på just din anhöriges häkte/anstalt då reglerna skiljer sig åt.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2026/01/Spansk-2.jpeg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2026/01/Spansk-2-420x556.jpeg",
+    "sourceUrl": "https://www.chance2buy.se/butik/spanska-herrtidningar",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 3507,
+    "id": "chance2buy-3507",
+    "name": "Club Asian",
+    "slug": "club-asian",
+    "sku": "8226",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/11/ClubAsian.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/11/ClubAsian-420x586.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/club-asian",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 3240,
+    "id": "chance2buy-3240",
+    "name": "Kalender 2026 ”Big boobs”",
+    "slug": "kalender-2026-big-boobs",
+    "sku": "8303",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 49,
+    "currency": "SEK",
+    "priceText": "99,00 kr Det ursprungliga priset var: 99,00kr. 49,00 kr Det nuvarande priset är: 49,00kr.",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Väggkalendrar för 2026 är äntligen här! En ny härlig avklädd bild varje månad. Kalendern är häftad (ej spiral). Innan du beställer kalender, kontrollera att det är tillåtet på just din anhöriges anstalt.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Big-Boobs-kalender.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/09/Big-Boobs-kalender-420x542.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/kalender-2026-big-boobs",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 3236,
+    "id": "chance2buy-3236",
+    "name": "Magazine DORCEL",
+    "slug": "magazine-dorcel",
+    "sku": "8401",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 199,
+    "currency": "SEK",
+    "priceText": "199,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Magazine DORCEL är en mycket uppskattad och exklusiv fransk herrtidning. Vi har inledningsvis en blandning med fem olika nummer som skickas slumpvis (om du beställer mer än en så får du självklart olika tidningar). Innan du beställer herrtidningar, kontrollera att det är tillåtet på just din anhöriges anstalt.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Dorcel2.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/09/Dorcel2.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/magazine-dorcel",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 3196,
+    "id": "chance2buy-3196",
+    "name": "Petite",
+    "slug": "petite",
+    "sku": "8222",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Petite357_FrontCover.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/09/Petite357_FrontCover-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/petite",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 3195,
+    "id": "chance2buy-3195",
+    "name": "Gallery",
+    "slug": "gallery",
+    "sku": "8225",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/Gallery267_FrontCover.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/09/Gallery267_FrontCover-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/gallery",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 3194,
+    "id": "chance2buy-3194",
+    "name": "Finally Legal",
+    "slug": "finally-legal",
+    "sku": "8223",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/FinallyLegal357_FrontCover.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/09/FinallyLegal357_FrontCover-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/finally-legal",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 3193,
+    "id": "chance2buy-3193",
+    "name": "Hometown Girls",
+    "slug": "hometown-girls",
+    "sku": "8224",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/09/HometownGirls272_FrontCover.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/09/HometownGirls272_FrontCover-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/hometown-girls",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 2811,
+    "id": "chance2buy-2811",
+    "name": "40+",
+    "slug": "40",
+    "sku": "8221",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/40-plus.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/07/40-plus-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/40",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 2810,
+    "id": "chance2buy-2810",
+    "name": "40 Something",
+    "slug": "40-something",
+    "sku": "8220",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/40-something.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/07/40-something-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/40-something",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 2809,
+    "id": "chance2buy-2809",
+    "name": "MILFs 50+",
+    "slug": "milfs",
+    "sku": "8219",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/milfs.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/07/milfs-420x573.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/milfs",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 2808,
+    "id": "chance2buy-2808",
+    "name": "Thick ´n´ Curvy",
+    "slug": "thick-n-curvy",
+    "sku": "8218",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "Slut i lager",
+    "isInStock": false,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Tyvärr har förlaget meddelat att de inte längre trycker några nya Thick ’n’ Curvy. Denna tidning utgår därmed ur vårt sortiment. Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/thick-n-curvy.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/07/thick-n-curvy-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/thick-n-curvy",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 2807,
+    "id": "chance2buy-2807",
+    "name": "Voluptuous",
+    "slug": "voluptuous",
+    "sku": "8217",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/voluptuous.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/07/voluptuous-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/voluptuous",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 2806,
+    "id": "chance2buy-2806",
+    "name": "Score",
+    "slug": "score",
+    "sku": "8216",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/Score.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/07/Score-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/score",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 2805,
+    "id": "chance2buy-2805",
+    "name": "High Society",
+    "slug": "high-society",
+    "sku": "8215",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/HighSociety.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/07/HighSociety-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/high-society",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 2804,
+    "id": "chance2buy-2804",
+    "name": "Club USA",
+    "slug": "club-usa",
+    "sku": "8214",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/Club-USA.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/07/Club-USA-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/club-usa",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 2803,
+    "id": "chance2buy-2803",
+    "name": "Cheri",
+    "slug": "cheri",
+    "sku": "8213",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/Cheri.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/07/Cheri-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/cheri",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 2802,
+    "id": "chance2buy-2802",
+    "name": "18+",
+    "slug": "18",
+    "sku": "8212",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/18-plus.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/07/18-plus-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/18",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 2801,
+    "id": "chance2buy-2801",
+    "name": "18Eighteen",
+    "slug": "18eighteen",
+    "sku": "8211",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/18Eighteen.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/07/18Eighteen-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/18eighteen",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  },
+  {
+    "sourceId": 2800,
+    "id": "chance2buy-2800",
+    "name": "Naughty Neighbours",
+    "slug": "naughty-neighbours",
+    "sku": "8210",
+    "topCategory": "Avklätt",
+    "categories": [
+      "Avklätt"
+    ],
+    "categorySlugs": [
+      "avklatt"
+    ],
+    "categoryPaths": [
+      [
+        "Avklätt"
+      ]
+    ],
+    "price": 179,
+    "currency": "SEK",
+    "priceText": "179,00 kr",
+    "stockStatus": "I lager",
+    "isInStock": true,
+    "isPurchasable": true,
+    "shortDescription": "",
+    "description": "Amerikansk herrtidning av hög kvalitet. Observera att vi endast säljer titeln, inte en specifik utgåva. Exakt vilken utgåva du får beror på vilken utgåva vi har i lager just då. Därmed kan det bli en annan utgåva än den på bilden, men såklart samma titel. Innan du beställer herrtidningar, kontrollera att det är tillåtet på just den anstalt där din anhörige sitter då reglerna ser olika ut.",
+    "image": "https://www.chance2buy.se/wp-content/uploads/2025/07/naughty-neighbors.jpg",
+    "thumbnail": "https://www.chance2buy.se/wp-content/uploads/2025/07/naughty-neighbors-420x571.jpg",
+    "sourceUrl": "https://www.chance2buy.se/butik/naughty-neighbours",
+    "scrapedAt": "2026-05-13T00:43:34.287Z",
+    "removedReason": "Adult magazine/category filtered per request"
+  }
+]

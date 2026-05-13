@@ -23,7 +23,7 @@
       { label: "Mottagare", done: Boolean(state.inmateName && state.inmateNumber) },
       { label: "Anstalt", done: Boolean(state.prisonId) },
       { label: "Produkter", done: state.productIds.length > 0 },
-      { label: "Kontroll", done: Boolean(state.prisonId && state.productIds.length > 0) },
+      { label: "Kund", done: Boolean(state.customerName && state.customerEmail) },
       { label: "Bekräftelse", done: false }
     ];
     setHtml("#create-steps", steps.map((step, index) => `
@@ -153,14 +153,21 @@
       });
     });
 
-    qsa("#inmate-name, #inmate-number, #order-notes").forEach((input) => {
-      input.addEventListener("input", () => {
+    qsa("#inmate-name, #inmate-number, #inmate-department, #customer-name, #customer-email, #customer-phone, #order-notes, #order-consent").forEach((input) => {
+      const syncFormState = () => {
         state.set({
           inmateName: qs("#inmate-name")?.value || "",
           inmateNumber: qs("#inmate-number")?.value || "",
+          inmateDepartment: qs("#inmate-department")?.value || "",
+          customerName: qs("#customer-name")?.value || "",
+          customerEmail: qs("#customer-email")?.value || "",
+          customerPhone: qs("#customer-phone")?.value || "",
+          consent: Boolean(qs("#order-consent")?.checked),
           notes: qs("#order-notes")?.value || ""
         });
-      });
+      };
+      input.addEventListener("input", syncFormState);
+      input.addEventListener("change", syncFormState);
     });
 
     window.CellViaDom.on(document, "click", "[data-create-add]", (_, button) => state.addProduct(button.dataset.createAdd));
@@ -188,6 +195,11 @@
         ...state.get(),
         inmateName: qs("#inmate-name").value,
         inmateNumber: qs("#inmate-number").value,
+        inmateDepartment: qs("#inmate-department").value,
+        customerName: qs("#customer-name").value,
+        customerEmail: qs("#customer-email").value,
+        customerPhone: qs("#customer-phone").value,
+        consent: qs("#order-consent").checked,
         prisonId: prisonSelect.value,
         notes: qs("#order-notes").value
       };
