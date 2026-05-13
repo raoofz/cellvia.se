@@ -21,6 +21,7 @@
     <script src="components/cards/product-card.js" defer></script>
     <script src="components/cards/prison-card.js" defer></script>
     <script src="components/cards/package-card.js" defer></script>
+    <script src="components/layout/home-page.js" defer></script>
     <script src="lib/state/package-state.js" defer></script>
     <script src="components/forms/package-workflow.js" defer></script>
     <script src="components/products/products-page.js" defer></script>
@@ -70,9 +71,6 @@
             <a class="button secondary" href="produkter.html">Se produkter</a>
             <a class="button tertiary" href="skapa-paket.html">Skapa paket</a>
           </div>
-          <div class="legal-note">
-            <p>Slutlig kontroll och beslut görs alltid av anstalten. CellVia försöker arbeta i linje med anstalternas rutiner för att minska fel, oklarheter och onödiga returer.</p>
-          </div>
         </div>
         <figure class="hero-image">
           <img src="assets/images/hero-handover.jpg" alt="En svensk anstaltsmedarbetare tar emot ett CellVia-paket på ett lugnt och respektfullt sätt" />
@@ -94,117 +92,75 @@
         </article>
       </section>
 
-      <section class="responsibility" id="ansvar">
-        <div class="responsibility-media">
-          <img src="assets/images/cellvia-worker.jpg" alt="CellVia-medarbetare förbereder ett paket med omsorg" loading="lazy" decoding="async" />
-        </div>
-        <div class="responsibility-copy">
-          <span>Vi tar ansvar för hela processen</span>
-          <h2>Vi köper, kontrollerar och förbereder varje paket innan leverans</h2>
-          <p>CellVia köper in produkterna, kontrollerar dem, packar dem omsorgsfullt och skickar paketet vidare till anstalten.</p>
-          <p>Målet är att göra processen enklare för familjer och minska risken för fel, oklarheter och onödiga returer.</p>
-          <div class="responsibility-points">
-            <article><strong>Vi kontrollerar produkterna innan leverans</strong><p>Varje produkt granskas mot vald anstalts kända rutiner.</p></article>
-            <article><strong>Vi packar paketet själva</strong><p>CellVia förbereder och packar innehållet omsorgsfullt.</p></article>
-            <article><strong>Vi anpassar innehållet efter vald anstalt</strong><p>Olika anstalter kan ha olika rutiner och begränsningar.</p></article>
-            <article><strong>Vi dokumenterar innehållet internt</strong><p>Innehållet sparas tydligt i ordern för uppföljning.</p></article>
-            <article><strong>Slutlig bedömning görs alltid av anstalten</strong><p>CellVia kan minska risken för fel, men beslutet ligger hos anstalten.</p></article>
-          </div>
-          <figure class="packing-proof">
-            <img src="assets/images/documented-packing.jpg" alt="Ett öppet paket packas omsorgsfullt av CellVia" loading="lazy" decoding="async" />
-            <figcaption>
-              <strong>Dokumenterad packning</strong>
-              <span>Kontroll, märkning och försegling i ett sammanhållet flöde.</span>
-            </figcaption>
-          </figure>
-        </div>
-      </section>
-
-      <section class="preparation">
+      <section class="preparation home-process">
         <div class="section-head">
-          <span>Så förbereds ett paket</span>
-          <h2>Tre enkla steg, utan teknisk krångel</h2>
+          <span>Så fungerar CellVia</span>
+          <h2>Korta steg från val till förberett paket</h2>
         </div>
         <div class="preparation-grid">
           <article>
             <img src="assets/images/process-products.jpg" alt="Produkter ligger ordnade på ett bord inför packning" loading="lazy" decoding="async" />
-            <h3>Produkterna väljs ut</h3>
+            <h3>Välj anstalt och produkter</h3>
           </article>
           <article>
             <img src="assets/images/cellvia-worker.jpg" alt="CellVia-medarbetare kontrollerar och förbereder ett paket" loading="lazy" decoding="async" />
-            <h3>Vi kontrollerar och förbereder paketet</h3>
+            <h3>CellVia köper in och kontrollerar</h3>
           </article>
           <article>
             <img src="assets/images/process-sealed-package.jpg" alt="Ett stängt och prydligt CellVia-paket står redo för leverans" loading="lazy" decoding="async" />
-            <h3>Paketet skickas vidare till anstalten</h3>
+            <h3>Paketet packas och skickas vidare</h3>
           </article>
         </div>
       </section>
 
-      <section class="how">
+      <section class="categories home-catalog" id="produkter">
         <div class="section-head">
-          <span>Så fungerar det</span>
-          <h2>En lugn väg från familj till förberett paket</h2>
+          <span>Produkter</span>
+          <h2>Välj kategori först</h2>
         </div>
-        <div class="flow">
-          <article><h3>1. Kontrollera anstalt</h3><p>Sök fram aktuell anstalt och se vad som behöver beaktas.</p></article>
-          <article><h3>2. Välj produkter</h3><p>Välj produkter som kan förberedas utifrån mottagningens krav.</p></article>
-          <article><h3>3. CellVia förbereder</h3><p>Vi kontrollerar, anpassar och packar med omsorg.</p></article>
-          <article><h3>4. Paketet skickas vidare</h3><p>Paketet lämnas vidare med tydlig information och dokumentation.</p></article>
+        <div id="home-category-grid" class="home-category-grid"></div>
+      </section>
+
+      <section class="home-products" aria-labelledby="popular-products-title">
+        <div class="section-head">
+          <span>Populära val</span>
+          <h2 id="popular-products-title">Produkter som är enkla att börja med</h2>
         </div>
+        <div id="home-product-grid" class="home-product-grid"></div>
+      </section>
+
+      <section class="packages home-packages" id="paket">
+        <div class="section-head">
+          <span>Paket</span>
+          <h2>Färdiga paket för enklare start</h2>
+        </div>
+        <div id="home-package-grid" class="home-package-grid"></div>
       </section>
 
       <section class="prison-search" id="anstalter">
         <div class="search-copy">
           <h2>Sök anstalt</h2>
-          <p>Börja med mottagningen. Olika anstalter kan ha olika regler, begränsningar och rutiner.</p>
+          <p>Börja med mottagningen. Då visas produkter och paket med rätt försiktighetsnivå.</p>
           <div class="search-row">
             <input aria-label="Sök anstalt" placeholder="Sök anstalt, ort eller område" />
             <button type="button" data-home-prison-search>Sök</button>
           </div>
         </div>
         <aside class="prison-card">
-          <h3>Exempel: Saltvik Anstalt</h3>
-          <p>Kontrollera alltid aktuell information innan paketet förbereds.</p>
-          <a href="produkter.html">Visa produktkategorier</a>
-          <a href="paket.html">Se paketförslag</a>
+          <h3>Kompatibilitet först</h3>
+          <p>Regler kan skilja sig mellan anstalter och ändras över tid.</p>
+          <a href="anstalter.html">Visa alla anstalter</a>
+          <a href="skapa-paket.html">Skapa paket</a>
         </aside>
       </section>
 
-      <section class="categories" id="produkter">
-        <div class="section-head compact">
-          <span>Produkter</span>
-          <h2>Kompatibla produktkategorier</h2>
-        </div>
-        <div class="category-row">
-          <article><h3>Hygien</h3><p>Ex. tvål, tandkräm, schampo</p></article>
-          <article><h3>Skriv & papper</h3><p>Ex. papper, kuvert, frimärken</p></article>
-          <article><h3>Kläder & textil</h3><p>Ex. strumpor, underkläder</p></article>
-          <article><h3>Böcker & media</h3><p>Ex. böcker och enkel ljudmedia</p></article>
-          <article class="support"><h3>Osäker på en produkt?</h3><p>Vi hjälper dig förstå vad som behöver kontrolleras.</p></article>
-        </div>
-      </section>
-
-      <section class="packages" id="paket">
-        <div class="section-head compact">
-          <span>Paket</span>
-          <h2>Färdiga paketförslag</h2>
-        </div>
-        <div class="package-grid">
-          <article><h3>Bas - Hygien</h3><p>Vanliga hygienprodukter för vardagen.</p><ul><li>Produkter väljs ut</li><li>Förpackning anpassas</li><li>CellVia förbereder paketet</li></ul><a href="paket.html#bas-hygien">Visa innehåll</a></article>
-          <article><h3>Skriv & papper</h3><p>För brev, studier och vardagskontakt.</p><ul><li>Papper och kuvert</li><li>Enkel kontroll</li><li>Tydlig förberedelse</li></ul><a href="paket.html#brev-kontakt">Visa innehåll</a></article>
-          <article><h3>Komfort</h3><p>Varsamt utvalda basprodukter.</p><ul><li>Mjuka vardagsartiklar</li><li>Anpassas efter anstalt</li><li>Packas av CellVia</li></ul><a href="paket.html#komfort">Visa innehåll</a></article>
-          <article class="custom"><h3>Skapa eget paket</h3><p>Välj produkter själv och låt CellVia förbereda dem lugnt och tydligt.</p><a href="skapa-paket.html">Skapa eget</a></article>
-        </div>
-      </section>
-
-      <section class="family-support">
+      <section class="trust-note">
         <div>
-          <span>Human-Centered Institutional Support</span>
-          <h2>Det ska kännas enkelt att göra rätt</h2>
-          <p>CellVia är byggt för familjer som vill skicka med omtanke, men också med respekt för de regler som gäller.</p>
+          <span>Ansvarsfullt flöde</span>
+          <h2>Nya produkter, kvitto och dokumenterad packning</h2>
+          <p>CellVia köper in, kontrollerar och packar produkterna innan leverans. Slutlig kontroll och beslut görs alltid av anstalten.</p>
         </div>
-        <a class="button primary" href="anstalter.html">Börja med anstalt</a>
+        <a class="button primary" href="nasta-steg.html">Se nästa steg</a>
       </section>
 
       <section class="faq" id="hjälp">
@@ -212,10 +168,10 @@
           <h2>Vanliga frågor</h2>
         </div>
         <div class="faq-grid">
-          <details><summary>Kan CellVia garantera att ett paket godkänns?</summary><p>Nej. Kriminalvården gör alltid den slutliga bedömningen.</p></details>
+          <details><summary>Vem bedömer paketet till slut?</summary><p>Anstalten gör alltid den slutliga kontrollen.</p></details>
           <details><summary>Hur vet jag vad som kan skickas?</summary><p>Börja med anstalten och välj därefter produkter som kan kontrolleras och förberedas.</p></details>
-          <details><summary>Vad gör CellVia med produkterna?</summary><p>Vi granskar, anpassar förpackningen och förbereder paketet innan det skickas vidare.</p></details>
-          <details><summary>Vad händer om något är oklart?</summary><p>Produkten behöver då kontrolleras ytterligare, bytas ut eller tas bort.</p></details>
+          <details><summary>Kan jag välja färdigt paket?</summary><p>Ja. Startpaket, hygienpaket och skrivpaket är byggda för enklare val.</p></details>
+          <details><summary>Vad händer om något är oklart?</summary><p>Produkten markeras för extra kontroll eller byts mot ett lugnare alternativ.</p></details>
         </div>
       </section>
 

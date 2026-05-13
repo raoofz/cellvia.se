@@ -55,6 +55,10 @@
     const sourceCategories = [...new Set(repo().products.all().map((product) => product.sourceCategory).filter(Boolean))].sort((a, b) => a.localeCompare(b, "sv"));
     if (sourceCategorySelect) sourceCategorySelect.innerHTML = `<option value="">Alla leverantörskategorier</option>${sourceCategories.map((category) => `<option>${escapeHtml(category)}</option>`).join("")}`;
     if (sortSelect) sortSelect.innerHTML = `<option value="recommended">Rekommenderad ordning</option><option value="price-asc">Pris: lägst först</option><option value="price-desc">Pris: högst först</option><option value="name">Namn A-Ö</option><option value="status">Kompatibilitet</option>`;
+    const categoryParam = getParam("category");
+    if (categoryParam && categorySelect && [...categorySelect.options].some((option) => option.value === categoryParam)) {
+      categorySelect.value = categoryParam;
+    }
 
     function sortResults(results) {
       const mode = sortSelect?.value || "recommended";

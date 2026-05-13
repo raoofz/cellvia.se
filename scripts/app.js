@@ -1,5 +1,8 @@
 (() => {
   const routes = {
+    home: () => {
+      if (window.CellViaHomePage) window.CellViaHomePage.mount();
+    },
     products: () => window.CellViaProductsPage.mountList(),
     "product-detail": () => window.CellViaProductsPage.mountDetail(),
     prisons: () => window.CellViaPrisonsPage.mountList(),
