@@ -42,10 +42,10 @@
         <div>
           <div class="card-topline">${badge(product.compatibilityStatus)}</div>
           <h3>${escapeHtml(product.name)}</h3>
-          <p>${escapeHtml(product.category)}</p>
-          <small>${escapeHtml(product.compatibilityNote)}</small>
+          <p>${escapeHtml(product.catalogCategory || product.category)}</p>
+          <small>Kontrolleras före leverans</small>
           <div class="home-card-actions">
-            <a class="text-link" href="produkt.html?id=${escapeHtml(product.id)}">Visa detaljer</a>
+            <a class="button ghost small" href="produkt.html?id=${escapeHtml(product.id)}">Snabbvy</a>
             <a class="button small" href="skapa-paket.html?product=${escapeHtml(product.id)}">Lägg i paket</a>
           </div>
         </div>
