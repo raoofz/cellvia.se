@@ -1,18 +1,23 @@
 (() => {
-  const { qs, qsa, setHtml, getParam } = window.CellViaDom;
-  const { escapeHtml, formatCurrency } = window.CellViaFormat;
-  const { createProductCard } = window.CellViaProductCardV2;
-  const repo = () => window.CellViaRepository;
+  const { qs, qsa, setHtml, getParam } = window.CellViaDom || {};
+  const { escapeHtml, formatCurrency } = window.CellViaFormat || {};
+  const { createProductCard } = window.CellViaProductCardV2 || {};
 
   /**
-   * NEW PRODUCTS PAGE: Premium institutional presentation
-   * Focuses on:
-   * - Clean filtering interface
-   * - Compact product grid (180px cards)
-   * - Category-driven organization
-   * - Institutional compliance messaging
+   * PRODUCTS PAGE V2: Premium institutional product management
+   * Features:
+   * - Clean filter bar with search
+   * - Category rail with click-to-filter
+   * - Compact 180px product grid
+   * - Responsive design
+   * - Institutional messaging
    */
+
   function initProductsPage() {
+    if (!createProductCard) {
+      console.warn("ProductCard component not loaded");
+      return;
+    }
     renderFilters();
     renderCategories();
     renderProducts();
@@ -23,15 +28,17 @@
     const filterContainer = qs(".products-filter-section");
     if (!filterContainer) return;
 
-    const categories = window.CellViaSeed.productCategories || [];
-    const prisons = repo().prisons.all();
-    const availability = [...new Set(repo().products.all().map(p => p.stockStatus).filter(Boolean))];
-    const statuses = [...new Set(repo().products.all().map(p => p.compatibilityStatus).filter(Boolean))];
+    const categories = window.CellViaSeed?.productCategories || [];
+    const repo = window.CellViaRepository;
+    if (!repo) return;
+
+    const prisons = repo.prisons?.all?.() || [];
+    const statuses = [...new Set(repo.products?.all?.().map(p => p.compatibilityStatus).filter(Boolean))] || [];
 
     const filterHTML = `
       <div class="filter-bar">
         <input type="text" 
-               class="filter-input search-input" 
+               class="filter-input" 
                id="product-search"
                placeholder="Sök produkt eller beskrivning..."
                aria-label="Sök produkter" />
@@ -60,18 +67,14 @@
       </div>
 
       <div class="quick-filters">
-        ${[
-          ["popular", "🌟 Populärt"],
-          ["ready-package", "📦 I paket"],
-          ["low-stock", "⚡ Begränsat"],
-          ["new", "✨ Ny"]
-        ].map(([id, label]) => 
-          `<button type="button" class="quick-filter-btn" data-quick-filter="${id}">${escapeHtml(label)}</button>`
-        ).join("")}
+        <button type="button" class="quick-filter-btn" data-quick-filter="popular">🌟 Populärt</button>
+        <button type="button" class="quick-filter-btn" data-quick-filter="ready-package">📦 I paket</button>
+        <button type="button" class="quick-filter-btn" data-quick-filter="low-stock">⚡ Begränsat</button>
+        <button type="button" class="quick-filter-btn" data-quick-filter="new">✨ Ny</button>
       </div>
 
       <div class="institutional-message">
-        <h4 class="institutional-message-title">Kontroll & Kompatibilitet</h4>
+        <h4 class="institutional-message-title">KONTROLL & KOMPATIBILITET</h4>
         <p class="institutional-message-text">
           Alla produkter är förkontrollerade av CellVia. Slutlig bedömning görs alltid av anstalten.
         </p>
@@ -85,16 +88,24 @@
     const categoryContainer = qs(".category-rail");
     if (!categoryContainer) return;
 
-    const categories = window.CellViaSeed.productCategories || [];
-    const categoryHTML = categories.map(cat => `
-      <article class="category-card" data-category="${escapeHtml(cat.name || cat)}">
-        <span class="category-icon">${cat.icon || "•"}</span>
-        <h4 class="category-name">${escapeHtml(cat.name || cat)}</h4>
-        <p class="category-count">${repo().products.all().filter(p => 
-          (p.catalogCategory || p.category) === (cat.name || cat)
-        ).length} produkter</p>
-      </article>
-    `).join("");
+    const categories = window.CellViaSeed?.productCategories || [];
+    const repo = window.CellViaRepository;
+    if (!repo) return;
+
+    const categoryHTML = categories.map(cat => {
+      const catName = cat.name || cat;
+      const count = repo.products?.all?.().filter(p => 
+        (p.catalogCategory || p.category) === catName
+      ).length || 0;
+
+      return `
+        <article class="category-card" data-category="${escapeHtml(catName)}" role="button" tabindex="0">
+          <span class="category-icon">${cat.icon || "•"}</span>
+          <h4 class="category-name">${escapeHtml(catName)}</h4>
+          <p class="category-count">${count} produkter</p>
+        </article>
+      `;
+    }).join("");
 
     setHtml(categoryContainer, categoryHTML);
   }
@@ -103,7 +114,10 @@
     const gridContainer = qs(".products-grid");
     if (!gridContainer) return;
 
-    let products = repo().products.all();
+    const repo = window.CellViaRepository;
+    if (!repo) return;
+
+    let products = repo.products?.all?.() || [];
 
     // Apply search filter
     if (filters.query) {
@@ -154,7 +168,7 @@
 
     if (products.length === 0) {
       setHtml(gridContainer, `
-        <div class="empty-results">
+        <div class="empty-results" style="grid-column: 1 / -1;">
           <div class="empty-results-icon">◯</div>
           <h3 class="empty-results-title">Inga produkter hittades</h3>
           <p class="empty-results-text">Prova att justera filtren eller sök på något annat.</p>
@@ -198,36 +212,38 @@
 
   function attachEventListeners() {
     // Search input
-    qs("#product-search")?.addEventListener("input", () => collectAndRender());
-
+    qs("#product-search")?.addEventListener("input", collectAndRender);
     // Category select
-    qs("#product-category")?.addEventListener("change", () => collectAndRender());
-
+    qs("#product-category")?.addEventListener("change", collectAndRender);
     // Prison select
-    qs("#product-prison")?.addEventListener("change", () => collectAndRender());
-
+    qs("#product-prison")?.addEventListener("change", collectAndRender);
     // Status select
-    qs("#product-status")?.addEventListener("change", () => collectAndRender());
-
+    qs("#product-status")?.addEventListener("change", collectAndRender);
     // Sort select
-    qs("#product-sort")?.addEventListener("change", () => collectAndRender());
+    qs("#product-sort")?.addEventListener("change", collectAndRender);
 
     // Category cards
     qsa(".category-card").forEach(card => {
-      card.addEventListener("click", () => {
-        const category = card.dataset.category;
-        qs("#product-category").value = category;
+      card.addEventListener("click", function() {
+        const category = this.dataset.category;
+        const select = qs("#product-category");
+        if (select) select.value = category;
         qsa(".category-card").forEach(c => c.classList.remove("active"));
-        card.classList.add("active");
+        this.classList.add("active");
         collectAndRender();
+      });
+      card.addEventListener("keydown", function(e) {
+        if (e.key === "Enter" || e.key === " ") {
+          e.preventDefault();
+          this.click();
+        }
       });
     });
 
     // Quick filter buttons
     qsa("[data-quick-filter]").forEach(btn => {
-      btn.addEventListener("click", () => {
-        const filter = btn.dataset.quickFilter;
-        btn.classList.toggle("active");
+      btn.addEventListener("click", function() {
+        this.classList.toggle("active");
         collectAndRender();
       });
     });
@@ -236,7 +252,7 @@
     document.addEventListener("click", (e) => {
       if (e.target.classList.contains("product-add-btn")) {
         const productId = e.target.dataset.addProduct;
-        addToCart(productId);
+        addToCart(productId, e.target);
       }
     });
   }
@@ -258,13 +274,12 @@
     return activeBtn?.dataset.quickFilter || "";
   }
 
-  function addToCart(productId) {
+  function addToCart(productId, btn) {
     const current = window.CellViaStore?.read?.("cellvia-cart-v2", []) || [];
     const updated = [...new Set([...current, productId])];
     window.CellViaStore?.write?.("cellvia-cart-v2", updated);
     
     // Show feedback
-    const btn = qs(`[data-add-product="${productId}"]`);
     if (btn) {
       const originalText = btn.textContent;
       btn.textContent = "✓ Lagd till";
