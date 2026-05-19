@@ -46,24 +46,72 @@
   }
 
   function addSeoBasics() {
-    if (!document.querySelector('meta[property="og:title"]')) {
-      const title = document.createElement("meta");
-      title.setAttribute("property", "og:title");
-      title.setAttribute("content", document.title);
-      document.head.appendChild(title);
-    }
-    if (!document.querySelector('meta[property="og:description"]')) {
-      const description = document.querySelector('meta[name="description"]')?.getAttribute("content") || "CellVia hjälper familjer med tydligare paketförberedelse.";
-      const og = document.createElement("meta");
-      og.setAttribute("property", "og:description");
-      og.setAttribute("content", description);
-      document.head.appendChild(og);
-    }
-    if (!document.querySelector('meta[property="og:type"]')) {
-      const type = document.createElement("meta");
-      type.setAttribute("property", "og:type");
-      type.setAttribute("content", "website");
-      document.head.appendChild(type);
+    const pageTitle = document.title;
+    const pageDesc = document.querySelector('meta[name="description"]')?.getAttribute("content") || "CellVia - En svensk plattform för tryggare och tydligare paketförberedelse till anstalter.";
+    const pageUrl = window.location.href;
+
+    const metaTags = [
+      { property: "og:title", content: pageTitle },
+      { property: "og:description", content: pageDesc },
+      { property: "og:type", content: "website" },
+      { property: "og:url", content: pageUrl },
+      { name: "twitter:card", content: "summary_large_image" },
+      { name: "twitter:title", content: pageTitle },
+      { name: "twitter:description", content: pageDesc },
+      { name: "theme-color", content: "#1f6b4a" },
+      { name: "apple-mobile-web-app-capable", content: "yes" },
+      { name: "apple-mobile-web-app-status-bar-style", content: "black-translucent" }
+    ];
+
+    metaTags.forEach(tag => {
+      const attr = tag.property ? "property" : "name";
+      const selector = `meta[${attr}="${tag[attr]}"]`;
+      if (!document.querySelector(selector)) {
+        const meta = document.createElement("meta");
+        meta.setAttribute(attr, tag[attr]);
+        meta.setAttribute("content", tag.content);
+        document.head.appendChild(meta);
+      }
+    });
+
+    addJsonLd();
+  }
+
+  function addJsonLd() {
+    if (document.querySelector('script[type="application/ld+json"]')) return;
+
+    const baseData = {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "CellVia",
+      "url": "https://cellvia.se",
+      "description": "En svensk plattform för tryggare och tydligare paketförberedelse till anstalter",
+      "logo": "https://cellvia.se/assets/cellvia-logo.svg",
+      "sameAs": [
+        "https://www.linkedin.com/company/cellvia"
+      ]
+    };
+
+    const script = document.createElement("script");
+    script.type = "application/ld+json";
+    script.textContent = JSON.stringify(baseData);
+    document.head.appendChild(script);
+  }
+
+  function setupErrorTracking() {
+    window.addEventListener("error", (event) => {
+      console.error("Runtime error:", event.error);
+      trackEvent("error", { message: event.message, source: event.filename, line: event.lineno });
+    });
+    window.addEventListener("unhandledrejection", (event) => {
+      console.error("Unhandled promise rejection:", event.reason);
+      trackEvent("unhandledRejection", { reason: String(event.reason) });
+    });
+  }
+
+  function trackEvent(eventType, data) {
+    if (window.CellViaAnalytics && typeof window.CellViaAnalytics.track === "function") {
+      window.CellViaAnalytics.track(eventType, data);
     }
   }
 
@@ -73,6 +121,7 @@
     wireMobileNavigation();
     wireHomeSearch();
     addSeoBasics();
+    setupErrorTracking();
   }
 
   window.CellViaLayout = { mount };

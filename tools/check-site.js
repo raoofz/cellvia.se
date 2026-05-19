@@ -52,6 +52,8 @@ for (const file of htmlFiles) {
   if (!/<meta name="description"/.test(html)) fail(`Missing description: ${path.relative(root, file)}`);
   if (html.includes('type="module"')) fail(`Module script can break local file usage: ${path.relative(root, file)}`);
   const scriptOrder = [
+    "lib/analytics/tracking.js",
+    "lib/performance/optimizer.js",
     "data/seed/index.js",
     "lib/utils/format.js",
     "lib/utils/dom.js",

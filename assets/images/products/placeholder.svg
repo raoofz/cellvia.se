@@ -1,0 +1,18 @@
+<svg viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1f6b4a;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#104d33;stop-opacity:0.8" />
+    </linearGradient>
+  </defs>
+  <!-- Background rectangle -->
+  <rect x="0" y="0" width="120" height="120" fill="url(#grad2)"/>
+  <!-- Product icon representation -->
+  <circle cx="60" cy="40" r="12" fill="#ffffff" opacity="0.4"/>
+  <!-- Product container -->
+  <rect x="30" y="58" width="60" height="35" rx="3" fill="none" stroke="#ffffff" stroke-width="2" opacity="0.5"/>
+  <!-- Product lines -->
+  <line x1="40" y1="68" x2="80" y2="68" stroke="#ffffff" stroke-width="1.5" opacity="0.3"/>
+  <line x1="40" y1="75" x2="80" y2="75" stroke="#ffffff" stroke-width="1.5" opacity="0.3"/>
+  <line x1="40" y1="82" x2="70" y2="82" stroke="#ffffff" stroke-width="1.5" opacity="0.3"/>
+</svg>

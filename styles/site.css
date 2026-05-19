@@ -52,8 +52,9 @@ img { display: block; width: 100%; max-width: 100%; }
 .brand { gap: 10px; font-size: 32px; font-weight: 780; letter-spacing: 0; }
 .leaf-logo { width: 28px; height: 28px; fill: var(--green-2); flex: 0 0 auto; }
 .nav-links { gap: 32px; color: #20271f; font-size: 14px; font-weight: 620; }
-.nav-links a { padding: 28px 0 22px; border-bottom: 2px solid transparent; }
+.nav-links a { padding: 28px 0 22px; border-bottom: 2px solid transparent; transition: border-color 140ms ease, outline-offset 140ms ease; }
 .nav-links a.active { border-color: var(--green); }
+.nav-links a:focus-visible { outline: 2px solid var(--green); outline-offset: 2px; }
 .menu-toggle {
   display: none;
   min-height: 44px;
@@ -196,6 +197,10 @@ img { display: block; width: 100%; max-width: 100%; }
 }
 .button.tertiary:hover {
   background: #dcebe1;
+}
+.button:focus-visible, .nav-cta:focus-visible {
+  outline: 2px solid var(--green);
+  outline-offset: 2px;
 }
 .legal-note {
   max-width: 610px;
@@ -551,6 +556,13 @@ img { display: block; width: 100%; max-width: 100%; }
   padding: 0 14px;
   background: white;
   color: var(--text);
+  transition: border-color 140ms ease, box-shadow 140ms ease, outline-color 140ms ease;
+}
+.filters input:focus-visible, .filters select:focus-visible, .form-grid input:focus-visible, .form-grid select:focus-visible, .form-grid textarea:focus-visible, .admin-row select:focus-visible {
+  outline: 2px solid var(--green);
+  outline-offset: 0;
+  border-color: var(--green);
+  box-shadow: 0 0 0 3px rgba(16, 77, 51, 0.1);
 }
 .category-system {
   display: grid;
@@ -576,7 +588,10 @@ img { display: block; width: 100%; max-width: 100%; }
   transform: translateY(-2px);
   border-color: rgba(47, 94, 74, .28);
   box-shadow: 0 16px 34px rgba(32, 35, 31, .07);
-  outline: none;
+}
+.catalog-category-card:focus-visible {
+  outline: 2px solid var(--green);
+  outline-offset: 2px;
 }
 .category-system span {
   width: 34px;
