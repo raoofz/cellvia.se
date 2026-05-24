@@ -1,7 +1,7 @@
 (() => {
   const repo = () => window.CellViaRepository;
   const { escapeHtml, formatCurrency } = window.CellViaFormat;
-  const { setHtml } = window.CellViaDom;
+  const { setHtml, qs, on } = window.CellViaDom;
   const { badge } = window.CellViaBadges;
 
   const homeCategories = [
@@ -14,8 +14,10 @@
     { name: "Färdiga paket", icon: "P", categories: [], description: "Startpaket och tydliga paketval.", href: "paket.html", isPackage: true }
   ];
 
-  const featuredProductIds = ["mild-tval", "tandkram", "brev-kit", "skrivblock", "pocketbok", "bomullsstrumpor"];
   const featuredPackageIds = ["startpaket", "hygienpaket", "musikpaket", "langvistelsepaket"];
+  const ITEMS_PER_PAGE = 10;
+  let currentPage = 1;
+  let allProducts = [];
 
   function categoryCount(item) {
     if (item.isPackage) return `${repo().packages.all().length} paket`;
@@ -35,9 +37,8 @@
     `).join(""));
   }
 
-  function renderProducts() {
-    const products = featuredProductIds.map((id) => repo().products.find(id)).filter(Boolean);
-    setHtml("#home-product-grid", products.map((product) => `
+  function renderProductCard(product) {
+    return `
       <article class="home-product-card">
         <img src="${escapeHtml(product.image)}" alt="${escapeHtml(product.name)}" loading="lazy" decoding="async" />
         <div>
@@ -51,7 +52,44 @@
           </div>
         </div>
       </article>
-    `).join(""));
+    `;
+  }
+
+  function renderProducts(page = 1) {
+    const start = (page - 1) * ITEMS_PER_PAGE;
+    const end = start + ITEMS_PER_PAGE;
+    const products = allProducts.slice(start, end);
+
+    if (page === 1) {
+      setHtml("#home-product-grid", products.map(renderProductCard).join(""));
+    } else {
+      const grid = qs("#home-product-grid");
+      const html = products.map(renderProductCard).join("");
+      grid.innerHTML += html;
+    }
+
+    const hasMore = end < allProducts.length;
+    const loadMoreBtn = qs("#home-load-more-products");
+
+    if (loadMoreBtn) {
+      if (hasMore) {
+        loadMoreBtn.style.display = "flex";
+        loadMoreBtn.dataset.page = page + 1;
+      } else {
+        loadMoreBtn.style.display = "none";
+      }
+    }
+  }
+
+  function setupLoadMore() {
+    const btn = qs("#home-load-more-products");
+    if (btn) {
+      on(btn, "click", () => {
+        const nextPage = parseInt(btn.dataset.page) || 2;
+        renderProducts(nextPage);
+        window.scrollBy({ top: 200, behavior: "smooth" });
+      });
+    }
   }
 
   function renderPackages() {
@@ -71,8 +109,10 @@
   }
 
   function mount() {
+    allProducts = repo().products.all().slice(0, 100);
     renderCategories();
-    renderProducts();
+    renderProducts(1);
+    setupLoadMore();
     renderPackages();
   }
 
